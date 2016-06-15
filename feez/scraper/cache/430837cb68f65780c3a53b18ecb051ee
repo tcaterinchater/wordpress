@@ -1,0 +1,2843 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+X-Powered-By: Servlet 2.4; JBoss-4.2.1.GA (build: SVNTag=JBoss_4_2_1_GA date=200707131605)/Tomcat-5.5
+Set-Cookie: JSESSIONID=83F7AEB764529C78936836D12DF5C977; Path=/
+Content-Type: text/html;charset=UTF-8
+Date: Fri, 08 Nov 2013 00:52:59 GMT
+Set-Cookie: NSC_wjqqh_cjmmpsfjmmz.dpn=ffffffff09091d3945525d5f4f58455e445a4a423660;path=/;httponly
+Cache-Control: private
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This is from the Menu people for the MAC Compatiblity -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<link rel="P3Pv1" href="http://images.BillOReilly.com/w3c/p3p.xml">
+<title>Bill O'Reilly: Video Center</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+
+
+
+
+
+
+
+
+
+<meta name="robots" content="all">
+<meta name="description" content="Bill O'Reilly Official Home On The Web">
+<meta name="keywords" content="Killing Lincoln, Lincoln's Last Days, Killing Kennedy, Pinheads and Patriots, A Bold Fresh Piece of Humanity, Culture Warrior, The O'Reilly Factor For Kids, Who's Looking Out For You?, The No Spin Zone, The O'Reilly Factor, Those Who Trespass, bill o'reilly, bill oreilly, bill o'rielly, bill orielly, o'reilly, oreilly, o'rielly, orielly, fox news, oreilly factor, o'reilly factor, orielly factor, o'rielly factor, no spin zone, politics, commentary, talk show, host, outrage funnel, factor">
+<meta name="verify-v1" content="EhkIxnP5XzEFnLCjAFZzMb8Lfwde/w9vBDnFMgE1jCY=" />
+<meta http-equiv="Content-Language" content="EN">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="author" content="Nox Solutions">
+<meta name="distribution" content="Global">
+<meta name="revisit-after" content="1 days">
+<meta name="copyright" content="(C) 2002 BillOReilly.com All Rights Reserved">
+<meta name="robots" content="FOLLOW,INDEX"> 
+	
+		
+		
+		
+		
+		
+		
+		
+		
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/stylesheet.jsp" media="all">
+
+
+
+<link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/thumbnail/thumbnail.css">
+<link rel="alternate" type="application/rss+xml" href="/blog?rss=true&size=50&useBlurbs=true&categoryID=2" title="Bill O'Reilly RSS feed">
+
+
+
+<script src="/pg/jsp/common/utils/js/ajaxpage.js" type="text/javascript"></script>
+<script src="/pg/jsp/common/utils/js/nox.js" type="text/javascript"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/ufo.js"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/audio-player.js"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/flashembed.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/pg/jsp/common/utils/js/prototype.js"></script>
+
+<script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/jquery-1.7.1.js"></script>
+<script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/bbq/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/ui/jquery-ui-1.8.18.custom.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/js/jquery/themes/ui-lightness/jquery-ui-1.8.18.custom.css">
+
+<script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="/pg/jsp/common/utils/js/jquery/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+<script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/fancybox/nox_fancybox_utils.js"></script>
+
+
+
+<script language="JavaScript" type="text/javascript" src="/pg/jsp/common/utils/js/scriptaculous.js?load=effects,slider"></script>
+<script language="JavaScript" src="/pg/jsp/common/utils/thumbnail/thumbnail.js" type="text/javascript"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/flowplayer-3.1.4.min.js"></script>
+<script type="text/javascript" src="/pg/jsp/common/utils/js/popdownmodal.js"></script>
+<script type="text/javascript">
+   var onloads = new Array();
+   function bodyOnLoad() {
+   
+	  for ( var i = 0 ; i < onloads.length ; i++ )
+		 onloads[i]();
+   }	  
+
+	function playerNoScroll(play,w,h,name) {   
+		var play ;        
+		var name ;
+			  if ( h < ( screen.availHeight - 50 ) ) {
+					   h = h; }
+			  else {
+					   h = ( screen.availHeight - 50 ); }
+		viewer = "width="+w+",height="+h+",toolbar=no,scrollbars=no,resizable=no,status=no,location=no,directories=no";
+		popWin = window.open(play, name, viewer);
+	}
+</script>
+
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-383158-1']);
+  _gaq.push(['_trackPageview']);
+  
+
+
+
+ (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+  
+ </script>
+</head>
+<body oncontextmenu="hideddrivetip();" onLoad="javascript:bodyOnLoad()" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" width="755">
+<div id="modalBG" class="modalSiteBGOff" onClick="closePopdownContainer();"></div>
+<div id="siteWrapper">
+<div align="center"> 
+<div style="position:relative; z-index:9100;" class="modalPopdownWrapperWide" align="left" id="topProdImageViewWrapper"> 
+    <div style=" position:absolute; z-index:9100; display:none;" class="modalPopdownFrame" id="topProdImageViewContainer"> 
+        <div class="modalPopdownFrameBG"> 
+            <div class="modalPopdownInternal"> 
+                <div style="background-color:#FFFFFF;"> 
+                    <div style="position:relative; width:100%;"> 
+                        <div style="position:absolute; right:5px; margin-top:3px; width:20px; height:20px;" id="topProdImageViewCloseIcon"><a href="javascript://Close" onClick="closePopdownContainer();"><img src="http://images.BillOReilly.com/images/popdown/close_icon_blue_off.png" border="0" onMouseOver="this.src='http://images.BillOReilly.com/images/popdown/close_icon_blue_on.png';" onMouseOut="this.src='http://images.BillOReilly.com/images/popdown/close_icon_blue_off.png';"></a></div> 
+                    </div> 
+                    <div style="border-bottom:3px solid #BCBCBC; background-color:#f4f4f4; text-align:center; padding:5px 5px 5px 5px;" class="textBodyLarge bold"><div id="topProdImageViewTitle" style="height:16px;"></div></div> 
+                    <div style="padding:0px 5px 0px 5px;"> 
+                        <div style="width:100%;" id="topProdImageViewContentContainer"></div> 
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+        <div style="margin:0px; width:100%;"> 
+        <table cellspacing="0" cellpadding="0" border="0" width="100%" height="22"> 
+           <TD width="20"><img src="http://images.BillOReilly.com/images/popdown/popdown_bg_bottom_left.png" border="0"></TD> 
+                <TD style="background-image:url(/images/popdown/popdown_bg_bottom_middle.png); background-repeat:repeat-x;"><img src="http://images.BillOReilly.com/images/clear.gif" border="0" width="1" height="22"></TD> 
+                <TD width="20"><img src="http://images.BillOReilly.com/images/popdown/popdown_bg_bottom_right.png" border="0"></TD> 
+            </TR> 
+        </table> 
+        </div> 
+    </div> 
+</div> 
+</div> 
+<div id="showimage" style="position:absolute;   left: 41px; top: 61px; z-index: 1500;"></div>
+
+<table cellspacing="0" cellpadding="0" border="0" bordercolor="red" width="100%">
+<!-- table to center page -->
+
+<tr>
+	<td valign="top">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" >
+  <tr>
+    <td valign="top" width="100%"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+        <tr>
+          <td align="center" valign="top" width="100%" style="background-color:#111157; background-image:url('http://images.BillOReilly.com/images/top/bluebg.jpg'); background-position:center top; background-repeat:no-repeat;"><table cellspacing="0" cellpadding="0" border="0" width="1000" >
+              <tr>
+                <td width="446"  valign="top" height="166">
+                
+                <div style="position:relative">
+                    <div style="position:absolute; left:5px; top:0px;">
+
+
+
+
+
+
+
+
+
+	
+		<a href="/"><img alt="Bill O'Reilly" border="0" src="http://images.BillOReilly.com/images/headers/gray_site_header.png"></a></div>
+                    <div style="position:absolute; top:124px;"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="42">
+                          
+                          <tr>
+                            <td align="left" valign="bottom"><img src="http://images.BillOReilly.com/images/top/tabshomeselected.png" border="0" usemap="#home" style="margin-top:1px;"/><map name="home" style="margin:0; padding:0"><area shape="rect" coords="0,0,147,42" href="/" alt="Home" /><area shape="rect" coords="147,0,290,42" href="/membership" alt="Membership" /><area shape="rect" coords="290,0,435,42" href="/store" alt="Store" /></map></td>
+                          </tr>
+                          
+                        </table>
+                        </div>
+                 </div>
+                  
+                </td>
+                <td align="left"  valign="bottom" width="554"  style="padding-bottom:5px;"><table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tr>
+                      <td valign="middle" width="554"  align="right" ><table cellspacing="0" cellpadding="0" border="0" >
+                          <tr>
+                            <td class="headerdefaultBody" valign="middle"  align="right" >
+                              <table  cellspacing="0" cellpadding="0" border="0" width="100%" >
+                                <tr>
+                                  <td valign="top" align="left"  class="headerdefaultBody"><a href="/pg/jsp/member/membersignin.jsp" class="headerdefaultLinks" ><img src="http://images.BillOReilly.com/images/top/usericon.png" border="0" align="left" hspace="5"/></a><span style="padding-left:5px;">Hello. Would you like to </span><a href="/pg/jsp/member/membersignin.jsp?regdest=/store" class="headerdefaultLinks">register</a> or <a href="/pg/jsp/member/membersignin.jsp?regdest=/store" class="headerdefaultLinks">log in</a>?</td>
+                                </tr>
+                              </table>
+                              
+                              
+                            </td>
+                            
+                            <td align="right" height="42" valign="middle" ><a href="/pg/jsp/member/membersignin.jsp"><img src="http://images.BillOReilly.com/images/top/loginbutton.png" border="0"/></a></td>
+                            
+                          </tr>
+                          <tr>
+                            <td colspan="2" style="border-bottom:1px dotted #ffffff;"><img height="10" width="1" src="http://images.BillOReilly.com/images/clear.gif"></td>
+                          </tr>
+                          <tr>
+                            <td  style="padding-top:5px;" colspan="2" valign="top" width="100%" align="right" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="390" height="48" align="right">
+	<tr>
+		<td style="padding:4px 4px 4px 0px;" align="left" valign="top">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td width="16" align="left" valign="top" style="padding-right:5px;">
+						
+						<img  src="http://images.BillOReilly.com/images/top/shoppingcarticon.png" hspace="5" border="0"/>
+						
+                        
+					</td>
+					<td valign="top" align="left">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+						
+
+						
+							<tr>
+								<td align="left" class="headerdefaultBody">Your shopping cart is empty.</td>
+							</tr>
+   							<tr>
+								<td align="left" class="headerdefaultBody" style="padding-top:2px;"> <a href="/store" class="headerdefaultLinks" >Start shopping in The O'Reilly Store...</a>
+								</td>		
+							</tr>
+
+						
+
+							
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>					
+
+                            </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"  align="left" width="100%" style="padding-top:10px;"><table cellspacing="0" cellpadding="0" border="0" width="100%" >
+                          <tr>
+                            <td align="right" valign="middle" style="padding-left:15px;">
+
+<!--/video-->
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" height="25">
+<form name="searchform" action="/search/searchresultsframe.jsp" method="get">
+<tr>
+<td style="padding-right:5px;"><input style="background:#ffffff;width:250px;height:25;border:solid 1px #10216B; vertical-align:bottom; padding:3px; font-size:15px; font-family:Helvetica,Arial,sans-serif;" type="text" size="25" id="bold" name="searchstring" onFocus="JavaScript:if(this.value=='Search BillOReilly.com')this.value=''" onBlur="JavaScript:if(this.value=='') this.value='Search BillOReilly.com'"  onkeypress="javascript:checkWhich(event);" value="Search BillOReilly.com"></td>	
+<td align="right">
+		<input type="Image" value="Search" src="http://images.BillOReilly.com/images/top/search.gif" align="absmiddle" alt="Search" border="0">
+		<input type="hidden" name="sortby" value="0">
+		<input type="hidden" name="sortdir" value="1">
+		<input type="hidden" name="searchcategory" value="0">
+		
+	</td>	
+</tr>
+</form></table>
+	
+</td>
+                            
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <tr>
+          <td valign="middle" width="100%" colspan="2">
+            
+
+    
+
+
+
+
+
+
+
+<style type="text/css">
+	.menucolored {background-color: #003C82;}
+	.menuItem:hover {background-color: #002358}
+</style>
+<script language="javascript" type="text/javascript">
+function bgHover(which) {
+	which.bgColor = "002358";
+}
+function bgDefault(which) {
+	which.bgColor = "003C82";
+}
+</script>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" class="menucolored">
+				<tr>
+					<td align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="1000">
+							<tr>
+								<td align="center">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tr>
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="61"><a href="/video" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Videos</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="53"><a href="/f/Audio-Center" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Audio</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="93"><a href="/pg/jsp/general/radioandtv.jsp" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">TV & Radio</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="61"><a href="/g/Online/679.html" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Online</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="117"><a href="/pg/jsp/general/booksandprint.jsp" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Books & Print</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="157"><a href="/pg/jsp/general/blogs.jsp" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Opinion & Analysis</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="85"><a href="/pg/jsp/general/fun.jsp" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Fun Stuff</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="93"><a href="/pg/jsp/general/allaboutbill.jsp" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">About Bill</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="133"><a href="/help" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Help/Contact Us</span></a></td>
+				
+											
+											<td class="menuItem" align="center" onmouseover="bgHover(this);" onmouseout="bgDefault(this);" width="141"><a href="/newsletter" class="mainMenuItems" id="bold"><span style="line-height:25px; display:block;">Free Newsletters</span></a></td>
+				
+											
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+          </td>
+        </tr>
+        <tr>
+          <td style="background:url('http://images.BillOReilly.com/images/general/menu_shadow.png') repeat-x scroll center top transparent;"><img src="http://images.BillOReilly.com/images/clear.gif" height="8" width="1" /></td>
+        </tr>
+        <tr>
+          <td><img src="http://images.BillOReilly.com/images/clear.gif" height="15" width="1" /></td>
+        </tr>
+        
+      </table></td>
+  </tr>
+</table>
+
+	</td>
+</tr>
+<tr>
+	<td valign="top" align="center">
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tr>
+			<td valign="top" width="100%">
+				<table cellspacing="0" cellpadding="0" border="0" bordercolor="red" width="1000">
+				<!--<TR><TD colspan="4" height="1" id="BCS"><img src="http://images.BillOReilly.com/images/clear.gif" border="0" height="1" width="755"></TD></TR>-->
+				
+				<tr>
+					<td width="820" valign="top" align="left" >
+						<!-- Start the Middle -->
+
+<style type="text/css">
+.videoCenterShowListTd {padding: 5px 0px 0px 0px;}
+.videoCenterShowListHeader {font-size:14px;padding-top:2px;}
+.videoCenterShowListText {font-size:11px;border-bottom:1px solid #e2e2e2; padding:0px 14px 5px 0px;}
+.videoCenterShowPremiumText{font-size:10px;font-weight:bold;padding-left:5px;}
+.vcSmallDescText { font-family: Helvetica, Arial, sans-serif; 	color: #000000;	 	word-spacing: -0.1px; font-size: 12px; }
+.vcHeaderText { font-family: Helvetica, Arial, sans-serif; 	color: #000000;	 	word-spacing: -0.1px; font-size: 13px;font-weight:bold; }
+.videoCenterShowListCheckbox {width:25px;}
+.videoCenterContainer {width:188px;height:265px;}
+.videoCenterInnerContainer{padding:4px;height:100%;}
+.sliderHandle {
+
+background:  url(/images/interactive/slidehandle.gif) no-repeat;
+	z-index:2;
+	height: 14px;
+	width: 14px;
+	position: absolute;
+	
+	border-style:none;
+	/* used to control positioning of the bg image*/ 
+	top:4px;
+	margin-left: -7px; 
+	
+	}
+.slider-background {
+	background: #CCC /*url(images/ui-bg_gloss-wave_35_f6a828_500x100.png)*/ 50% 50% repeat-x; 
+	color: #ffffff; 
+	font-weight: bold; 
+}
+.ui-slider a {outline:none;}
+</style>
+<script>
+
+function player(play,w,h,name) {   
+    var play ;        
+    var name ;
+	if ( h < ( screen.availHeight - 50 ) ) {
+		h = h; }
+	else {
+		h = ( screen.availHeight - 50 ); }
+    viewer = "width="+w+",height="+h+",toolbar=no,scrollbars=yes,resizable=yes,status=no,location=no,directories=no";
+    popWin = window.open(play, name, viewer);
+}
+
+</script>
+
+<script type="text/javascript">
+var originalTitle = "Bill O'Reilly: Video Center";
+var titleWithCat = "";
+
+var selected = '0';
+//var tabState = '';
+
+function loadVideo(vid, tabid, isLatestVideo) {
+	new Ajax.Updater('vidspace', '/pg/jsp/video/selectedvideo.jsp?chartID='+tabid, {parameters:'vid=' + vid, evalScripts:true, asynchronous:true, method:'post'});
+	new Ajax.Updater('descspace', '/pg/jsp/video/selecteddesc.jsp?chartID='+tabid, {parameters:'vid='+vid+'&latestVideos='+isLatestVideo, evalScripts:true, asynchronous:true, method:'post'});		
+	setSelected(tabid, vid);
+}
+
+function loadFoxVideo(miniID, tabid, isLatestVideo) {
+		new Ajax.Updater('vidspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&formatID=1&size=999&searchColumn=uniqueID&searchText='+miniID+'&useMiniChartID=true&destinationpage=/pg/jsp/video/foxvideosajax.jsp', evalScripts:true, asynchronous:true, method:'post'});
+		new Ajax.Updater('descspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&latestVideos='+isLatestVideo+'&formatID=1&size=999&searchColumn=uniqueID&searchText='+miniID+'&useMiniChartID=true&destinationpage=/pg/jsp/video/selectedfox.jsp', evalScripts:true, asynchronous:true, method:'post'});		
+		setSelected(tabid, miniID);
+}
+	
+function loadMinichartVideo(vid, tabid, isLatestVideo){
+	new Ajax.Updater('vidspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&formatID=1&size=999&vid='+vid+'&useMiniChartID=true&destinationpage=/pg/jsp/general/videosinclude.jsp', evalScripts:true, asynchronous:true, method:'post'});
+	new Ajax.Updater('descspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&formatID=1&size=999&vid='+vid+'&latestVideos='+isLatestVideo+'&useMiniChartID=true&destinationpage=/pg/jsp/video/selectedinclude.jsp', evalScripts:true, asynchronous:true, method:'post'});	
+	setSelected(tabid, vid);
+}	
+
+function loadYouTubeVideo(vid, tabid, isLatestVideo){
+	new Ajax.Updater('vidspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&formatID=1&size=999&vid='+vid+'&useMiniChartID=true&destinationpage=/pg/jsp/video/youtubeinclude.jsp', evalScripts:true, asynchronous:true, method:'post'});
+	new Ajax.Updater('descspace', '/agnosticchart', {parameters:'charttype=minichart&chartID='+tabid+'&latestVideos='+isLatestVideo+'&formatID=1&size=999&vid='+vid+'&useMiniChartID=true&destinationpage=/pg/jsp/video/selectedyoutube.jsp', evalScripts:true, asynchronous:true, method:'post'});	
+	setSelected(tabid, vid);
+}	
+	
+	
+	
+	function setSelected(which, id ) {
+
+		if(selected != "0" && document.getElementById(selected) != null){
+		document.getElementById(selected).style.backgroundColor = "#ffffff";
+		}
+		if(id != "0" && document.getElementById(id) != null){
+		document.getElementById(id).style.backgroundColor = "#DEDFEF";	
+		}
+		
+		selected = id;	
+		
+	}
+	
+var currentActiveYear = 2013;
+var currentActiveMonth = 10;
+var currentActiveLoadYear = 2013;
+function selectVidCalYear(year, changeYear) {
+		for (var p=2004;p<2013+1; p++){
+			$('videoArchiveYear' + p).className = 'torfArchiveCalYearUnselected';
+		}
+		$('videoArchiveYear' + year).className = 'torfArchiveCalYearSelected';
+		if(changeYear !=null){
+		currentActiveYear = year;
+		}
+}
+function selectVidCalMonth(month, year) {
+	selectVidCalYear(year, true);
+	//if (month != currentActiveMonth || year != currentActiveLoadYear) {
+		$('videoArchiveMonth' + currentActiveLoadYear + '-' + currentActiveMonth).className = 'torfArchiveCalMonthUnselected';
+		$('videoArchiveMonth' + year + '-' + month).className = 'torfArchiveCalMonthSelected';
+		currentActiveLoadYear = year;
+		currentActiveMonth = month;
+	//}
+}
+
+function ajaxUpdate(container, path, start) {
+	new Ajax.Updater(container, path + '&start=' + start + '&vid='+selected);
+}
+function showMouseover(){
+	ddrivetip("You must log in as a Premium Member to view.","#4c4c4c", 125);
+}
+
+function changeFilter(checkboxClicked){
+	if(checkboxClicked != null){
+		
+		var clickedElement = jQuery(checkboxClicked);
+		if(clickedElement.attr("class").indexOf("selectedCategoryToggle") != -1){
+			var associatedShows = clickedElement.data("associatedShows");									
+			jQuery(".selectedVideoFilter").each(function(index, element){
+				var checkbox=jQuery(element);
+				var checkboxValue = checkbox.val();
+				if(associatedShows.indexOf(checkboxValue) != -1){
+					console.log("happened");	
+					if(clickedElement.prop('checked') == true){
+						checkbox.prop('checked', true);
+					} else {
+						checkbox.prop('checked', false);
+					}
+				} 
+			});
+		}
+	}
+	var oFilterChecked = true;
+	jQuery('.selectedVideoFilter.oFactor').each(function(index,element){
+		if(jQuery(element).prop("checked") == false){
+			oFilterChecked = false;
+		}
+	});
+	if(oFilterChecked){
+		jQuery('.selectedCategoryToggle.oFactor').prop("checked", true);
+	} else {
+		jQuery('.selectedCategoryToggle.oFactor').prop("checked", false);
+	}
+	var factorOnlineChecked = true;
+	jQuery('.selectedVideoFilter.factorOnline').each(function(index,element){
+		if(jQuery(element).prop("checked") == false){
+			factorOnlineChecked = false;
+		}
+	});
+	if(factorOnlineChecked){
+		jQuery('.selectedCategoryToggle.factorOnline').prop("checked", true);
+	} else {
+		jQuery('.selectedCategoryToggle.factorOnline').prop("checked", false);
+	}
+	filterVideosToDisplay();
+}
+</script>
+<a name="play"></a>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td ><img src="http://images.BillOReilly.com/images/general/vidcenterheader.jpg" border="0"/></td>
+  </tr>
+  <tr>
+    <td height="335" style="padding-top:10px;background-image:url('http://images.BillOReilly.com/images/general/vidcenterbg.jpg'); background-repeat:repeat-x;">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0"  >
+        <tr>
+          <td id="vidspace" height="335" width="530" align="left" valign="top"></td>
+          <td width="*" align="left" valign="top">
+		   <table width="100%" border="0" cellpadding="0" cellspacing="0"  >
+			<tr>
+			  <td id="descspace" valign="top" height="265" width="100%" ></td>
+			</tr>
+            
+			</table>
+			</td>
+      </table>
+    </td>
+  </tr>
+  
+  <tr>
+  	<td align="center" style="padding: 15px 0;"><a href="http://www.billoreilly.com/site/rd?satype=1&said=548&pos=69&url=http%3A%2F%2Fwww.billoreilly.com%2Fc%2FKilling-Jesus%2F1%2F433.html"><img src="http://images.BillOReilly.com/images/ads/kj-banner.jpg" ALT="USA Strong Mugs now available in The O'Reilly Store" class="displayBlock" border="0"></a></td>
+  </tr>
+  
+  <tr>
+  	<td>
+    	<table cellpadding="0" cellspacing="0" border="0">
+        	<tr>
+            	<td valign="top" style="width:230px;">
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" >
+                    	<tr>
+                        	<td align="left" style="border-right:1px solid #e2e2e2;">
+                            	<table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                	
+                                    <tr>
+                                    	<td colspan="2" style="padding:0px 0px 20px 0px;">
+                                        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                            	<tr>
+                                                	<td align="left" class="torfArchiveCalHeader">View...</td>
+                                                    <td valign="top" align="right" style="padding-right:14px;"><a href="javascript:void(0);"  onclick="javascript:selectUnselectAll('select');" class="torfArchiveSortUnselected" style="font-size:11px;">Select All</a>&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);"  onclick="javascript:selectUnselectAll('unselect');" class="torfArchiveSortUnselected" style="font-size:11px;">Deselect All</a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td valign="top" class="videoCenterShowListCheckbox"><input type="checkbox" class="selectedCategoryToggle oFactor" data-associated-shows="556;610;678;321;323;" onclick="javascript:changeFilter(this);"/></td>
+                                        <td>
+                                        	<table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                            	<tr>
+                                        			<td class="torfArchiveCalHeader">The O'Reilly Factor</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="padding-left:18px;" colspan="2">
+                                        	<table cellpadding="0" cellspacing="0" border="0">
+                                            	<tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter oFactor" value="556" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Talking Points Memo</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Talking Points Memo segment from The O'Reilly Factor.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter oFactor" value="610" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">O'Reilly Factor Clips</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">A selected highlight from The O'Reilly Factor.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter oFactor" value="678" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Tip of the Day</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Tip of the Day segment from The O'Reilly Factor.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter oFactor" value="323" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Exclusive Clips</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Unedited Interviews and behind the scenes footage.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd" valign="top"><input type="checkbox" class="selectedVideoFilter oFactor" value="321" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Factor Flashback</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                                        <tr>
+                                                                            <td><img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                                                            <td class="videoCenterShowPremiumText" valign="middle">PREMIUM MEMBER CONTENT</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText" style="border-bottom:none;">Selected highlights from The O'Reilly Factor.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td valign="top" class="videoCenterShowListCheckbox" style="padding-top:20px;"><input type="checkbox" class="selectedCategoryToggle factorOnline" data-associated-shows="554;310;558;303;307;322;315;" onclick="javascript:changeFilter(this);"/></td>
+                                        <td style="padding-top:20px;">
+                                        	<table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                            	<tr>
+                                        			<td class="torfArchiveCalHeader">The Factor Online</td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="padding-left:18px;" colspan="2">
+                                        	<table cellpadding="0" cellspacing="0" border="0">
+                                            	<tr>
+                                                    <td valign="top" class="videoCenterShowListTd videoCenterShowListCheckbox"><input type="checkbox" class="selectedVideoFilter factorOnline" value="554" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Video of the Day</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Videos making headlines from around the web.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter factorOnline" value="310" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Guest Appearances</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Short clips from Bill's media appearances.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd videoCenterShowListCheckbox" valign="top"><input type="checkbox" class="selectedVideoFilter factorOnline" value="558" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Backstage Preview</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">A preview of Bill's answers to Premium Members' questions.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td valign="top" class="videoCenterShowListTd videoCenterShowListCheckbox"><input type="checkbox" class="selectedVideoFilter factorOnline" value="303" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Backstage Conversation</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                                        <tr>
+                                                                            <td><img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                                                            <td class="videoCenterShowPremiumText" valign="middle">PREMIUM MEMBER CONTENT</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Bill answers questions from Premium Members.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd" valign="top"><input type="checkbox" class="selectedVideoFilter factorOnline" value="307" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Special Events</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                                        <tr>
+                                                                            <td><img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                                                            <td class="videoCenterShowPremiumText" valign="middle">PREMIUM MEMBER CONTENT</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Selected highlights from special events and exclusive engagements.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd" valign="top"><input type="checkbox" class="selectedVideoFilter factorOnline" value="322" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Tour Clips</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                                        <tr>
+                                                                            <td><img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                                                            <td class="videoCenterShowPremiumText" valign="middle">PREMIUM MEMBER CONTENT</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Short clips from Bill's tours.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="videoCenterShowListTd" valign="top"><input type="checkbox" class="selectedVideoFilter factorOnline" value="315" onclick="javascript:changeFilter(this);" /></td>
+                                                    <td class="videoCenterShowListTd">
+                                                        <table cellpadding="0" cellspacing="0" border="0" class="textBody">
+                                                            <tr>
+                                                                <td class="videoCenterShowListHeader">Face-to-Face</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <table cellpadding="0" cellspacing="0" border="0">
+                                                                        <tr>
+                                                                            <td><img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                                                            <td class="videoCenterShowPremiumText" valign="middle">PREMIUM MEMBER CONTENT</td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td class="videoCenterShowListText">Face-to-Face interviews from The O'Reilly Factor.</td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                	<tr>
+                                    	<td colspan="2" class="torfArchiveCalHeader"  style="padding-top:20px;">Sort</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="padding-left:18px;" colspan="2">
+                                        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                <tr>
+                                                    <td colspan="2"><a href="javascript:void(0);" onclick="filterVideosToDisplay(null,null,'desc');"  class="torfArchiveSortSelected" id="newest" style="font-weight:normal;font-size:14px;">Newest to Oldest</a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2"><a href="javascript:void(0);" onclick="filterVideosToDisplay(null,null,'asc');" class="torfArchiveSortUnselected" id="oldest" style="font-weight:normal;font-size:14px;">Oldest to Newest</a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" style="padding-top:20px;">
+                                            <div>
+                                                <div class="torfArchiveCalHeader" style="margin-bottom:5px;">Videos By Year</div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearSelected" id="videoArchiveYear2013" onclick="selectVidCalYear('2013');">2013
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2013-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2013');filterVideosToDisplay('2013-01-01','2013-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2013');filterVideosToDisplay('2013-02-01','2013-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2013');filterVideosToDisplay('2013-03-01','2013-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2013');filterVideosToDisplay('2013-04-01','2013-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2013');filterVideosToDisplay('2013-05-01','2013-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2013');filterVideosToDisplay('2013-06-01','2013-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2013-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2013');filterVideosToDisplay('2013-07-01','2013-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2013');filterVideosToDisplay('2013-08-01','2013-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2013');filterVideosToDisplay('2013-09-01','2013-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2013');filterVideosToDisplay('2013-10-01','2013-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2013-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2013');filterVideosToDisplay('2013-11-01','2013-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2012" onclick="selectVidCalYear('2012');">2012
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2012-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2012');filterVideosToDisplay('2012-01-01','2012-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2012');filterVideosToDisplay('2012-02-01','2012-02-29');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2012');filterVideosToDisplay('2012-03-01','2012-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2012');filterVideosToDisplay('2012-04-01','2012-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2012');filterVideosToDisplay('2012-05-01','2012-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2012');filterVideosToDisplay('2012-06-01','2012-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2012-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2012');filterVideosToDisplay('2012-07-01','2012-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2012');filterVideosToDisplay('2012-08-01','2012-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2012');filterVideosToDisplay('2012-09-01','2012-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2012');filterVideosToDisplay('2012-10-01','2012-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2012');filterVideosToDisplay('2012-11-01','2012-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2012-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2012');filterVideosToDisplay('2012-12-01','2012-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2011" onclick="selectVidCalYear('2011');">2011
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2011-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2011');filterVideosToDisplay('2011-01-01','2011-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2011');filterVideosToDisplay('2011-02-01','2011-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2011');filterVideosToDisplay('2011-03-01','2011-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2011');filterVideosToDisplay('2011-04-01','2011-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2011');filterVideosToDisplay('2011-05-01','2011-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2011');filterVideosToDisplay('2011-06-01','2011-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2011-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2011');filterVideosToDisplay('2011-07-01','2011-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2011');filterVideosToDisplay('2011-08-01','2011-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2011');filterVideosToDisplay('2011-09-01','2011-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2011');filterVideosToDisplay('2011-10-01','2011-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2011');filterVideosToDisplay('2011-11-01','2011-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2011-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2011');filterVideosToDisplay('2011-12-01','2011-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2010" onclick="selectVidCalYear('2010');">2010
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2010-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2010');filterVideosToDisplay('2010-01-01','2010-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2010');filterVideosToDisplay('2010-02-01','2010-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2010');filterVideosToDisplay('2010-03-01','2010-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2010');filterVideosToDisplay('2010-04-01','2010-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2010');filterVideosToDisplay('2010-05-01','2010-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2010');filterVideosToDisplay('2010-06-01','2010-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2010-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2010');filterVideosToDisplay('2010-07-01','2010-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2010');filterVideosToDisplay('2010-08-01','2010-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2010');filterVideosToDisplay('2010-09-01','2010-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2010');filterVideosToDisplay('2010-10-01','2010-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2010');filterVideosToDisplay('2010-11-01','2010-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2010-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2010');filterVideosToDisplay('2010-12-01','2010-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2009" onclick="selectVidCalYear('2009');">2009
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2009-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2009');filterVideosToDisplay('2009-01-01','2009-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2009');filterVideosToDisplay('2009-02-01','2009-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2009');filterVideosToDisplay('2009-03-01','2009-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2009');filterVideosToDisplay('2009-04-01','2009-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2009');filterVideosToDisplay('2009-05-01','2009-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2009');filterVideosToDisplay('2009-06-01','2009-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2009-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2009');filterVideosToDisplay('2009-07-01','2009-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2009');filterVideosToDisplay('2009-08-01','2009-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2009');filterVideosToDisplay('2009-09-01','2009-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2009');filterVideosToDisplay('2009-10-01','2009-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2009');filterVideosToDisplay('2009-11-01','2009-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2009-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2009');filterVideosToDisplay('2009-12-01','2009-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2008" onclick="selectVidCalYear('2008');">2008
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2008-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2008');filterVideosToDisplay('2008-01-01','2008-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2008');filterVideosToDisplay('2008-02-01','2008-02-29');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2008');filterVideosToDisplay('2008-03-01','2008-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2008');filterVideosToDisplay('2008-04-01','2008-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2008');filterVideosToDisplay('2008-05-01','2008-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2008');filterVideosToDisplay('2008-06-01','2008-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2008-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2008');filterVideosToDisplay('2008-07-01','2008-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2008');filterVideosToDisplay('2008-08-01','2008-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2008');filterVideosToDisplay('2008-09-01','2008-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2008');filterVideosToDisplay('2008-10-01','2008-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2008');filterVideosToDisplay('2008-11-01','2008-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2008-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2008');filterVideosToDisplay('2008-12-01','2008-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2007" onclick="selectVidCalYear('2007');">2007
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2007-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2007');filterVideosToDisplay('2007-01-01','2007-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2007');filterVideosToDisplay('2007-02-01','2007-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2007');filterVideosToDisplay('2007-03-01','2007-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2007');filterVideosToDisplay('2007-04-01','2007-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2007');filterVideosToDisplay('2007-05-01','2007-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2007');filterVideosToDisplay('2007-06-01','2007-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2007-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2007');filterVideosToDisplay('2007-07-01','2007-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2007');filterVideosToDisplay('2007-08-01','2007-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2007');filterVideosToDisplay('2007-09-01','2007-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2007');filterVideosToDisplay('2007-10-01','2007-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2007');filterVideosToDisplay('2007-11-01','2007-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2007-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2007');filterVideosToDisplay('2007-12-01','2007-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2006" onclick="selectVidCalYear('2006');">2006
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2006-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2006');filterVideosToDisplay('2006-01-01','2006-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2006');filterVideosToDisplay('2006-02-01','2006-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2006');filterVideosToDisplay('2006-03-01','2006-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2006');filterVideosToDisplay('2006-04-01','2006-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2006');filterVideosToDisplay('2006-05-01','2006-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2006');filterVideosToDisplay('2006-06-01','2006-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2006-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2006');filterVideosToDisplay('2006-07-01','2006-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2006');filterVideosToDisplay('2006-08-01','2006-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2006');filterVideosToDisplay('2006-09-01','2006-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2006');filterVideosToDisplay('2006-10-01','2006-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2006');filterVideosToDisplay('2006-11-01','2006-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2006-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2006');filterVideosToDisplay('2006-12-01','2006-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2005" onclick="selectVidCalYear('2005');">2005
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2005-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2005');filterVideosToDisplay('2005-01-01','2005-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2005');filterVideosToDisplay('2005-02-01','2005-02-28');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2005');filterVideosToDisplay('2005-03-01','2005-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2005');filterVideosToDisplay('2005-04-01','2005-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2005');filterVideosToDisplay('2005-05-01','2005-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2005');filterVideosToDisplay('2005-06-01','2005-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2005-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2005');filterVideosToDisplay('2005-07-01','2005-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2005');filterVideosToDisplay('2005-08-01','2005-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2005');filterVideosToDisplay('2005-09-01','2005-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2005');filterVideosToDisplay('2005-10-01','2005-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2005');filterVideosToDisplay('2005-11-01','2005-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2005-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2005');filterVideosToDisplay('2005-12-01','2005-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                                <div style="margin-bottom:5px;padding-left:18px;">
+                                                    <a href="javascript:void(0);" class="torfArchiveCalYearUnselected" id="videoArchiveYear2004" onclick="selectVidCalYear('2004');">2004
+                                                        <div class="torfArchiveMonths">
+                                                        <table cellspacing="0" cellpadding="0" border="0">
+                                                        <TR>
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2004-0" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('0','2004');filterVideosToDisplay('2004-01-01','2004-01-31');">Jan</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-1" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('1','2004');filterVideosToDisplay('2004-02-01','2004-02-29');">Feb</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-2" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('2','2004');filterVideosToDisplay('2004-03-01','2004-03-31');">Mar</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-3" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('3','2004');filterVideosToDisplay('2004-04-01','2004-04-30');">Apr</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-4" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('4','2004');filterVideosToDisplay('2004-05-01','2004-05-31');">May</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-5" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('5','2004');filterVideosToDisplay('2004-06-01','2004-06-30');">Jun</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        
+                                                        <TD style="padding-left:0px;" id="videoArchiveMonth2004-6" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('6','2004');filterVideosToDisplay('2004-07-01','2004-07-31');">Jul</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-7" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('7','2004');filterVideosToDisplay('2004-08-01','2004-08-31');">Aug</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-8" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('8','2004');filterVideosToDisplay('2004-09-01','2004-09-30');">Sep</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-9" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('9','2004');filterVideosToDisplay('2004-10-01','2004-10-31');">Oct</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-10" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('10','2004');filterVideosToDisplay('2004-11-01','2004-11-30');">Nov</a></TD>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <TD style="" id="videoArchiveMonth2004-11" class="torfArchiveCalMonthUnselected" width="37" height="18"><a href="javascript:void(0);" onclick="selectVidCalMonth('11','2004');filterVideosToDisplay('2004-12-01','2004-12-31');">Dec</a></TD>
+                                                        
+                                                        
+                                                        </TR>
+                                                        <TR>
+                                                        
+                                                        
+                                                        </TR>
+                                                    </table>
+                                                    </div>
+                                                </a>
+                                                </div>
+                                                
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td class="torfArchiveCalHeader" colspan="2" style="padding:20px 0px 0px 0px;">Pagination</td>
+                                    </tr>
+                                    <tr>
+                                    	<td style="padding-left:18px;" colspan="2">
+                                        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                <tr>
+                                                    <td colspan="2" ><a href="javascript:void(0);" onclick="filterVideosToDisplay(null,null,null,'12');" id="12perPage" class="torfArchiveSortSelected" style="font-weight:normal;font-size:14px;">12 Videos per Page</a></td>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2"><a id="36perPage" href="javascript:void(0);" onclick="filterVideosToDisplay(null,null,null,'36');" class="torfArchiveSortUnselected" style="font-weight:normal;font-size:14px;">36 Videos per Page</a></td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                	
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td valign="top" style="padding-left:14px;">
+                	<script type="text/javascript">
+					var sortByParam = "desc";
+					var amtToDisplayParam = 12;
+					var endDate = "2013-11-08";
+					var beginDate = "2004-01-01";
+					function filterVideosToDisplay(begin, end, sortBy, amountToDisplay){
+						if((sortBy != null && sortBy != sortByParam) || sortBy == null){
+							
+							if(sortBy != null){
+							$("newest").className = "torfArchiveSortUnselected";
+							$("oldest").className = "torfArchiveSortUnselected";
+							if(sortBy == "asc"){
+								$("oldest").className = "torfArchiveSortSelected";
+							}else {
+								$("newest").className = "torfArchiveSortSelected";
+							}
+							sortByParam=sortBy;
+							}
+						if(amountToDisplay != null){
+							$("12perPage").className = "torfArchiveSortUnselected";
+							$("36perPage").className = "torfArchiveSortUnselected";
+							if(amountToDisplay == "12"){
+								$("12perPage").className = "torfArchiveSortSelected";
+							}else {
+								$("36perPage").className = "torfArchiveSortSelected";
+							}
+							amtToDisplayParam = amountToDisplay;
+						}
+						if (begin != null){
+							beginDate=begin;
+							
+						}
+						if (end != null){
+							endDate=end;
+						}
+						var isLatestVideos = false;
+						var selectedCats = jQuery(".selectedVideoFilter");
+						var selectedCatsParam = "";
+						for(j=0; j<selectedCats.size(); j++){
+							if (selectedCats[j].checked){
+								selectedCatsParam += selectedCats[j].value + ";";
+							}
+						}
+						if(selectedCatsParam.length == 0){
+							isLatestVideos = true;
+							selectedCatsParam = "303;307;310;315;321;322;554;556;558;610;678;323;";
+						}
+						new Ajax.Updater('filteredVideoContainer', '/pg/jsp/video/filterajaxvideoinclude.jsp', {parameters:'cats=' + selectedCatsParam + "&sortBy=" + sortByParam + "&amountToDisplay=" + amtToDisplayParam + "&end="+endDate+"&begin="+beginDate+"&latestVideos="+isLatestVideos, evalScripts:true, asynchronous:true, method:'post'});
+						}
+					}
+					function selectUnselectAll(which){
+						var allCats = jQuery(".selectedVideoFilter");
+						if(which != null){
+						  if(which=="select"){
+							  jQuery('.selectedCategoryToggle').prop('checked', true);
+							  for(j=0; j<allCats.size(); j++){
+								  if (!allCats[j].checked){
+									  allCats[j].checked = true;
+								  }
+							  }
+						  } 
+						  if (which=="unselect") {
+							  jQuery('.selectedCategoryToggle').prop('checked', false);
+							  for(j=0; j<allCats.size(); j++){
+								  if (allCats[j].checked){
+									  allCats[j].checked = false;
+								  }
+							  }
+						  }
+						}
+						filterVideosToDisplay();
+					}
+					
+					</script>
+                	<div id="filteredVideoContainer">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	
+	<tr>
+    	<td class="torfArchiveCalHeader" style="padding-bottom:10px;">Latest Videos</td>
+    </tr>
+    
+	<tr>
+    	<td>
+        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+            	<tr>		
+		 
+		
+                	<td align="center" valign="top" class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;">
+                      <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%">
+                        <tr>
+                          <td align="center"  valign="top"  id="-956241600597751277" class="videoCenterInnerContainer">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                              <tr>
+                                  <td class="vcSmallDescText" align="left" valign="top" height="35">TALKING POINTS MEMO</td>
+                              </tr>
+                              <tr>
+                                <td valign="middle" align="center">
+                                    <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                        <tr>
+                                            <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadFoxVideo('-956241600597751277', '556', 'true');">
+                                                <a  href="#play" onclick="javascript:loadFoxVideo('-956241600597751277', '556', 'true');" class="defaultLinks"><img src="http://images.BillOReilly.com/images/videoscreens/tpmscreen11.06.13.jpg" border="0" width="150" style="display:block;"/></a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" class="vcHeaderText" width="100%" style="padding-top:5px;">Talking Points 11/6</td>
+							  </tr>
+							  
+                              
+                              
+                              <tr>
+                                  <td style="padding-top:5px;">How ObamaCare is impacting American politics
+                                </td>
+                              </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                 
+               
+               
+
+
+                  <td align="center" valign="top" class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;">
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%">
+                      <tr>
+                        <td align="center"  valign="top" id="-175494376066730631" class="defaultBody videoCenterInnerContainer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tr>
+                            	<td class="vcSmallDescText" align="left" valign="top" height="35">O'REILLY FACTOR CLIPS</td>
+                            </tr>
+                            <tr>
+                              <td valign="middle" align="center">
+                                <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                    <tr>
+                                        <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadFoxVideo('-175494376066730631', '610', 'true');">
+                                            <a  href="#play" onclick="javascript:loadFoxVideo('-175494376066730631', '610', 'true');" class="defaultLinks"><img src="http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/110613/640/360/110613_reilly_miller_640.jpg" border="0" width="150" style="display:block;"/></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                              </td>
+                            </tr>
+                            
+                            <tr>
+                              <td valign="top"  width="100%" style="padding-top:5px;"><span class="vcHeaderText"  >Miller Time: Controversial Muslim conference</span></td>
+                            </tr>
+                            
+                            
+                            
+                            <tr>
+                            	<td style="padding-top:5px;"><span class="vcSmallDescText">Comedian on a Muslim conference, the Miami Dolphin...</span></td>
+							</tr>
+							
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+               
+			
+               
+
+
+                	<td align="center" valign="top" class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;">
+                      <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%">
+                        <tr>
+                          <td align="center"  valign="top"  id="296538823201342647" class="videoCenterInnerContainer">
+                            <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                              <tr>
+                                  <td class="vcSmallDescText" align="left" valign="top" height="35">TIP OF THE DAY</td>
+                              </tr>
+                              <tr>
+                                <td valign="middle" align="center">
+                                    <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                        <tr>
+                                            <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadFoxVideo('296538823201342647', '678', 'true');">
+                                                <a  href="#play" onclick="javascript:loadFoxVideo('296538823201342647', '678', 'true');" class="defaultLinks"><img src="http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/110613/640/360/110613_factor_tip_640.jpg" border="0" width="150" style="display:block;"/></a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                              </tr>
+                              
+                              <tr>
+                                <td valign="top" class="vcHeaderText" width="100%" style="padding-top:5px;">Help wounded veterans at independencefund.org</td>
+							  </tr>
+							  
+                              
+                              
+                              <tr>
+                                  <td style="padding-top:5px;">Giving wounded vets independence.
+                                </td>
+                              </tr>
+                              
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                 
+                </tr>
+                <tr>
+                
+               
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="15648" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">EXCLUSIVE CLIPS</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadVideo('15648','323','true');">
+                                                    <a  href="#play" onclick="javascript:loadVideo('15648','323','true');" class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/general/nodailyvideo.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">John McCain's Tribute to Neil Armstrong</td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">Watch John McCain's moving tribute to recently dec...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+			
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="17074" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">FACTOR FLASHBACK</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onmouseover="showMouseover()" onmouseout="hideddrivetip()" onclick="window.location='/membership'">
+                                                    <a  href="/membership"  class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/videoscreens/turner2.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Factor Flashback: Ted Turner Part 2 <img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">The second part of Bill's interview with media mog...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+			
+               
+
+
+                        <td align="center" valign="top" class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%">
+                            <tr>
+                              <td align="center"  valign="top" id="-860456932816731219" class="videoCenterInnerContainer">
+                                <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">VIDEO OF THE DAY</td>
+                                  </tr>
+                                  <tr>
+                                    <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadMinichartVideo('-860456932816731219', '554','true');">
+                                                    <a  href="#play" onclick="javascript:loadMinichartVideo('-860456932816731219', '554','true');"><img src="http://images.BillOReilly.com/images/video/paisley and underwood.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                  </tr>
+                                  
+                                  <tr>
+                                    <td valign="top" width="100%" style="padding-top:5px;">
+                                      <span class="vcHeaderText" >Country stars mock Obamacare</span>
+                                    </td>
+                                  </tr>
+                                  
+                                                      
+                                  
+                                  <tr>
+                                  	  <td style="padding-top:5px;"><span class="vcSmallDescText">Carrie Underwood and Brad Paisley, hosts of the Co...</span></td>
+                                  </tr>
+                                      
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                
+                </tr>
+                <tr>
+                
+               
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="17860" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">GUEST APPEARANCES</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadVideo('17860','310','true');">
+                                                    <a  href="#play" onclick="javascript:loadVideo('17860','310','true');" class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/videoscreens/katie20131030.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Bill on Katie Couric's Talk Show (10/30/13)</td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">Check out Katie's recent "Spotlight on Bill O'Reil...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+			
+               
+
+
+                  <td align="center" valign="top" class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;">
+                    <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%">
+                      <tr>
+                        <td align="center"  valign="top" id="-919210019604586225" class="defaultBody videoCenterInnerContainer">
+                          <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                            <tr>
+                            	<td class="vcSmallDescText" align="left" valign="top" height="35">BACKSTAGE PREVIEW</td>
+                            </tr>
+                            <tr>
+                              <td valign="middle" align="center">
+                                <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                    <tr>
+                                        <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onclick="javascript:loadYouTubeVideo('-919210019604586225', '558', 'true');">
+                                            <a href="#play" onclick="javascript:loadYouTubeVideo('-919210019604586225', '558', 'true');" class="defaultLinks"><img src="http://i.ytimg.com/vi/R6nYqX41-Js/default.jpg" border="0" width="150" style="display:block;"/></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                              </td>
+                            </tr>
+                            
+                            <tr>
+                              <td valign="top" width="100%" style="padding-top:5px;">
+                                <span class="vcHeaderText" >Joining the Military</span>
+                              </td>
+                            </tr>
+                            
+                            
+                            
+                            <tr>
+                            	<td style="padding-top:5px;"><span class="vcSmallDescText" >Did Bill ever consider joining the military? In th...</span></td>
+                            </tr>
+                                                   
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+               
+               
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="17706" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">BACKSTAGE CONVERSATION</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onmouseover="showMouseover()" onmouseout="hideddrivetip()" onclick="window.location='/membership'">
+                                                    <a  href="/membership"  class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/videoscreens/bvc20130918.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Backstage Conversation Webcast <img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">In the latest Backstage Conversation, Bill answers...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+                </tr>
+                <tr>
+                
+			
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="17281" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">SPECIAL EVENTS</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onmouseover="showMouseover()" onmouseout="hideddrivetip()" onclick="window.location='/membership'">
+                                                    <a  href="/membership"  class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/videoscreens/townhall_042213a.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Premium Member Killing Jesus Town Hall <img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">In this Town Hall Meeting exclusively for Premium ...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+			
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="16228" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">TOUR CLIPS</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onmouseover="showMouseover()" onmouseout="hideddrivetip()" onclick="window.location='/membership'">
+                                                    <a  href="/membership"  class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/videoscreens/bftdvdscreenshot.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Bolder & Fresher Tour DVD Clip <img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">Check out these exclusive clips from the Bolder & ...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+			
+               
+
+
+                 <td class="videoCenterContainer" style="padding-right:66px; padding-bottom:20px;" valign="top" >
+                	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+                    	<tr>
+                        	<td class="videoCenterInnerContainer"  valign="top" id="10601" >
+                            	<table cellpadding="0" cellspacing="0" border="0">
+                                  <tr>
+                                  	  <td class="vcSmallDescText" align="left" valign="top" height="35">FACE-TO-FACE</td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="middle" align="center">
+                                        <table cellpadding="0" cellspacing="0" border="0" height="100%">
+                                            <tr>
+                                                <td style="background-color: #000; height: 110px; width:150px; overflow: hidden; cursor: pointer;" onmouseover="showMouseover()" onmouseout="hideddrivetip()" onclick="window.location='/membership'">
+                                                    <a  href="/membership"  class="defaultLinks" style="line-height:110px;"><img src="http://images.BillOReilly.com/images/video/morris.jpg" border="0" width="150" style="display:block;"/></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                  </tr>
+                                  <tr>
+                                      <td valign="top" align="left"  width="100%" >
+                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="vcSmallDescText">
+                                        	<tr>
+                                          	<td class="vcHeaderText" style="padding-top:5px;">Face-to-face with Dick Morris <img src="http://images.BillOReilly.com/images/icons/pm-icon.gif" border="0" /></td>
+                                          </tr>
+                                          
+                                            
+                                         					
+                                         <tr>   
+                                             <td style="padding-top:15px;">In this Premium Member exclusive, Bill talks to Di...</td>
+                                         </tr>
+                                         
+                                        </table>
+                                      </td>
+                                    </tr>
+                                 </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                
+                </tr>
+                <tr>
+                
+			
+               
+
+
+				   </tr>
+              </table>
+         </td>
+    </tr>
+    <tr>
+    	<td align="center"></div></td>
+    </tr>
+</table>
+
+<script type="text/javascript">
+loadMinichartVideo('-860456932816731219', '554', 'true');
+</script>
+
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+<div id="dhtmltooltip"></div>		
+
+
+
+
+
+
+
+
+
+
+
+								
+								</TD>
+								
+							
+							
+								
+							
+
+							</TR>
+
+							
+						</TABLE>
+					</TD>
+				</TR>
+			</TABLE>
+            
+            <div>
+
+
+
+
+
+
+<div><img src="http://images.BillOReilly.com/images/clear.gif" height="50" width="1" /></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:url(/images/general/footerbg.jpg) repeat-x top #065E9D;">
+	<tr>
+    	<td valign="top" align="center" style="padding:20px 25px 15px;">
+        	<table cellpadding="0" cellspacing="0" width="1000">
+				<tr>
+					<td valign="top" align="left" width="40%" class="footerHeader" style="padding-top:5px;"><a href="/"><img src="http://images.BillOReilly.com/images/general/BOR_text.png" border="0" /></a></td>
+                    <td valign="top" align="right" width="60%" id="bold" class="expandedBottomMenuLinksAlt">
+                    <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/help/general/termsconditions.jsp?footer=true">Terms & Conditions</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/help/general/privacypolicy.jsp?footer=true">Privacy Policy</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/general/credits.jsp?footer=true">Acknowledgements</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a class="expandedBottomMenuLinksAlt bold" href="mailto:ads@billoreilly.com">Advertising</a>
+                    &nbsp;&nbsp;|&nbsp;&nbsp;
+                    <a class="expandedBottomMenuLinksAlt bold" href="http://m.bor.com/">Mobile Site</a><br />
+                    <span class="expandedBottomMenuLinksAlt">Copyright © 2002-2013 BillOReilly.com. All rights reserved.</span>
+                    </td>
+                </tr>
+            </table>        
+        </td>
+	</tr>
+    <tr>
+    	<td valign="top" align="center" style="padding:15px 25px 45px;">
+        	<table cellpadding="0" cellspacing="0" width="1000">
+				<tr>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/video;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Videos</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/video?chartID=554&footer=true" class="footerMenuAltlink">Video of the Day</a><br />
+	
+	<a href="/video?chartID=558&footer=true" class="footerMenuAltlink">Backstage Conversation Webcast</a><br />
+	
+	<a href="/video?chartID=610&footer=true" class="footerMenuAltlink">O'Reilly Factor Clips</a><br />
+	
+	<a href="/video?chartID=678&footer=true" class="footerMenuAltlink">Tip of the Day</a><br />
+	
+	<a href="/video?chartID=307&footer=true" class="footerMenuAltlink">Exclusive Video</a><br />
+	
+	
+
+
+                    <div><a href="/video;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+					<td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/radioandtv.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">TV &amp; Radio</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/show?action=latestTVShow&footer=true" class="footerMenuAltlink">O'Reilly Factor Flash</a><br />
+	
+	<a href="/show?action=tvShowArchive&footer=true" class="footerMenuAltlink">O'Reilly Factor Archive</a><br />
+	
+	<a href="/pg/jsp/listings/tv/listings.jsp?footer=true" class="footerMenuAltlink">TV Schedule</a><br />
+	
+	<a href="/programhighlights?footer=true" class="footerMenuAltlink">The Radio Factor Vault</a><br />
+	
+	<a href="/radiotalkingpoints?footer=true" class="footerMenuAltlink">Radio Talking Points Memos</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/radioandtv.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/membership;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Premium Members</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/messageboards?footer=true" class="footerMenuAltlink">Message Boards</a><br />
+	
+	<a href="/blog?categoryID=7&footer=true" class="footerMenuAltlink">No Spin News</a><br />
+	
+	<a href="/show?action=latestTVShow#voting&footer=true" class="footerMenuAltlink">Viewer Voting</a><br />
+	
+	<a href="/video?chartID=307&footer=true" class="footerMenuAltlink">Exclusive Video</a><br />
+	
+	<a href="/podcasthelp?footer=true" class="footerMenuAltlink">Podcasting</a><br />
+	
+	
+
+
+                    <div><a href="/membership;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/help/help.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Help/Contact Us</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/pg/jsp/help/contactbill.jsp?footer=true" class="footerMenuAltlink">Send a Message to Bill O'Reilly</a><br />
+	
+	<a href="/help?footer=true" class="footerMenuAltlink">Knowledgebase & FAQs</a><br />
+	
+	<a href="/pg/jsp/help/contactus.jsp?footer=true" class="footerMenuAltlink">Email Customer Service</a><br />
+	
+	<a href="/g/site-map/533.html?footer=true" class="footerMenuAltlink">Site Map</a><br />
+	
+	
+
+
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4"><img src="http://images.BillOReilly.com/images/clear.gif" height="20" width="1" /></td>
+                </tr>
+                <tr>
+					<td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/booksandprint.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Books &amp; Print</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/f/books-coming-soon?footer=true" class="footerMenuAltlink">Coming Soon</a><br />
+	
+	<a href="/f/books-non-fiction?footer=true" class="footerMenuAltlink">Non-Fiction</a><br />
+	
+	<a href="/f/books-kids?footer=true" class="footerMenuAltlink">Kids</a><br />
+	
+	<a href="/currentcolumn?footer=true" class="footerMenuAltlink">Current Column</a><br />
+	
+	<a href="/columns?footer=true" class="footerMenuAltlink">Column Archive</a><br />
+	
+	<a href="/newsletter?footer=true" class="footerMenuAltlink">Free Newsletters</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/booksandprint.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/blogs.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Opinion & Analysis</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/blog?categoryID=7&footer=true" class="footerMenuAltlink">No Spin News</a><br />
+	
+	<a href="/poll-center?footer=true" class="footerMenuAltlink">Poll Center</a><br />
+	
+	<a href="/blog?categoryID=11&footer=true" class="footerMenuAltlink">Bill's Daily Briefing</a><br />
+	
+	<a href="/blog?categoryID=5&footer=true" class="footerMenuAltlink">Stratfor.com Intelligence Briefing</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/blogs.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/allaboutbill.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">About Bill</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/pg/jsp/general/welcomeletter.jsp?footer=true" class="footerMenuAltlink">Welcome Letter</a><br />
+	
+	<a href="/g/Bill's-Bio/515.html?footer=true" class="footerMenuAltlink">Biography</a><br />
+	
+	<a href="/pg/jsp/general/appearances.jsp?footer=true" class="footerMenuAltlink">Upcoming Appearances</a><br />
+	
+	<a href="/pg/jsp/billsfavorites/billscharities.jsp?footer=true" class="footerMenuAltlink">Bill's Charities</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/allaboutbill.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/store;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">The O'Reilly Store</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/pg/jsp/billsbooks/billsbooks.jsp?footer=true" class="footerMenuAltlink">Books</a><br />
+	
+	<a href="/membership?footer=true" class="footerMenuAltlink">Memberships</a><br />
+	
+	<a href="/c/The-Bill-OReilly-Store-Mugs/3/205.html?footer=true" class="footerMenuAltlink">Mugs</a><br />
+	
+	<a href="http://www.billoreilly.com/c/The-Bill-OReilly-Store-Hats/3/103.html?footer=true" class="footerMenuAltlink">Hats</a><br />
+	
+	
+
+
+                    <div><a href="/store;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4"><img src="http://images.BillOReilly.com/images/clear.gif" height="20" width="1" /></td>
+                </tr>
+                <tr>
+					<td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/fun.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Fun Stuff</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/quiz?categoryID=1&footer=true" class="footerMenuAltlink">O'Quiz</a><br />
+	
+	<a href="/crossword?footer=true" class="footerMenuAltlink">O'Reilly Crossword</a><br />
+	
+	<a href="/freephotos?footer=true" class="footerMenuAltlink">Bill's Photo Album</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/fun.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%">
+                    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/projects.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true">Projects & Campaigns</a></div>
+                     
+
+
+
+
+
+
+
+
+	<a href="/jessicaslaw?footer=true" class="footerMenuAltlink">Jessica's Law</a><br />
+	
+	<a href="/g/Civics-References/559.html?footer=true" class="footerMenuAltlink">Civics References</a><br />
+	
+	<a href="/blog?action=viewBlog&blogID=362056141532353188&footer=true" class="footerMenuAltlink">Sanctuary Cities</a><br />
+	
+	
+
+
+                    <div><a href="/pg/jsp/general/projects.jsp;jsessionid=83F7AEB764529C78936836D12DF5C977?footer=true" class="footerMenuAltlink">More...</a></div>
+                    </td>
+                    <td valign="top" align="left" width="25%"></td>
+                    <td valign="top" align="left" width="25%"></td>
+                </tr>
+            </table>     
+        </td>
+    </tr>
+</table></div>
+            
+		</td>
+	</tr>
+</table>
+ 
+  
+
+<script type="text/javascript">
+var allspans = document.getElementsByTagName("span");
+for (var i = allspans.length-1;i>=0;i--) {
+	if (allspans[i].name != null && allspans[i].name.length >0) {
+		if (allspans[i].name == "sitename") {
+			allspans[i].innerHTML = "Bill O'Reilly";
+		} else if (allspans[i].name == "siteurl") {
+			allspans[i].innerHTML = "BillOReilly.com";
+		}
+	}
+}
+
+var names = document.getElementsByName("sitename");
+for(var i=names.length-1;i>=0;i--) {
+var elem = names[i];
+elem.innerHTML="Bill O'Reilly";
+}
+var url = document.getElementsByName("siteurl");
+for(var r=url.length-1;r>=0;r--) {
+var replaceurl = url[r];
+replaceurl.innerHTML="BillOReilly.com";
+}
+</script>
+
+  
+
+<script language="JavaScript">
+function videoPlayer(vidFile,headline,format,hd,category,relID) {
+ var agt = navigator.userAgent.toLowerCase();
+ var browser = agt.indexOf("opera") != -1 ? "OP" : "";
+ if (!hd || hd == "") {hd = "acc";}
+ if (format == "Campaign_Carl" || format == "5_-_You_Decide") hd = "elec";
+ var h = (screen.width > 1000 && browser != "OP") ? 655 : 510;
+ var winState = (screen.width > 1000 && browser != "OP") ? "exp" : "col";
+ var vidUrl = "http://www.foxnews.com/video2/resize05.html?"+vidFile+"&"+escape(format)+"&"+escape(headline)+"&"+hd+"&"+escape(category)+"&"+relID+"&"+winState;
+ var winl = ((screen.width - 700) / 2) - 5;
+ winprops = 'height='+h+',width=700,top=5,left='+winl;
+ fncVidWin = window.open(vidUrl, 'fncVidPlayer', winprops);
+ fncVidWin.focus();
+}
+
+// Video Player Launch Scripts
+function videoMPlayer(sMPID, sMPlaylistID){
+  window.open('http://www.foxnews.com/video2/video08.html?videoId='+sMPID+'&sMPlaylistID='+sMPlaylistID , '', 'left=20,top=20,width=877,height=882,status=0,toolbar=0,resizable=0,scrollbars=0,location=0'); 
+}
+</script>
+
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script>
+ 
+
+
+</div>
+</body>
+</html>

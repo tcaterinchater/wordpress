@@ -1,0 +1,2108 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 07 Nov 2013 03:59:58 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Last-Modified: Thu, 07 Nov 2013 03:56:04 GMT
+Cache-Control: max-age=66, must-revalidate
+X-nananana: Batcache
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+X-Pingback: http://cnniamanpour.wordpress.com/xmlrpc.php
+Link: <http://wp.me/GCZ5>; rel=shortlink
+Content-Encoding: gzip
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7]>      <html class="lt-ie9 lt-ie8 lt-ie7" itemscope itemtype="http://schema.org/Blog" prefix="og: http://ogp.me/ns#" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="lt-ie9 lt-ie8" itemscope itemtype="http://schema.org/Blog" prefix="og: http://ogp.me/ns#" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie9" itemscope itemtype="http://schema.org/Blog" prefix="og: http://ogp.me/ns#" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html itemscope itemtype="http://schema.org/Blog" prefix="og: http://ogp.me/ns#" lang="en"> <!--<![endif]-->
+	<!--
+	generated 234 seconds ago
+	generated in 0.505 seconds
+	served from batcache in 0.008 seconds
+	expires in 66 seconds
+-->
+<head>
+		<title>Amanpour - CNN.com Blogs</title>
+		<meta http-equiv='content-type' content='text/html; charset=UTF-8' />
+
+					<meta name="Title" content="Amanpour - - CNN.com Blogs">
+			<link rel="canonical" href="http://amanpour.blogs.cnn.com">
+		
+		<script language="JavaScript" type="text/javascript">var cnnCurrTime = new Date(1383794045664); var cnnCurrHour = 22; var cnnCurrMin = 14; var cnnCurrDay='Wed';</script>		<link rel="alternate" type="application/rss+xml" title="Amanpour RSS Feed" href="http://amanpour.blogs.cnn.com/feed/">
+		<link rel="shortcut icon" href="http://i.cdn.turner.com/cnn/favicon.ico" type="image/x-icon">
+		
+<meta name="description" content="Your interactive gateway to an in-depth, behind the scenes look at the topics, conversations and the issues that matter to our global audience. Here, you can view exclusive webcasts with our guests, share your comments, ideas and suggestions with Christiane and her team in the Amanpour newsroom." />
+<meta name="keywords" content="from the show, featured topic, 5 things you need to know for your new day, amanpour view, conversation in pictures., global dispatch, the web cast, democratic republic of congo, ukraine, fiscal cliff, rohingya, arab spring, twitter, war crimes, european union, drc, world bank, hiv, development, thailand" />
+<meta name="google-site-verification" content="mFBa4OnyEDU23vgVJ6rtX_4izud7FIi9JiscfVsWaKk" />
+		<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=amanpour.blogs.cnn.com&amp;id=10159635&amp;t=1383796564&amp;back=amanpour.blogs.cnn.com%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??/wp-content/mu-plugins/mp6-hacks/mp6-hacks.css,/wp-content/mu-plugins/likes/jetpack-likes.css?m=1383750725j' type='text/css' media='all' />
+<link rel='stylesheet' id='cnn-bloglib-css-css'  href='http://z.cdn.turner.com/cnn/tmpl_asset/static/blog/339/css/bloglib-min.css?ver=1352481414' type='text/css' media='screen' />
+<link rel='stylesheet' id='cnn-blog-common-css'  href='http://i.cdn.turner.com/cnn/.element/css/3.0/blogs/amanpour.common.css?ver=1352481414' type='text/css' media='screen' />
+<link rel='stylesheet' id='all-css-4' href='http://s2.wp.com/_static/??/wp-content/themes/h4/global.css,/wp-content/mu-plugins/widgets/css/goodreads.css?m=1382017774j' type='text/css' media='all' />
+<script type='text/javascript' src='http://z.cdn.turner.com/cnn/.e1m/feed/newday/data.js?ver=3.0'></script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFzdsKwjAMgOEXsisesHghPkutcSSuaW3SDX16O1BQEHYVSD7y2ymbkFiB1ZLYmM44gKkCxfdtZ5CvqSNZ2eaQw1AvIDOke4XyeI9FYCL2xSt0EfmDv6o5iUYQack/198U8ogwLTICzT7cTAHB5/z1FI/rrXObvTu4Hb0AKYVb3w=='></script>
+<script type='text/javascript' src='http://z.cdn.turner.com/cnn/tmpl_asset/static/blog/339/js/bloglib-min.js?ver=1352481414'></script>
+<script type='text/javascript' src='http://z.cdn.turner.com/cnn/.element/js/3.0/swfobject-2.2.js?ver=3.7-beta2-25801'></script>
+<script type='text/javascript' src='http://i.cdn.turner.com/cnn/.element/js/3.0/easing.js?ver=3.7-beta2-25801'></script>
+<script type='text/javascript' src='http://i.cdn.turner.com/cnn/.element/js/3.0/article.js?ver=3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cnniamanpour.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cnniamanpour.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/GCZ5' />
+<link rel='openid.server' href='http://cnniamanpour.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://cnniamanpour.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://amanpour.blogs.cnn.com/osd.xml" title="Amanpour" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style>
+		/* <![CDATA[ */
+		/* Block: reblog */
+		
+		.reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+		.reblogger-note img.avatar         { float: left; padding: 0; border: 0; }
+		.reblogger-note-content            { margin: 0 0 20px; }
+		.reblog-post .wpcom-enhanced-excerpt-content { border-left: 3px solid #eee; padding-left: 15px; }
+		.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; }
+		.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; }
+		.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; }
+		.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; }
+		
+		.reblog-post .wpcom-enhanced-excerpt { clear: both; }
+		
+		.reblog-post .wpcom-enhanced-excerpt address,
+		.reblog-post .wpcom-enhanced-excerpt li,
+		.reblog-post .wpcom-enhanced-excerpt h1,
+		.reblog-post .wpcom-enhanced-excerpt h2,
+		.reblog-post .wpcom-enhanced-excerpt h3,
+		.reblog-post .wpcom-enhanced-excerpt h4,
+		.reblog-post .wpcom-enhanced-excerpt h5,
+		.reblog-post .wpcom-enhanced-excerpt h6,
+		.reblog-post .wpcom-enhanced-excerpt p { font-size: 100% !important; }
+		
+		.reblog-post .wpcom-enhanced-excerpt blockquote,
+		.reblog-post .wpcom-enhanced-excerpt pre,
+		.reblog-post .wpcom-enhanced-excerpt code,
+		.reblog-post .wpcom-enhanced-excerpt q { font-size: 98% !important; }
+		
+
+		/* ]]> */
+		</style>
+		
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta name="application-name" content="Amanpour" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://amanpour.blogs.cnn.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta itemprop="name" property="og:title" content="Amanpour" />
+<meta itemprop="url" property="og:url" content="http://amanpour.blogs.cnn.com" />
+<meta itemprop="description" property="og:description" content="Your interactive gateway to an in-depth, behind the scenes look at the topics, conversations and the issues that matter to our global audience. Here, you can view exclusive webcasts with our guests, share your comments, ideas and suggestions with Christiane and her team in the Amanpour newsroom." />
+<meta itemprop="image" property="og:image" content="http://i.cdn.turner.com/cnn/.element/img/3.0/sect/blogs/fb/amanpour.jpg" />
+<style id="syntaxhighlighteranchor"></style>
+
+
+		<script>
+		/* <![CDATA[ */
+			function cnnVideo(mode, arg, expiration) {
+			top.location.href = "http://www.cnn.com/video/#" + arg ;
+			}
+		/* ]]> */
+		</script>
+		<script type="text/javascript">
+		// <![CDATA[
+			if(! window.com) { window.com = {}; }
+			if(! window.com.cnn) { window.com.cnn = {}; }
+			if(! window.com.cnn.blogs) { window.com.cnn.blogs = {}; }
+			if(! window.com.cnn.blogs.belief) { window.com.cnn.blogs.belief = {}; }
+			if(! window.com.cnn.blogs.belief.featuredPosts) { window.com.cnn.blogs.belief.featuredPosts = {}; }
+			if(! window.com.cnn.blogs.belief.featuredPosts.util) { window.com.cnn.blogs.belief.featuredPosts.util = {}; }
+
+			com.cnn.blogs.belief.featuredPosts.util.transformList = function(args) {
+				var settings = Object.extend({
+					galleryContainerId : "cnn_GallerySliderContainer",
+					galleryStripClass : "cnn_fabcaslab",
+					galleryCatClass : "cnn_fabcatz",
+					size : 4
+				}, args);
+
+				var grps = $$("#" + settings.galleryContainerId + " ul li").inGroupsOf(settings.size);
+				var slides = grps.inject([], function(slds, v, i) {
+					var li = v.inject([], function(lis, v, i) {
+						var link, img, title;
+
+						if(v === null) { return lis; }
+
+						// TRANSFORM ENTRY
+						link = v.down().href;
+						img = v.down('img').remove();
+						title = "<a href='" + link + "'>" + v.down().innerHTML + "</" + "a>";
+
+						img = img.wrap('a', { 'href' : link });
+						img = img.wrap('blockquote');
+						v.update();
+						v.insert(img);
+						v.insert(title);
+						// TRANSFORM ENTRY
+
+						lis += "<div class='"+ settings.galleryCatClass + "'>" + v.innerHTML  + "</" + "div>";
+
+						return lis;
+					});
+
+					slds += "<div class='" + settings.galleryStripClass + "'>" + li + "</" + "div>";
+					return slds;
+				});
+
+				$(settings.galleryContainerId).update(slides);
+			};
+
+			com.cnn.blogs.belief.randomBanner = function() {
+				var randBanner = "banner" + (Math.floor(Math.random()*4) + 1);
+
+				if(null !== $("cnn-banner")) {
+					$("cnn-banner").addClassName(randBanner);
+				}
+
+				if(null !== $$("#cnnContentContainer .cnnGradWrap")) {
+					Element.addClassName($$("#cnnContentContainer .cnnGradWrap")[0], randBanner);
+				}
+			}
+
+			document.observe("dom:loaded", function() {
+
+				com.cnn.blogs.belief.randomBanner();
+
+				if ( $$('#cnn-ireport-viewer #cnn-ireport-container').length > 0 && typeof com.cnn.blogs.featuredPosts.ireport !== "object") {
+
+					com.cnn.blogs.featuredPosts.ireport = new com.cnn.blogs.featuredPosts.FeaturedPosts({
+						'galleryContainerId' : 'cnn-ireport-container',
+						'galleryStripClass' : 'cnn-ireport-slab',
+						'nextButtonContainerId' : 'cnn-ireport-next',
+						'prevButtonContainerId' : 'cnn-ireport-prev',
+						'displayWidth' : 300					});
+					Effect.Appear('cnn-ireport-viewer' );
+				}
+			});
+		// ]]>
+		</script>
+		<script>
+		// <![CDATA[
+						var cnnCVPAdSection = "edition.cnn.com_blogs_christiane_amanpour"; // if AD SECTION is EMPTY ('') or missing then this will be used
+		// ]]>
+		</script>
+	</head>
+		<body class="home blog amanpour typekit-enabled cnn-adtag-topbnr mp6">
+		<!-- begin default international header -->
+<!-- TODO: unobtrusive js refactor -->
+<div id="cnn_hdr">
+	<div id="cnn_hdr-prompt" style="display:none;">
+		<div class="hdr-wrap" id="cnn_hdr-promptcntnt">
+		</div>
+	</div>
+	<div id="cnn_hdr-main">
+		<div class="hdr-wrap">
+			<div id="hdr-banner">
+
+
+					<a id="hdr-banner-title" href="http://edition.cnn.com/" title="">
+						<img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/header/intl/hdr-globe-central.gif" width="190" height="82" alt="CNN" />
+					</a>
+
+			</div>
+			<div id="hdr-editions">
+				<ul>
+					<li class="no-pad-left"><span>EDITION: &nbsp;INTERNATIONAL</span></li>
+					<li><a id="cnn_switchEdition_us" href="http://us.cnn.com/" title="CNN US">U.S.</a></li>
+					<li><a href="http://www.cnnmexico.com/" title="CNN M&Eacute;XICO">M&Eacute;XICO</a></li>
+					<li class="no-border"><a href="http://arabic.cnn.com/" title="CNN ARABIC">ARABIC</a></li>
+				</ul>
+				<div class="cnn_clear"></div>
+				<div style="padding-top:2px">
+					<ul>
+						<li class="no-pad-left no-border no-pad-right"><span><a href="http://edition.cnn.com/CNN/Programs" class="cnn_hdr-editionlnk">TV</a>: &nbsp;</span></li>
+						<li><a href="http://edition.cnn.com/cnni/">CNNi</a></li>
+						<li class="no-border"><a href="http://cnnespanol.cnn.com/">CNN en Español</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="hdr-search">
+				<form method="get" action="http://edition.cnn.com/search/" onsubmit="return cnnSearch(this);">
+					<div class="ftr-search-datacntr">
+						<div class="ftr-search-tfield"><input type="text" name="query" size="12" maxlength="40" value="" id="hdr-search-box"></div>
+						<div class="ftr-search-sicon"><input type="image" src="http://i.cdn.turner.com/cnn/.element/img/3.0/search/btn_search_hp_text.gif" width="55" height="21" alt=""></div>
+					</div>
+					<input type="hidden" name="primaryType" id="cnnHeadSrchType" value="mixed">
+				</form>
+				<style>
+					#hdr-editions a { text-decoration:none; }
+					#cnn_hdr-editionS { text-align:left;clear:both; }
+					#cnn_hdr-editionS a { text-decoration:none;font-size:10px;top:7px;line-height:12px;font-weight:bold; }
+					#hdr-prompt-text b { display:inline-block;margin:0 0 0 20px; }
+					#hdr-editions li { padding:0 10px; }
+
+					#hdr-editions ul li.no-pad-left span { font-size:12px; }
+					.hdr-arrow-intl, .hdr-arrow-us, .hdr-arrow-us2 { left:148px; }
+					.hdr-arrow-us2 { left:180px; }
+				</style>
+			</div>
+		</div>
+	</div>
+	<div id="cnn_hdr-nav">
+		<ul id="intl-menu">
+			<li class="no-border"><a id="nav-home" class="nav-media no-border" href="http://edition.cnn.com/" title="Breaking, World, Business, Sports, Entertainment and Video News from CNN.com International">Home</a></li>
+			<li class="no-border"><a id="nav-video" class="nav-media no-border" href="http://edition.cnn.com/video/" title="Breaking News Videos from CNN.com International">Video</a></li>
+			<li><a id="nav-world" class="nav-on" href="http://edition.cnn.com/WORLD/" title="World News Headlines and Video from CNN.com International">World</a></li>
+			<li><a id="nav-us" href="http://edition.cnn.com/US/" title="U.S. News Headlines and Video from CNN.com International">U.S.</a></li>
+			<li><a id="nav-africa" href="http://edition.cnn.com/AFRICA/" title="Africa News Headlines and Video from CNN.com International">Africa</a></li>
+			<li><a id="nav-asia" href="http://edition.cnn.com/ASIA/" title="Asia News Headlines and Video from CNN.com International">Asia</a></li>
+			<li><a id="nav-europe" href="http://edition.cnn.com/EUROPE/" title="Europe News Headlines and Video from CNN.com International">Europe</a></li>
+			<li><a id="nav-latin-america" href="http://edition.cnn.com/LATINAMERICA/" title="Latin America News Headlines and Video from CNN.com International">Latin America</a></li>
+			<li><a id="nav-middle-east" href="http://edition.cnn.com/MIDDLEEAST/" title="Middle East News Headlines and Video from CNN.com International">Middle East</a></li>
+			<li><a id="nav-business" href="http://edition.cnn.com/BUSINESS/" title="World Business News Headlines and Video from CNN.com International">Business</a></li>
+			<li><a id="nav-world-sport" href="http://edition.cnn.com/SPORT/" title="World Sport News Headlines and Video from CNN.com International">World Sport</a></li>
+			<li><a id="nav-entertainment" href="http://edition.cnn.com/SHOWBIZ/" title="Entertainment News Headlines and Video from CNN.com International">Entertainment</a></li>
+			<li><a id="nav-tech" href="http://edition.cnn.com/TECH/" title="Technology News Headlines and Video from CNN.com International">Tech</a></li>
+			<li><a id="nav-travel" href="http://travel.cnn.com/" title="Travel News Headlines and Video from CNN.com International">Travel</a></li>
+			<li><a id="nav-ireport" href="http://www.ireport.com/" title="CNN iReport &ndash; Share your story, discuss the issues with CNN.com International">iReport</a></li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+// switching banners - for sections remove this and hardcode proper globe image
+var cnnCdnPath = 'http://i.cdn.turner.com/cnn/.element/img/3.0/global/header/intl/';
+var cnnIntlBanners = [
+	'<img src="' + cnnCdnPath + 'hdr-globe-west.gif" width="190" height="82" alt="">',
+	'<img src="' + cnnCdnPath + 'hdr-globe-central.gif" width="190" height="82" alt="">',
+	'<img src="' + cnnCdnPath + 'hdr-globe-east.gif" width="190" height="82" alt="">'
+];
+var cnnRNum = Math.floor(Math.random() * cnnIntlBanners.length);
+document.getElementById('hdr-banner-title').innerHTML = cnnIntlBanners[cnnRNum];
+</script>
+<script type="text/javascript">
+
+</script>
+<!-- end header -->
+		<div id="cnn-bodywrap">
+		<div id="cnnContainer" class="cnn_container cnn-blog-main cnn_brkt_1" align="center">
+			<div class="cnn_brkt_2">
+				<div class="cnn_brkt_3">
+					<div class="cnn_brkt_4">
+						<div class="large-background-cover cnn_maincntnr">
+							<div class="cnn_contentarea">
+								<div id="cnnContentContainer">
+									<div class="cnn_contentarea">
+									<!-- CONTENT START -->
+	
+		<!-- CONTENT TOP AREA -->
+	<div class="cnn_content_top">
+
+	
+		<!-- STANDARD HEADER -->
+		<div class="cnn_std_header">
+						<div class="cnn_std_header_image_bx">
+													<!-- ad -->
+					<div class="cnn_adtag cnn_88x31"><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=88x31_spon_amanpour&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: whats_on/christiane_amanpour/blog/spon1.143x31 -->
+<div id="ad-b447952d6f03f23e" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("b447952d6f03f23e","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=88x31_spon_amanpour&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs","31","88");
+cnnad_registerSpace("b447952d6f03f23e","88","31");
+</script>
+<!-- ADSPACE-END --></div>
+					<!-- /ad -->
+								<h1 class="cnn_std_header_h1"><a class="banner-link" href="http://amanpour.blogs.cnn.com" title="Amanpour"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt="Amanpour" /></a></h1>				<div class="cnn_showtime_label">
+									</div>
+			</div>
+			<!-- NAV -->
+			
+									<!-- / NAV -->
+		</div>
+		<!-- /STANDARD HEADER -->
+
+		<!-- STANDARD ROTATING T1 FEATURE -->
+				<!-- /STANDARD ROTATING T1 FEATURE -->
+
+		<!-- EVENTS -->
+		<div class="cnn_top_event">
+					<h2 class="cnn_event_title cnn_tpad7">Follow Christiane on social media:</h2>
+					<div class="cnn_event_img"></div>
+					<div class="cnn_event_body">
+						<span class="cnn_event_date">Twitter: @CAmanpour Facebook: Amanpour.com/Facebook Google+: Google+</span>						<div class="cnn_event_blurb"><p class="cnn_first">Twitter: <a href="http://twitter.com/camanpour">@CAmanpour</a><br />
+Facebook: <a href="http://amanpour.com/facebook">Amanpour.com/Facebook</a><br />
+Google+: <a href="https://plus.google.com/116778087905172504962" rel="publisher">Google+</a></p>
+</div>
+					</div>
+					<div class="cnn_clear"></div>
+				</div><div class="cnn_top_event">
+					<h2 class="cnn_event_title cnn_tpad7">What time is Amanpour on CNN?</h2>
+					<div class="cnn_event_img"></div>
+					<div class="cnn_event_body">
+						<span class="cnn_event_date">Check showtimes to see when Christiane Amanpour is on CNN where you are. Or watch online.</span>						<div class="cnn_event_blurb"><p class="cnn_first">Check <a href="http://us.cnn.com/CNNI/" target="_blank">showtimes</a> to see when Christiane Amanpour is on CNN where you are. Or <a href="http://amanpour.blogs.cnn.com/category/latest-episode/">watch online</a>.</p>
+</div>
+					</div>
+					<div class="cnn_clear"></div>
+				</div><div class="cnn_clear"></div>		<!-- /EVENTS -->
+
+		
+		
+			<!-- STANDARD FLIPPER HOOK -->
+	<div id="cnn-flipper-viewer" style="display:none;">
+		<div class="cnn-nav"><img id="cnn-flipper-prev" src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt="Previous" /></div>
+		<div id="cnn-flipper-viewport" class="cnn_flipper_viewport">
+			<div id="cnn-flipper-container">
+				<div class="cnn-flipper-slab"><div class="cnn-flipper-item cnn-first">
+				<blockquote class="cnn_vidplyb38x38_box">
+					<a href="http://amanpour.blogs.cnn.com/2012/04/10/contact-us/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/sect/blogs/amanpour/amanpour.world.view.jpg" alt="Contact Us" /></a>
+					
+				</blockquote>
+				<a href="http://amanpour.blogs.cnn.com/2012/04/10/contact-us/">Contact Us</a>
+			</div><div class="cnn-flipper-item">
+				<blockquote class="cnn_vidplyb38x38_box">
+					<a href="http://edition.cnn.com/TRANSCRIPTS/ampr.html"><img src="http://i2.cdn.turner.com/cnn/2012/images/11/29/from.the.show2.jpg" alt="Transcripts" /></a>
+					
+				</blockquote>
+				<a href="http://edition.cnn.com/TRANSCRIPTS/ampr.html">Transcripts</a>
+			</div><div class="cnn-flipper-item">
+				<blockquote class="cnn_vidplyb38x38_box">
+					<a href="http://amanpour.blogs.cnn.com/category/latest-episode/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/sect/blogs/amanpour/featured.topic.jpg" alt="Watch Latest Episode" /></a>
+					
+				</blockquote>
+				<a href="http://amanpour.blogs.cnn.com/category/latest-episode/">Watch Latest Episode</a>
+			</div><div class="cnn-flipper-item">
+				<blockquote class="cnn_vidplyb38x38_box">
+					<a href="http://amanpour.blogs.cnn.com/category/amanpour-archive/"><img src="http://i2.cdn.turner.com/cnn/2012/images/04/12/amandoc.jpg" alt="Amanpour Archive" /></a>
+					
+				</blockquote>
+				<a href="http://amanpour.blogs.cnn.com/category/amanpour-archive/">Amanpour Archive</a>
+			</div><div class="cnn-flipper-item cnn-last">
+				<blockquote class="cnn_vidplyb38x38_box">
+					<a href="http://amanpour.blogs.cnn.com/category/the-greatest-interviews/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/sect/blogs/amanpour/key.christiane.interviews.jpg" alt="Best Interviews" /></a>
+					
+				</blockquote>
+				<a href="http://amanpour.blogs.cnn.com/category/the-greatest-interviews/">Best Interviews</a>
+			</div></div>			</div>
+		</div>
+		<div class="cnn-nav"><img id="cnn-flipper-next" src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt="Next" /></div>
+		<div class="cnn_clear"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" height="1" width="1" alt=""/></div>
+	</div>
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		if(! window.com) { window.com = {}; }
+		if(! window.com.cnn) { window.com.cnn = {}; }
+		if(! window.com.cnn.blogs) { window.com.cnn.blogs = {}; }
+		if(! window.com.cnn.blogs.std) { window.com.cnn.blogs.std = {}; }
+
+		if ( $$('#cnn-flipper-viewer #cnn-flipper-container').length > 0 && typeof com.cnn.blogs.std.flipper !== "object") {
+			com.cnn.blogs.std.flipper = new com.cnn.blogs.featuredPosts.FeaturedPosts({
+				'galleryContainerId' : 'cnn-flipper-container',
+				'galleryStripClass' : 'cnn-flipper-slab',
+				'nextButtonContainerId' : 'cnn-flipper-next',
+				'prevButtonContainerId' : 'cnn-flipper-prev',
+				'displayWidth' : 945
+			});
+			Effect.Appear('cnn-flipper-viewer' );
+		}
+		/*]]>*/
+	</script>
+	<!-- /STANDARD FLIPPER HOOK -->
+	
+        			<div class="cnn_clear"></div>
+			<!-- / NAV -->
+
+
+		
+
+		
+							</div>
+	<!-- /CONTENT TOP AREA -->
+		<div id="cnnContentContainer2" class="cnn_content_body cnn_blog_2col cnn_blog_2col_shdbx">
+		<!-- content -->
+		<div class="cnn_shdtop"><div class="cnn_gap"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt=""/></div></div>
+		<div class="cnn_shd1">
+			<div class="cnn_shd2">
+				<div class="cnn_shd3">
+					<div class="cnn_shd4">
+						<div class="cnn_left_column">
+							<div id="cnnBlogContentArea" class="cnn_blog_content_area">
+									<!-- blog post 7160 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/06/more-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says/" rel="bookmark" title="Permanent Link:More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says">More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP1" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/06/pillar-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/pillar-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131008202908-isfahan-nuclear-iran-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Former CIA officer on Iran sanctions" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/pillar-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7160 post type-post status-publish format-standard hentry category-christiane-amanpour category-iran category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 6th, 2013			</div>
+		<div class="cnnGryTmeStmp">03:55 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7160" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7160');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F&#038;text=More%20Iran%20sanctions%20would%20bolster%20suspicion%20that%20U.S.%20goal%20is%20regime%20change,%20U.S.%20intelligence%20veteran%20says&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=More%20Iran%20sanctions%20would%20bolster%20suspicion%20that%20U.S.%20goal%20is%20regime%20change,%20U.S.%20intelligence%20veteran%20says&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fmore-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_1" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/06/more-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says/#comments" title="Comments for More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/06/more-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says">1 comment</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever, CNN</strong></p>
+<p>Increasing sanctions on Iran at a time of landmark direct negotiations would increase Iranian suspicion that the U.S. is seeking regime change, a former CIA officer and nearly 30-year veteran of the U.S. intelligence community said on Wednesday.</p>
+<p>“It simply adds to the perception, which is already pretty prevalent in Tehran – it’s a suspicion  that none other than the Supreme Leader holds – that we in the United States aren’t really interested in an agreement, we’re interested in regime change,” Paul Pillar told CNN’s Christiane Amanpour.</p>
+<p>Robert Menendez, a Democratic Senator, <a href="http://amanpour.blogs.cnn.com/2013/11/06/as-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief/" target="_blank">told Amanpour on Wednesday</a> that he was calling on Iran to suspend enrichment as a “good-faith” effort in negotiations. </p>
+<p>“What I do not understand is a negotiating posture in which we suspend our actions, we give them sanctions relief on existing sanctions, yet they continue to be able to enrich, to be able to have more sophisticated centrifuges,” Menendez said.</p>
+<p>Pillar dismissed that idea as a logical fallacy.</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/11/06/more-iran-sanctions-would-bolster-suspicion-that-u-s-goal-is-regime-change-u-s-intelligence-veteran-says/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/1/iran/" title="View all posts in Iran" rel="category tag">Iran</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7160 -->
+	<!-- blog post 7158 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/06/as-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief/" rel="bookmark" title="Permanent Link:As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief">As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP2" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/06/menendez-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/menendez-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131015110710-iran-nuclear-facility-bushehr-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Senator calls for more Iran sanctions" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/menendez-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7158 post type-post status-publish format-standard hentry category-christiane-amanpour category-iran category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 6th, 2013			</div>
+		<div class="cnnGryTmeStmp">03:54 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7158" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7158');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F&#038;text=As%20Iran%20and%20U.S.%20negotiate,%20Senator%20Menendez%20blasts%20unilateral%20sanctions%20relief&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=As%20Iran%20and%20U.S.%20negotiate,%20Senator%20Menendez%20blasts%20unilateral%20sanctions%20relief&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fas-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_2" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/06/as-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief/#comments" title="Comments for As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/06/as-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief">1 comment</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever, CNN</strong></p>
+<p>As long as Iran continues to enrich uranium the United States should not suspend its Iran sanctions, Democratic Senator Robert Menendez told CNN’s Christiane Amanpour on Wednesday.</p>
+<p>Landmark direct negotiations between the two countries are set to continue on Thursday in Geneva.</p>
+<p>“What I do not understand is a negotiating posture in which we suspend our actions, we give them sanctions relief on existing sanctions, yet they continue to be able to enrich, to be able to have more sophisticated centrifuges,” Menendez said.</p>
+<p>Details of negotiation have been kept under tight wraps.</p>
+<p>But in broad strokes, Iran – under the leadership of newly elected President Hassan Rouhani – is seeking massive sanctions relief; the United States and its negotiating partners want to prevent Iran from having a nuclear weapon.</p>
+<p>“The only reason we’re in these negotiations is because of the sanctions that I and others have offered,” Menendez said, adding that he was trying to avoid military conflict.</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/11/06/as-iran-and-u-s-negotiate-senator-menendez-blasts-unilateral-sanctions-relief/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/1/iran/" title="View all posts in Iran" rel="category tag">Iran</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7158 -->
+	<!-- blog post 7152 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/06/a-new-space-race-with-new-players/" rel="bookmark" title="Permanent Link:A new space race, with new players">A new space race, with new players</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP3" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/06/space-race-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/space-race-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131106142857-space-race-amanpour-00002607-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="A race for space with new players" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/space-race-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7152 post type-post status-publish format-standard hentry category-christiane-amanpour category-imagine-a-world category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 6th, 2013			</div>
+		<div class="cnnGryTmeStmp">09:42 AM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7152" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7152');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share A new space race, with new players on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share A new space race, with new players on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F&#038;text=A%20new%20space%20race,%20with%20new%20players&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share A new space race, with new players on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share A new space race, with new players on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share A new space race, with new players on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share A new space race, with new players on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=A%20new%20space%20race,%20with%20new%20players&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share A new space race, with new players on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F06%2Fa-new-space-race-with-new-players%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_3" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/06/a-new-space-race-with-new-players/#comments" title="Comments for A new space race, with new players">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/06/a-new-space-race-with-new-players/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on A new space race, with new players">9 comments</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Lucky Gold, CNN</strong></p>
+<p>Imagine a world where a new race for outer space – with new players – has achieved lift-off.</p>
+<p>Over fifty years ago, U.S. President John F. Kennedy announced America’s intention to beat the Soviet Union to the moon.</p>
+<p>Today, a spacecraft was rocketed into orbit, the first stage in an ambitious mission to mars. But it wasn&#039;t launched by the United States or Russia.</p>
+<p>The un-manned spacecraft was launched by India – for the relatively bargain-basement cost of $73 million.</p>
+<p>It is scheduled to reach the red planet sometime next year, where it will conduct scientific experiments.</p>
+<p><strong>Interactive: <a href="http://edition.cnn.com/2013/11/04/world/mars-exploration-interactive/index.html">Mars exploration from Viking to MAVEN</a></strong></p>
+<p>While some say India should spend its treasure feeding its children – among the most malnourished on earth – India is also a global economic power, in open competition for research and resources.</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/11/06/a-new-space-race-with-new-players/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/imagine-a-world/" title="View all posts in Imagine a World" rel="category tag">Imagine a World</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7152 -->
+	<!-- blog post 7147 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/05/former-iraqi-pm-allawi-on-engulfing-violence/" rel="bookmark" title="Permanent Link:Former Iraqi PM Allawi on engulfing violence">Former Iraqi PM Allawi on engulfing violence</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP4" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/05/allawi-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/05/allawi-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131105191912-iraq-car-bomb-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Former PM on explosion of Iraq violence" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/05/allawi-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7147 post type-post status-publish format-standard hentry category-christiane-amanpour category-iraq category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 5th, 2013			</div>
+		<div class="cnnGryTmeStmp">03:21 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7147" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7147');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share Former Iraqi PM Allawi on engulfing violence on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share Former Iraqi PM Allawi on engulfing violence on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F&#038;text=Former%20Iraqi%20PM%20Allawi%20on%20engulfing%20violence&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share Former Iraqi PM Allawi on engulfing violence on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share Former Iraqi PM Allawi on engulfing violence on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share Former Iraqi PM Allawi on engulfing violence on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share Former Iraqi PM Allawi on engulfing violence on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=Former%20Iraqi%20PM%20Allawi%20on%20engulfing%20violence&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share Former Iraqi PM Allawi on engulfing violence on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Fformer-iraqi-pm-allawi-on-engulfing-violence%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_4" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/05/former-iraqi-pm-allawi-on-engulfing-violence/#comments" title="Comments for Former Iraqi PM Allawi on engulfing violence">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/05/former-iraqi-pm-allawi-on-engulfing-violence/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on Former Iraqi PM Allawi on engulfing violence">2 comments</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first">CNN&#039;s Christiane Amanpour speaks with Former Iraqi Prime Minister Ayad Allawi about the violence engulfing his country.</p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/iraq/" title="View all posts in Iraq" rel="category tag">Iraq</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7147 -->
+	<!-- blog post 7143 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/05/for-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour/" rel="bookmark" title="Permanent Link:For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says">For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP5" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/05/feingold-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/05/feingold-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131105154450-m23-rebel-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="U.S. envoy on &quot;Africa&#039;s 1st World War&quot;" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/05/feingold-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7143 post type-post status-publish format-standard hentry category-christiane-amanpour category-congo category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 5th, 2013			</div>
+		<div class="cnnGryTmeStmp">02:51 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7143" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7143');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F&#038;text=For%20Congo,%20‘hopeful%20moment’%20of%20M23%20rebel%20disarmament%20tempered%20by%20decades%20of%20conflict,%20U.S.%20envoy%20Feingold%20says&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=For%20Congo,%20‘hopeful%20moment’%20of%20M23%20rebel%20disarmament%20tempered%20by%20decades%20of%20conflict,%20U.S.%20envoy%20Feingold%20says&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F05%2Ffor-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_5" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/05/for-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour/#comments" title="Comments for For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/05/for-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says">Add comment</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever, CNN</strong></p>
+<p>The U.S. special envoy to the Democratic Republic of Congo, Russ Feingold, said that while the decision by M23 rebels in that country to lay down their arms against the government is a “hopeful moment,” it is far from the end of the road.</p>
+<p>“It would be a great over-simplification to call this important step the end” of Congo’s hardship, Feingold told CNN’s Christiane Amanpour.</p>
+<p>“Some five to six million people have died in this conflict over the last 20 years,” he said from Johannesburg. “There are dozens of armed groups involved; there are complex issues involved in the countries in the region. We need a broader political dialogue to resolve that.”</p>
+<p>The M23 has been fighting the Congolese government for nearly two years. On its website, the group announced that it would &#034;pursue, by purely political means, a search for solutions to the profound issues that led to its creation.&#034;</p>
+<p>“What has happened here is not simply the M23 rebellion saying that they’re going to have a ceasefire, or cease for a while,” Feingold said. “They have formally renounced their rebellion.”</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/11/05/for-congo-hopeful-moment-of-m23-rebel-disarmament-tempered-by-decades-of-conflict-u-s-envoy-feingold-tells-amanpour/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/congo/" title="View all posts in Congo" rel="category tag">Congo</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7143 -->
+	<!-- blog post 7149 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/04/life-after-the-elysee/" rel="bookmark" title="Permanent Link:Life after the Elysee">Life after the Elysee</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP6" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/06/full-attias-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/full-attias-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131106132910-full-attias-amanpour-00024923-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="FULL interview: Cecilia Attias" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/06/full-attias-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7149 post type-post status-publish format-standard hentry category-christiane-amanpour category-france category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 4th, 2013			</div>
+		<div class="cnnGryTmeStmp">11:12 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7149" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7149');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share Life after the Elysee on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share Life after the Elysee on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F&#038;text=Life%20after%20the%20Elysee&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share Life after the Elysee on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share Life after the Elysee on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share Life after the Elysee on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share Life after the Elysee on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=Life%20after%20the%20Elysee&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share Life after the Elysee on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Flife-after-the-elysee%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_6" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/04/life-after-the-elysee/#comments" title="Comments for Life after the Elysee">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/04/life-after-the-elysee/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on Life after the Elysee">Add comment</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first">CNN&#039;s Christiane Amanpour speaks with the former first lady of France, Cecilia Attias.</p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/france/" title="View all posts in France" rel="category tag">France</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7149 -->
+	<!-- blog post 7139 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/04/egypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm/" rel="bookmark" title="Permanent Link:Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy">Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP7" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/11/04/ziad-bahaa-el-din-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/11/04/ziad-bahaa-el-din-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131104184607-morsy-supporters-poster-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Gov&#039;t responds as Morsy trial starts" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/11/04/ziad-bahaa-el-din-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7139 post type-post status-publish format-standard hentry category-christiane-amanpour category-egypt category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 4th, 2013			</div>
+		<div class="cnnGryTmeStmp">04:25 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7139" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7139');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F&#038;text=Egypt%20not%20on%20a%20‘proper%20path%20to%20democracy,’%20suggests%20Egypt%20deputy%20PM,%20who%20blames%20Morsy&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=Egypt%20not%20on%20a%20‘proper%20path%20to%20democracy,’%20suggests%20Egypt%20deputy%20PM,%20who%20blames%20Morsy&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F04%2Fegypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_7" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/04/egypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm/#comments" title="Comments for Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/04/egypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy">28 comments</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever, CNN</strong></p>
+<p>On the day former Egyptian President Mohamed Morsy emerged from four months of military captivity to face trial, Deputy Prime Minister Ziad Bahaa el-Din implied to CNN’s Christiane Amanpour that Egypt is not on a “proper path to democracy,” while blaming that state of affairs on Morsy.</p>
+<p>Bahaa el-Din said that it was under Morsy’s presidency that “freedoms began to be taken” and “the constitution was no longer upheld.”</p>
+<p>“Having said this,” he said, “we need to keep our eyes fixed on not continuing in that road, and as quickly as possible, as strongly as possible, going back to a proper path of democracy.”</p>
+<p>The deputy prime minister represents a voice of moderation in the interim government at a time when Egypt has become hyperpolarized, violent, and politically bewildering.</p>
+<p>He admitted to Amanpour that compromise had become a “dirty word” in Egypt.</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/11/04/egypt-not-on-a-proper-path-to-democracy-suggests-egypt-deputy-pm/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/egypt/" title="View all posts in Egypt" rel="category tag">Egypt</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7139 -->
+	<!-- blog post 7136 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/11/03/amanpour-on-ac360-later/" rel="bookmark" title="Permanent Link:Amanpour on AC360 Later">Amanpour on AC360 Later</a></h2>	<div class="cnnWideImage">
+		</div>
+	<div class="post-7136 post type-post status-publish format-standard hentry cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			November 3rd, 2013			</div>
+		<div class="cnnGryTmeStmp">04:05 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7136" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7136');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share Amanpour on AC360 Later on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share Amanpour on AC360 Later on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F&#038;text=Amanpour%20on%20AC360%20Later&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share Amanpour on AC360 Later on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share Amanpour on AC360 Later on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share Amanpour on AC360 Later on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share Amanpour on AC360 Later on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=Amanpour%20on%20AC360%20Later&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share Amanpour on AC360 Later on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F11%2F03%2Famanpour-on-ac360-later%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_8" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/11/03/amanpour-on-ac360-later/#comments" title="Comments for Amanpour on AC360 Later">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/11/03/amanpour-on-ac360-later/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on Amanpour on AC360 Later">1 comment</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first">This week, Christiane Amanpour will join the <a href="http://ac360.blogs.cnn.com/category/ac360-later/" target="_blank">AC360 Later</a> panel in New York. Be sure to turn in starting Tuesday at 10pm ET on CNN and CNN International!</p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																														</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7136 -->
+	<!-- blog post 7130 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/10/31/malaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity/" rel="bookmark" title="Permanent Link:Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity”">Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity”</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP8" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/10/31/razak-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/10/31/razak-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131031142719-malaysia-najib-razak-amanpour-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Malaysian prime minister" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/10/31/razak-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7130 post type-post status-publish format-standard hentry category-christiane-amanpour category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			October 31st, 2013			</div>
+		<div class="cnnGryTmeStmp">04:15 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7130" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7130');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F&#038;text=Malaysia%20PM:%20Obama’s%20cancelled%20Asia%20trip%20a%20“missed%20opportunity”&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=Malaysia%20PM:%20Obama’s%20cancelled%20Asia%20trip%20a%20“missed%20opportunity”&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity” on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fmalaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_9" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/10/31/malaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity/#comments" title="Comments for Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity”">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/10/31/malaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on Malaysia PM: Obama’s cancelled Asia trip a “missed opportunity”">46 comments</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever and Claire Calzonetti, CNN</strong></p>
+<p>The cancellation of U.S. President Barack Obama’s trip to Southeast Asia earlier this month because of the government shutdown was a “missed opportunity,” Malaysian Prime Minister Najib Razak told CNN’s Christiane Amanpour on Thursday.</p>
+<p>“It was a missed opportunity for Obama to assert his leadership, particularly in the context of his policy pivot towards Asia,” Najib told Amanpour in London. “I know he regrets it.”</p>
+<p>“When he called me he said, ‘By hook or by crook, I will visit Malaysia next year,’” the prime minister said. “So we’re looking forward to receiving him.”</p>
+<p>Najib leads a nation of nearly 30 million – a diverse, majority-Muslim country that wants to be viewed as a modern Islamic democracy.</p>
+<p>It is an appealing destination for tourists and investors alike – though the global recession did take its toll, and with tension between various ethnic groups and allegations of election fraud, it is not without controversy.</p>
+<p>“My priority is to ensure peace and harmony in Malaysia. That is uppermost in my mind,” Najib said. </p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/10/31/malaysia-pm-obamas-cancelled-asia-trip-a-missed-opportunity/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7130 -->
+	<!-- blog post 7128 -->
+	
+	
+	<div class="cnnPostWrap cnn_wh1600_post_separator">
+	<h2 class="cnnBlogContentTitle"><a href="http://amanpour.blogs.cnn.com/2013/10/31/german-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone/" rel="bookmark" title="Permanent Link:German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone">German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone</a></h2>	<div class="cnnWideImage">
+	<div data-packageid="" data-bgo-source="" data-bgo-section="" data-bgo-subsection="" data-tracking="" data-video-height="406" data-video-width="640" id="cnnCVP9" class="cnn_video cnn_video_large" data-video-class="cnn_video_large" data-video-url="world/2013/10/31/westerwelle-amanpour.cnn" data-ssid="edition.cnn.com_blogs_christiane_amanpour" data-url="http://www.cnn.com/video/data/2.0/video/world/2013/10/31/westerwelle-amanpour.cnn.html" data-context="640x406_stop_embed_onsite" data-image-url="http://i2.cdn.turner.com/cnn/dam/assets/131031183806-merkel-holds-up-phone-horizontal-gallery.jpg" data-preset="blog_large" data-source="CNN" data-source-url="" data-video-headline="Germany: U.S. spying &quot;not acceptable&quot;" data-actual-vid-height="391" data-network="cnnintl"><a href="http://www.cnn.com/video/data/2.0/video/world/2013/10/31/westerwelle-amanpour.cnn.html">Click to watch video</a></div>	</div>
+	<div class="post-7128 post type-post status-publish format-standard hentry category-christiane-amanpour category-germany category-latest-episode cnn_ie7_background_fix" >
+
+		
+		<div class="cnnLeftPost">
+			<div class="cnnFcIcon"></div>
+			<div class="cnnBlogContentDateHead">
+			October 31st, 2013			</div>
+		<div class="cnnGryTmeStmp">03:37 PM ET</div>
+
+			<div class="cnn_share_links">
+		<div class="cnnOverlayMenuContainer">
+			<div id="cnnShare7128" class="cnnOverlayMenu">
+				<div class="cnnShareThisBox">
+					<div class="cnnShareBoxHeader"><div class="cnnShareBoxHeaderTL"></div><div class="cnnShareBoxHeaderTR"></div></div>
+					<div class="cnnShareBoxContent">
+						<div class="cnnShareContent">
+							<div class="cnn_share_this_content">
+								<div class="cnnShareThisTitle">
+									<a href="javascript:cnnHideOverlay('cnnShare7128');"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/global/icons/btn_close.gif" alt="Close" title="Close" width="12" height="12" /></a><span>Share this on:</span>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareFacebook" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on Facebook" href="http://www.facebook.com/share.php?u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F" target="_blank">Facebook</a>
+								</div>
+								<div class="cnnShareThisItem">
+									<a class="cnnShareTwitter" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on Twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F&#038;text=German%20FM%20Westerwelle:%20U.S.%20“cannot%20fight%20terrorism”%20by%20taping%20Merkel’s%20phone&#038;hashtags=cnn" target="_blank">Twitter</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDigg" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on Digg" href="http://digg.com/submit?phase=2&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F" target="_blank">Digg</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareDelicious" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on del.icio.us" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&#038;partner=cnn&#038;noui&#038;jump=close&#038;url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F','toolbar=no,width=700,height=400'); return false;">del.icio.us</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareReddit" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on reddit" href="http://reddit.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F" target="_blank">reddit</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareMyspace" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on MySpace" href="http://www.myspace.com/Modules/PostTo/Pages/?t=German%20FM%20Westerwelle:%20U.S.%20“cannot%20fight%20terrorism”%20by%20taping%20Merkel’s%20phone&#038;u=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F" target="_blank">MySpace</a>
+								</div>
+
+								<div class="cnnShareThisItem">
+									<a class="cnnShareStumbleUpon" title="Share German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Famanpour.blogs.cnn.com%2F2013%2F10%2F31%2Fgerman-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone%2F" target="_blank">StumbleUpon</a>
+								</div>
+							</div><!-- /cnnShareThisContent -->
+						</div><!-- /cnnShareContent -->
+					</div><!-- /cnnShareBoxContent -->
+					<div class="cnnShareBoxFooter"><div class="cnnShareBoxFooterBL"></div><div class="cnnShareBoxFooterBR"></div></div>
+				</div>
+			</div>
+		</div>
+					<span id="cnnsocial_10" class="cnn_widget cnnsocial_sharebar cnnsocial_sharebar_blogIndex" type="sharebar" version="0.2.2" templates="" data-bind="template: { 'name': 'cnnsocial_template_blogIndex' }"></span>		<div class="cnnCommentsLnk">
+			<a href="http://amanpour.blogs.cnn.com/2013/10/31/german-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone/#comments" title="Comments for German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone">Comments</a> <span class="cnn_comment_count">(<a href="http://amanpour.blogs.cnn.com/2013/10/31/german-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone/#comments" style="padding-left:0px; padding-right:0px;" title="Comment on German FM Westerwelle: U.S. “cannot fight terrorism” by taping Merkel’s phone">53 comments</a>)</span>
+		</div>
+		
+
+	</div>
+
+	
+	</div>
+
+	<div class="cnnRightPost">
+
+		
+				<div class="cnnBlogContentPost">
+			<p class="cnn_first"><strong>By Mick Krever, CNN</strong></p>
+<p>The U.S. “cannot fight terrorism” by listening to German Chancellor Angel Merkel’s personal cell phone, the foreign minister of that country, Guido Westerwelle, told CNN’s Christiane Amanpour on Thursday.</p>
+<p>“I understand that it is necessary to fight against terrorism,” he said, “but you cannot fight terrorism by taping the Chancellor’s cell phone.”</p>
+<p>When asked if Westerwelle believed that his own phone was being tapped, the foreign minister demurred.</p>
+<p>“I cannot exclude it,” he said.</p>
+<p> <a href="http://amanpour.blogs.cnn.com/2013/10/31/german-fm-westerwelle-u-s-cannot-fight-terrorism-by-taping-merkels-phone/" class="more-link">FULL POST</a></p>
+								</div>
+
+		
+		<div class="cnnPostFooter">
+			<table>
+				<tr>
+					<td>
+						<div class="cnn_mugshot">
+													</div>
+					</td>
+					<td valign="top" class="cnn_padb20 cnn_author_info">
+																											<br /><span class="cnnBlogFiledBy cnn_categories">Filed under:  <a href="http://amanpour.blogs.cnn.com/category/christiane-amanpour/" title="View all posts in Christiane Amanpour" rel="category tag">Christiane Amanpour</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/germany/" title="View all posts in Germany" rel="category tag">Germany</a>&nbsp;&#8226;&nbsp;<a href="http://amanpour.blogs.cnn.com/category/latest-episode/" title="View all posts in Latest Episode" rel="category tag">Latest Episode</a></span>
+																		</td>
+				</tr>
+			</table>
+					</div>
+
+
+</div>
+<div class="cnn_clear"></div>
+<div class="cnn-large-embed "></div></div><!-- IE7 background fix -->
+</div>
+
+
+			<div class="cnn_post_separator"><div class="cnn_gap"></div><div class="cnn_gap cnn_gap_right"></div></div>
+	<!-- /blog post 7128 -->
+	<div class="OUTBRAIN" data-src="http://amanpour.blogs.cnn.com/" data-widget-id="AR_3" data-ob-template="cnnedition"></div>			<div class="cnnPostNavigation cnn_post_navigation cnn_post_navigation_home">
+			<span class="cnn_post_navigation_prev"><a href="http://amanpour.blogs.cnn.com/page/2/" >&#171; older posts</a></span>
+						<span class="cnn_post_navigation_next"></span>
+			<div class="cnn_clear"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt=""/></div>
+		</div>
+									</div><!-- /cnnBlogContentArea -->
+						</div>
+						<div class="cnn_right_column">
+														<div id="cnnRightCol" class="cnn_right_col">
+
+<div class="cnnRRBox"><div class="cnnRRBoxHeader"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/mosaic/base_skins/right_rail/grey_corner_TL.gif" width="4" height="4" alt=""></div><div class="cnnRRBoxContent"><div class="cnn_pksz_tp_hck"></div>
+
+
+
+<div id="sidebar" class="cnn_sidebar">
+
+	
+	
+	<!-- @start 2 --><div id="cnn_cnn_page_widget-2" class="widget-1 cnn_widget_first cnn_widget cnn_cnn_page_widget"><h3 class="cnn_widget_title">Showtimes</h3><p><strong>Monday – Friday</strong>:<br />
+1900 &amp; 2200 London<br />
+2000 &amp; 2300 CET<br />
+2:00pm &amp; 5:00pm ET</p>
+<p><strong>Asia, Tuesday<strong> – </strong>Saturday</strong>:<br />
+6pm HKT<br />
+10pm HKT</p>
+</div><!-- @end 2 --><div id="cnn_text-3" class="widget-2 cnn_widget cnn_widget_text"><h3 class="cnn_widget_title">Follow Amanpour</h3>			<div class="textwidget"><div class="cnn_social_icons"><a class="cnn_social_icon_twitter cnn_social_icon" target="_blank" href="http://twitter.com/camanpour"><span class="cnn_social_icon_text">Twitter</span></a><a class="cnn_social_icon_facebook cnn_social_icon" target="_blank" href="http://amanpour.com/facebook"><span class="cnn_social_icon_text">Facebook</span></a><div class="cnn_clear"></div></div><div class="cnn_empty_text_widget"><div class="cnn_clear">.</div></div></div>
+		</div><div id="cnn_cnn_adtag-2" class="widget-3 cnn_widget cnn_cnn_widget_adtag"><h3 class="cnn_widget_title"></h3><div class="cnn_adtag_rgt"><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x850_rgt&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: shows/christiane_amanpour/blog/rgt.336x850 -->
+<div id="ad-052990a24eb3c4c0" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("052990a24eb3c4c0","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x850_rgt&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs","850","336");
+cnnad_registerSpace("052990a24eb3c4c0","336","850");
+</script>
+<!-- ADSPACE-END --><div class="cnn_adtitle"><img 
+						src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/advertisement.gif" 
+					alt="Advertisement" /></div></div></div><div id="cnn_facebook-likebox-3" class="widget-4 cnn_widget cnn_widget_facebook_likebox"><h3 class="cnn_widget_title"><a href="http://www.facebook.com/amanpourabc">Find us on Facebook</a></h3><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Famanpourabc&#038;width=320&#038;height=580&#038;colorscheme=light&#038;show_faces=true&#038;stream=true&#038;show_border=true&#038;header=false&#038;force_wall=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 320px;  height: 580px; background: #fff"></iframe></div><div id="cnn_cnn_multi_twitter_widget-2" class="widget-5 cnn_widget cnn_widget_cnn_multi_twitter_widget"><h3 class="cnn_widget_title"><a href="http://twitter.com/#!/camanpour" target="_blank">@camanpour</a> on Twitter</h3>		<div class="cnn_multi_tweets_intro"></div>
+		<div class="cnn_multi_tweets">
+		
+<div class="cnn_tweet cnn_tweet_398194704606429184">
+		<div class="cnn_tweet_text">More Iran sanctions would add to Tehran suspicion that U.S. only wants regime change, U.S. intel veteran Pillar says: <a href="http://cnn.it/1b6KyYM" target="_blank">cnn.it/1b6KyYM</a></div>
+		<div class="cnn_tweet_user">
+			<span class="cnn_tweet_screen_name"><a href="http://twitter.com/#!/camanpour" target="_blank">camanpour</a></span>
+			<span class="cnn_tweet_profile_picture">
+				<a href="http://twitter.com/#!/camanpour/status/398194704606429184" target="_blank"><img src="http://pbs.twimg.com/profile_images/2029045737/Capital-Dames-10-Powerful-Women-in-DC_articleimage_normal.jpg" width="35" height="35" alt="Profile picture for camanpour" /></a></span>
+		</div>
+		<div class="cnn_tweet_meta">
+			<span class="cnn_tweet_date">4:06 pm ET November 6, 2013</span>
+			<span class="cnn_tweet_retweet"><a href="http://twitter.com/intent/retweet?tweet_id=398194704606429184" target="_blank">RETWEET</a></span>
+		</div>
+</div>
+<div class="cnn_tweet cnn_tweet_398194065105104896">
+		<div class="cnn_tweet_text">On Iran negs, <a href="http://twitter.com/#!/SenatorMenendez" target="_blank">@SenatorMenendez</a>: “All I’ve heard is that the tone and tenor, and the directness, has been differen<a href="http://cnn.it/HH57kb" target="_blank">cnn.it/HH57kb</a>rOKQuP</div>
+		<div class="cnn_tweet_user">
+			<span class="cnn_tweet_screen_name"><a href="http://twitter.com/#!/camanpour" target="_blank">camanpour</a></span>
+			<span class="cnn_tweet_profile_picture">
+				<a href="http://twitter.com/#!/camanpour/status/398194065105104896" target="_blank"><img src="http://pbs.twimg.com/profile_images/2029045737/Capital-Dames-10-Powerful-Women-in-DC_articleimage_normal.jpg" width="35" height="35" alt="Profile picture for camanpour" /></a></span>
+		</div>
+		<div class="cnn_tweet_meta">
+			<span class="cnn_tweet_date">4:03 pm ET November 6, 2013</span>
+			<span class="cnn_tweet_retweet"><a href="http://twitter.com/intent/retweet?tweet_id=398194065105104896" target="_blank">RETWEET</a></span>
+		</div>
+</div>
+<div class="cnn_tweet cnn_tweet_398193975820959744">
+		<div class="cnn_tweet_text">U.S. should continue its Iran sanctions program as long as that country enriches, <a href="http://twitter.com/#!/SenatorMenendez" target="_blank">@SenatorMenendez</a> says: <a href="http://cnn.it/HH57kb" target="_blank">cnn.it/HH57kb</a></div>
+		<div class="cnn_tweet_user">
+			<span class="cnn_tweet_screen_name"><a href="http://twitter.com/#!/camanpour" target="_blank">camanpour</a></span>
+			<span class="cnn_tweet_profile_picture">
+				<a href="http://twitter.com/#!/camanpour/status/398193975820959744" target="_blank"><img src="http://pbs.twimg.com/profile_images/2029045737/Capital-Dames-10-Powerful-Women-in-DC_articleimage_normal.jpg" width="35" height="35" alt="Profile picture for camanpour" /></a></span>
+		</div>
+		<div class="cnn_tweet_meta">
+			<span class="cnn_tweet_date">4:03 pm ET November 6, 2013</span>
+			<span class="cnn_tweet_retweet"><a href="http://twitter.com/intent/retweet?tweet_id=398193975820959744" target="_blank">RETWEET</a></span>
+		</div>
+</div>
+<div class="cnn_tweet cnn_tweet_398154745065385984">
+		<div class="cnn_tweet_text">I’ll speak t<a href="http://twitter.com/#!/SenatorMenendez" target="_blank">@SenatorMenendez</a>ez, an advocate for further sanctions, at 2p ET, 7p GMT o<a href="http://twitter.com/#!/cnni" target="_blank">@cnni</a>ni</div>
+		<div class="cnn_tweet_user">
+			<span class="cnn_tweet_screen_name"><a href="http://twitter.com/#!/camanpour" target="_blank">camanpour</a></span>
+			<span class="cnn_tweet_profile_picture">
+				<a href="http://twitter.com/#!/camanpour/status/398154745065385984" target="_blank"><img src="http://pbs.twimg.com/profile_images/2029045737/Capital-Dames-10-Powerful-Women-in-DC_articleimage_normal.jpg" width="35" height="35" alt="Profile picture for camanpour" /></a></span>
+		</div>
+		<div class="cnn_tweet_meta">
+			<span class="cnn_tweet_date">1:27 pm ET November 6, 2013</span>
+			<span class="cnn_tweet_retweet"><a href="http://twitter.com/intent/retweet?tweet_id=398154745065385984" target="_blank">RETWEET</a></span>
+		</div>
+</div>
+<div class="cnn_tweet cnn_last_tweetcnn_tweet_398154664752840705">
+		<div class="cnn_tweet_text">Senior US official confirms to CNN that US willing to offer reversible sanctions relief to Iran if it takes acceptable steps on nuclear prog</div>
+		<div class="cnn_tweet_user">
+			<span class="cnn_tweet_screen_name"><a href="http://twitter.com/#!/camanpour" target="_blank">camanpour</a></span>
+			<span class="cnn_tweet_profile_picture">
+				<a href="http://twitter.com/#!/camanpour/status/398154664752840705" target="_blank"><img src="http://pbs.twimg.com/profile_images/2029045737/Capital-Dames-10-Powerful-Women-in-DC_articleimage_normal.jpg" width="35" height="35" alt="Profile picture for camanpour" /></a></span>
+		</div>
+		<div class="cnn_tweet_meta">
+			<span class="cnn_tweet_date">1:27 pm ET November 6, 2013</span>
+			<span class="cnn_tweet_retweet"><a href="http://twitter.com/intent/retweet?tweet_id=398154664752840705" target="_blank">RETWEET</a></span>
+		</div>
+</div>		</div>
+		<div class="cnn_multi_tweets_footer"></div>
+		</div><div id="cnn_cnn_adtag-3" class="widget-6 cnn_widget cnn_cnn_widget_adtag"><h3 class="cnn_widget_title"></h3><div class="cnn_adtag_rgt2"><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x280_rgt&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: shows/christiane_amanpour/blog/rgt2.336x280 -->
+<div id="ad-c12e3cd9f9811221" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("c12e3cd9f9811221","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x280_rgt&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs","280","336");
+cnnad_registerSpace("c12e3cd9f9811221","336","280");
+</script>
+<!-- ADSPACE-END --><div class="cnn_adtitle"><img 
+						src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/advertisement.gif" 
+					alt="Advertisement" /></div></div></div><div id="cnn_calendar-3" class="widget-7 cnn_widget cnn_widget_calendar"><h3 class="cnn_widget_title">Archives</h3><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>November 2013</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://amanpour.blogs.cnn.com/2013/10/" title="View posts for October 2013">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td>1</td><td>2</td><td><a href="http://amanpour.blogs.cnn.com/2013/11/03/" title="Amanpour on AC360 Later">3</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amanpour.blogs.cnn.com/2013/11/04/" title="Egypt not on a ‘proper path to democracy,’ suggests Egypt deputy PM, who blames Morsy, Life after the Elysee">4</a></td><td><a href="http://amanpour.blogs.cnn.com/2013/11/05/" title="For Congo, ‘hopeful moment’ of M23 rebel disarmament tempered by decades of conflict, U.S. envoy Feingold says, Former Iraqi PM Allawi on engulfing violence">5</a></td><td id="today"><a href="http://amanpour.blogs.cnn.com/2013/11/06/" title="A new space race, with new players, As Iran and U.S. negotiate, Senator Menendez blasts unilateral sanctions relief, More Iran sanctions would bolster suspicion that U.S. goal is regime change, U.S. intelligence veteran says">6</a></td><td>7</td><td>8</td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+	</tr>
+	<tr>
+		<td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+	</tr>
+	<tr>
+		<td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div><div id="cnn_cnn_adtag-4" class="widget-8 cnn_widget_last cnn_widget cnn_cnn_widget_adtag"><h3 class="cnn_widget_title"></h3><div class="cnn_adtag_bot"><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x280_bot&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: shows/christiane_amanpour/blog/bot.336x280 -->
+<div id="ad-04f7b6e0923fa364" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("04f7b6e0923fa364","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=blog&cnn_intl_position=336x280_bot&cnn_intl_rollup=whats_on&cnn_intl_section=christiane_amanpour&page.allowcompete=no&params.styles=fs","280","336");
+cnnad_registerSpace("04f7b6e0923fa364","336","280");
+</script>
+<!-- ADSPACE-END --><div class="cnn_adtitle"><img 
+						src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/advertisement.gif" 
+					alt="Advertisement" /></div></div></div>
+</div>
+
+
+	<div class="cnnPad9Top" style="height:20px;"></div>
+
+
+
+	<!-- /cnnRRBoxContent --><div class="cnnRRBoxFooter"><img src="http://i.cdn.turner.com/cnn/.element/img/2.0/mosaic/base_skins/right_rail/grey_corner_BL.gif" width="4" height="4" alt=""></div></div><!-- /cnnRRBox --></div><!-- /cnnRightCol -->
+
+</div>						</div>
+						<div class="cnn_clear"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt=""/></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="cnn_shdbot"><div class="cnn_gap"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/1px.gif" alt=""/></div></div>
+		<!-- /content -->
+		<div class="cnn_clear"><img src="http://i.cdn.turner.com/cnn/images/1.gif" width="1" height="1" alt=""></div>
+	</div><!-- / cnnContentContainer2 -->
+
+	<div class="cnn_footer_graphic"></div>
+
+		
+		<script>
+			(function ($j, win, doc, undef) {
+				'use strict';
+				/**> Set video_embed_count **/
+				if (win.cnn_metadata === undef) {
+					win.cnn_metadata = {};
+				}
+				$j.extend(true, win.cnn_metadata, {"business":{"cnn":{"page":{"video_embed_count":9}}}});
+			}(jQuery, window, document, undefined));
+		</script>
+	<!-- cnn footer -->
+<div class="cnn_blog_footer_area">
+	<script>	
+	(function( $j, win, undef ) {
+				//adding a new branding_ad value to cnn_metadata object
+		cnn_metadata.business.cnn.page.branding_ad = "";
+	}( jQuery, window , undefined ) );
+</script>
+		<!-- begin footer -->
+<div id="cnn_ftrcntnt">
+<div id="cnn_ftrcntntinner" class="clearfix">
+<div class="cnn_ftrdivl1"></div>
+
+<div id="cnnLWPWeather">
+	<p id="weather-def-link"><a href="http://weather.cnn.com/weather/forecast.jsp?iref=wxglobaldefault">Weather forecast</a></p>
+</div>
+
+<div id="ftr-search">
+	<form method="get" action="http://edition.cnn.com/search/" onsubmit="return cnnFootSearch(this);">
+		<input type="text" id="ftr-search-box"  name="query" size="12" maxlength="40" onblur="if(this.value == ''){ this.value = 'SEARCH'; this.className = '' }" onfocus="if(this.value == 'SEARCH'){ this.value = ''; this.className='ftr-search-on'}" value="SEARCH">
+		<input type="hidden" name="cnnFtrSrchType" id="cnnFtrSrchType" value="mixed">
+		<input id="ftr-search-mag" type="image" src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/header/search-icon.gif" alt="">
+	</form>
+</div>
+
+<div class="cnn_clear"></div>
+
+<div class="cnn_divline" style="background-color:#EBEBEB; margin-top:3px"></div>
+
+<div class="cnn_ftrnvlnks">
+
+<div><a href="http://edition.cnn.com" title="Breaking, World, Business, Sports, Entertainment and Video News from CNN.com International">Home</a> | <a href="http://edition.cnn.com/video/" title="Breaking News Videos from CNN.com International">Video</a> | <a href="http://edition.cnn.com/WORLD/" title="World News Headlines and Video from CNN.com International">World</a> | <a href="http://edition.cnn.com/US/" title="U.S. News Headlines and Video from CNN.com International">U.S.</a> | <a href="http://edition.cnn.com/AFRICA/" title="Africa News Headlines and Video from CNN.com International">Africa</a> | <a href="http://edition.cnn.com/ASIA/" title="Asia News Headlines and Video from CNN.com International">Asia</a> | <a href="http://edition.cnn.com/EUROPE/" title="Europe News Headlines and Video from CNN.com International">Europe</a> | <a href="http://edition.cnn.com/LATINAMERICA/" title="Latin America News Headlines and Video from CNN.com International">Latin America</a> | <a href="http://edition.cnn.com/MIDDLEEAST/" title="Middle East News Headlines and Video from CNN.com International">Middle East</a> | <a href="http://edition.cnn.com/BUSINESS/" title="World Business News Headlines and Video from CNN.com International">Business</a> | <a href="http://edition.cnn.com/SPORT/" title="World Sport News Headlines and Video from CNN.com International">World Sport</a> | <a href="http://edition.cnn.com/SHOWBIZ/" title="Entertainment News Headlines and Video from CNN.com International">Entertainment</a> | <a href="http://edition.cnn.com/TECH/" title="Technology News Headlines and Video from CNN.com International">Tech</a> | <a href="http://travel.cnn.com/" title="Travel News Headlines and Video from CNN.com International">Travel</a> | <a href="http://www.ireport.com/" title="iReport from CNN.com International">iReport</a></div>
+
+<div><a href="http://edition.cnn.com/tools/">Tools & Widgets</a> | <a href="http://edition.cnn.com/services/rss/">RSS</a> | <a href="http://edition.cnn.com/services/podcasting/">Podcasts</a> | <a href="http://edition.cnn.com/exchange/blogs/index.html">Blogs</a> | <a href="http://edition.cnn.com/mobile/">CNN Mobile</a> | <a href="http://edition.cnn.com/profile/">My Profile</a> | <a href="http://edition.cnn.com/profile/">E-mail Alerts</a> | <a href="http://edition.cnn.com/audio/radio/winmedia.html">CNN Radio</a> | <a href="http://www.turnerstoreonline.com/">CNN Shop</a> | <a href="http://edition.cnn.com/sitemap/">Site map</a> | <a href="http://partners.cnn.com/">CNN Partner Hotels</a></div>
+
+</div>
+
+<div class="cnn_ftrdivl2"></div>
+
+<div class="cnn_ftrlnggcntr">
+<div><a href="http://edition.cnn.com/espanol/">CNN en ESPA&Ntilde;OL</a> | <a href="http://www.cnnchile.com">CNN Chile</a> | <a href="http://mexico.cnn.com" title="CNN Mexico">CNN M&#233;xico</a> | <a href="http://arabic.cnn.com/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/footer/2.Arabic.jpg" width="32" height="10" alt="" border="0"></a> | <a href="http://www.cnn.co.jp/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/footer/4.Japanese.jpg" width="30" height="11" alt="" border="0"></a> | <a href="http://www.cnnturk.com/"><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/footer/5.Turkish.jpg" width="30" height="11" alt="" border="0"></a></div>
+</div>
+
+<div class="cnn_ftrlgcpy">
+<div><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/footer/pngs/footer_cnn_logo.png" width="23" height="11" alt="" border="0" class="cnn_ie6png">&copy; 2012 Cable News Network. <a href="http://www.turner.com/" class="cnn_ftrtbslink">Turner Broadcasting System, Inc.</a> All Rights Reserved.</div>
+</div>
+
+<div class="cnn_ftrlgcpyBot"><a href="http://edition.cnn.com/interactive_legal.html" rel="nofollow">Terms of service</a> | <a href="http://edition.cnn.com/privacy.html" rel="nofollow">Privacy guidelines</a> | <a href="http://edition.cnn.com/services/ad.choices/" title="Ad choices">Ad choices</a><img src="http://i.cdn.turner.com/cnn/.element/img/3.0/global/misc/logo_ad_choices_footer.png" width="12" height="12" alt="" border="0" style="margin:0 0 0 4px;" class="cnn_ie6png" /> | <a href="http://www.cnnmediainfo.com/" rel="nofollow">Advertise with us</a> | <a href="http://edition.cnn.com/intlsyndication/">License our content</a> | <a href="http://edition.cnn.com/about/">About us</a> | <a href="http://edition.cnn.com/feedback/" rel="nofollow">Contact us</a> | <a href="http://www.turner.com/careers/" rel="nofollow">Work for us</a> | <a href="http://edition.cnn.com/help/" rel="nofollow">Help</a></div>
+<div class="cnn_ftrlnggcntrBot"><a href="http://edition.cnn.com/CNNI/">CNN TV</a> | <a href="http://edition.cnn.com/HLN/">HLN</a> | <a href="http://transcripts.cnn.com/TRANSCRIPTS/">Transcripts</a></div>
+
+<div class="cnn_clear"></div>
+</div><!-- /cnn_ftrcntntinner -->
+</div><!-- /end footer -->
+
+<script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
+<script>cnnad_sendADMData();cnnad_ugsync();</script>
+
+<script type="text/javascript" src="http://i.cdn.turner.com/cnn/.element/js/3.0/omni/adbp.js"></script>
+
+<script>
+
+	var t_url = window.location.href + '';
+
+	//see if it's a wordpress blog
+	if(t_url.match(/\.blogs\.cnn\.com/) || t_url.match(/(cnnespanol | cnnradio | eatocracy)\.cnn\.com/)) {
+
+		cnn_adbpblogpop();
+
+	}
+
+</script>
+
+<script src="http://z.cdn.turner.com/cnn/.e/js/libs/jsmd-10.min.js"></script>
+
+
+<script language="JavaScript">
+   var jsmd;
+        jsmd = _jsmd.init();
+        var pageURL = location.href.toLowerCase(); 
+        if (pageURL.indexOf("/.element/ssi/ads.iframes/") == -1 && pageURL.indexOf("/doubleclick/dartiframe.html") == -1 && pageURL.indexOf("/search/") == -1) { 
+         if(_jsmd.plugin.gQuery("refresh")){jsmd.trackMetrics("dynamic-autoRefresh","autorefresh","cnn-autorefresh"); }
+         else if(_jsmd.plugin.gQuery("is_LR"))
+         {
+            //do nothing
+         }
+         else if(cnn_metadata.template_type_content !="gallery"){  
+			jsmd.send();
+          }
+        }
+
+</script>
+
+
+
+
+	</div>
+<!-- /cnn footer -->
+	
+										<!-- CONTENT END -->
+									</div><!-- /main content -->
+								</div>
+							</div><!-- /cnn_contentarea -->
+						</div><!-- /cnn_maincntnr -->
+					</div><!-- /cnn_brkt_4 -->
+				</div><!-- /cnn_brkt_3 -->
+			</div><!-- /cnn_brkt_2 -->
+		</div><!-- /cnnContainer -->
+	</div><!-- /cnn-bodywrap -->
+	
+<script language="JavaScript" type="text/javascript">var cnnCurrTime = new Date(1383794045664); var cnnCurrHour = 22; var cnnCurrMin = 14; var cnnCurrDay='Wed';</script><img src="http://i.cdn.turner.com/cnn/images/1.gif" alt="" id="TargetImageDE" name="TargetImageDE" width="1" height="1" onLoad="getDEAdHeadCookie(this)"> 
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom,vip.cnniamanpour"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom%2Cvip.cnniamanpour" height="1" width="1" alt="" /></div></noscript>
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201345ae'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script>window.cnnWidgetBaseURI = "http://i.cdn.turner.com/cnn/.element/widget"; var cnn_sharebarconfig={"url":"http:\/\/amanpour.blogs.cnn.com\/","analytics":"o","platform":"d","instances":1,"getUpdatedURL":"","plugincodes":{"facebook":"<div class=\"fb-like\" data-send=\"false\" data-layout=\"box_count\" data-width=\"97\" data-show-faces=\"false\" data-action=\"recommend\" href=\"http:\/\/amanpour.blogs.cnn.com\/\"><\/div>","googleplus":"<div class=\"g-plusone\" data-size=\"tall\" callback=\"cnn_plusone_vote\"><\/div>","twitter":"<a href=\"https:\/\/twitter.com\/share\" class=\"twitter-share-button\" data-lang=\"en\" data-url=\"http:\/\/amanpour.blogs.cnn.com\/\" data-count=\"vertical\">Tweet<\/a>","linkedin":"<scr" + "ipt type=\"IN\/Share\" data-url=\"http:\/\/amanpour.blogs.cnn.com\/\" data-counter=\"top\" data-onsuccess=\"cnn_linkedin_share\"><\/script>"}};</script>	
+			<!-- /// LOAD CHARTBEAT /// -->
+			<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 41336;
+			_sf_async_config.useCanonical = true;
+							_sf_async_config.domain = 'edition.cnn.com';
+					
+			jQuery(document).ready(function(){				  
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src',
+				   (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+				   "static.chartbeat.com/js/chartbeat.js");
+				document.body.appendChild(e);
+			  });
+			</script>
+			<script type='text/javascript' src='http://s1.wp.com/wp-content/js/devicepx.js?m=1373391538g'></script>
+<script type='text/javascript' src='http://i.cdn.turner.com/cnn/.element/widget//loader/1.0.0/load.min.js?ver=20120816-1751'></script>
+<script>
+		( function ( $j, win, doc, undef ) {
+			var feed = win.cnnNewDay.rawData[0]; 
+			$j( '#cnn-lumenbox-module-comment' ).text( feed.Comment );
+			$j( '#cnn-lumenbox-module-image img' ).attr( 'src', feed.SourceUrl);					
+		}( jQuery, window, document, undefined ) );
+	</script>
+		
+	<script>
+	(function(doc, style, script) {
+		var css,
+			fcss = doc.getElementsByTagName(script)[0],
+			add = function(url, id) {
+				if (doc.getElementById(id)) {
+					return;
+				}
+
+				css = doc.createElement(style);
+				css.rel = 'stylesheet';
+				css.type = 'text/css';
+				css.href = url;
+				id && (css.id = id);
+				fcss.parentNode.insertBefore(css, fcss);
+			};
+		add("http://i.cdn.turner.com/cnn/.element/widget/sharebar/0.2.2/templates/blogIndex.css", "blogIndex");
+	}(document, 'link', 'script'));
+</script>
+
+<script type="text/html" id="cnnsocial_template_blogIndex"><div class="cnn_sites">
+	<span><a href="#" data-bind="click:openOtherSites">Share</a></span>
+	<nav data-bind="visible:otherSitesOpen" class="sharebar_sites callout border-callout">
+		<div data-bind="foreach:sites">
+			<div class="shareProp"  data-bind="attr:{'title':name, 'class':'icon_'+cssClass()}"><a class="siteLinks" data-bind="text:name,click:open" href="#"></a></div>
+		</div>
+		<b class="notch"></b>				
+	</nav>
+</div>
+</script>		<script type="text/javascript">
+			var _vrq = _vrq || [];
+			_vrq.push(['id', 396]);
+			_vrq.push(['automate', false]);
+			_vrq.push(['track', function(){}]);
+			(function(d, a) { 
+				var s = d.createElement(a),
+					x = d.getElementsByTagName(a)[0];
+
+				s.async = true;
+				s.src = 'http://a.visualrevenue.com/vrs.js';
+				x.parentNode.insertBefore(s, x);
+			})(document, 'script');
+		</script>
+	<script type="text/javascript">/*<![CDATA[*/
+			CNN.expElements.init();
+			function cnn_contract_video( el ) {
+				var elmnt = Event.element( el );
+				
+				elmnt.next().removeClassName( 'cnn_package_expanded_info' );
+				elmnt.next().down( '.cnn_summary' ).show();
+				elmnt.next().down( '.cnn_full_summary' ).hide();
+				elmnt.setStyle( { 'paddingLeft' : '0' } );
+			}
+			
+			function cnn_expand_video( el ) {
+				var elmnt = Event.element( el );
+				
+				elmnt.next().addClassName( 'cnn_package_expanded_info' );
+				elmnt.next().down( '.cnn_summary' ).hide();
+				elmnt.next().down( '.cnn_full_summary' ).show();
+			}
+			/*]]>*/</script><script>
+	window.framePath = (function (cookie) {
+		var edition = 'us',
+			matches = /SelectedEdition=(www|edition);/.exec(cookie);
+
+		if (matches !== null && matches.length && matches[1].length) {
+			edition=matches[1];
+		}
+
+		return 'http://'+edition+'.cnn.com';
+	}(document.cookie));
+
+
+	( function ( $j, win, doc, undef ) {
+              $j( 'div.cnn_video' ).each(function () {
+					var $iframe = $j('<iframe ></iframe>', {
+						'src':window.framePath+"/video/embed/frame.html#"+encodeURIComponent(document.location.href),
+						'scrolling':'no',
+						'style':'border:0px  none;',
+						'frameborder':'0',
+						'marginheight':'0px',
+						'marginwidth':'0px',
+						'width':$j( this ).attr( 'data-video-width' ),
+						'height':$j( this ).attr( 'data-video-height' ),
+						'name':$j( this ).attr( 'id' ),
+						'id':$j( this ).attr( 'id' )
+					});
+					$j($iframe).on('load', $j.proxy(function(){
+						loadFrame( this.id,{
+						video:this.video,
+						thumb:this.thumb,
+						preset:'storypage',
+						diagnostics:{
+							section:'articlepage',
+							placement:'page-top'
+						},
+						network:this.network,
+						adsection:this.adsection,
+						headline:this.headline,
+						videoSource:this.videoSource,
+						videoSourceUrl:this.videoSourceUrl,
+						height:this.height,
+						width:this.width,
+						url:'',
+						tracking:this.tracking,
+						bgoSource:this.bgoSource,
+						bgoSection:this.bgoSection,
+						bgoSubsection:this.bgoSubsection,
+						packageid:this.packageid
+						});
+
+					},{
+						id:jQuery( this ).attr( 'id' ),
+						video:jQuery( this ).attr( 'data-video-url' ),
+						thumb:jQuery( this ).attr( 'data-image-url' ),
+						headline:jQuery( this ).attr( 'data-video-headline' ),
+						adsection:jQuery( this ).attr( 'data-ssid' ),
+						videoSource:jQuery( this ).attr( 'data-source' ),
+						videoSourceUrl:jQuery( this ).attr( 'data-source-url' ),
+						height:jQuery( this ).attr( 'data-actual-vid-height' ),
+						width:jQuery( this ).attr( 'data-video-width' ),
+						tracking:jQuery( this ).attr( 'data-tracking' ),
+						bgoSource:jQuery( this ).attr( 'data-bgo-source' ),
+						bgoSection:jQuery( this ).attr( 'data-bgo-section' ),
+						bgoSubsection:jQuery( this ).attr( 'data-bgo-subsection' ),
+						packageid:jQuery( this ).attr( 'data-packageid' ),
+						network:jQuery( this ).attr( 'data-network' )
+						}));
+
+					$j( this ).replaceWith($iframe);
+
+				});
+       }( jQuery, window, document, undefined ) );
+
+
+
+	function loadFrame(frame, videoObj){
+		window.CNNVIDEOS = window.CNNVIDEOS || {};
+		window.CNNVIDEOS[ frame ] = window.frames[frame];
+		window.frames[frame].postMessage(JSON.stringify({
+				action: 'play',
+				name: frame,
+				cnn_metadata:window.cnn_metadata,
+				pageUrl:document.location.href,
+				video:videoObj
+			}),
+			window.framePath
+		);
+	}
+	function broker(e){
+		try{
+			if(e.origin !== window.framePath){
+				return;
+			}
+			var data=(typeof e.data === "object")?e.data:JSON.parse(e.data);
+			if(data.action){
+				if(data.action==='play'){
+					//pause other players
+					pause(data.name);
+				}
+			}
+		}catch(err){
+
+		}
+	}
+	function pause(from){
+		var videoFrames=document.querySelectorAll('iframe.videoPlayerFrame');
+		for(var i=0,l=videoFrames.length;i<l;i++){
+			var frame=videoFrames[i];
+			if(frame.name !== from){
+				window.frames[frame.name].postMessage({"action": "pause"},window.framePath);
+			}
+		}
+	}
+
+	if(window.attachEvent){
+		window.attachEvent("onmessage", broker);
+	}else{
+		window.addEventListener('message', broker, false);
+	}
+
+	</script>
+			<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+	<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'10159635','v':'wpcom','tz':'-5','user_id':'0','subd':'cnniamanpour'});
+function st_vt() {var x=document.createElement("img");x.src="http://stats.wordpress.com/g.gif?blog=10159635&v=wpcomvt&tz=-5&user_id=0&subd=cnniamanpour&rand="+Math.random();}
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdELEssJixhS1VMNjFXdkJRc0pmbi1yRWM9Si1vTUp2ek56RFt6QVpublBRLENDUlQ2VnBLdUlOSiU1OW41ajVxMlh3QSVCQy91MFYrVXJpMmxHJWR6aVFHOE5FUkc9eXhyNUN8OHdQenV+LXlIPXNxLnp8Ri12TFZBQiVSPTdQSjlYXSZ0bDVJS095VitXdEZbMXMsbm1YN3BranBvckVPNTZoUlotSGFwaG1tdm9rbGpoTllxW05mRD9WQ1FwP0NkZ3hTZHRMLXdTQVV1eTdONDhHOHNsd3xC'});
+addLoadEvent(function(){linktracker_init('10159635',0);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script type="text/javascript">
+	// Trigger Quantcast pixel for each Infinite Scroll post load
+	if ( 'function' === typeof( jQuery ) ) {
+		jQuery( document.body ).on( 'post-load', function() {
+			if ( 'function' === typeof( wpcomQuantcastPixel ) )
+				wpcomQuantcastPixel();
+		} );
+	}
+</script>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//stats.wordpress.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><script type="text/javascript">cnnInitOverlay();</script>
+</body>
+</html>

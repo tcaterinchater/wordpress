@@ -1,0 +1,1342 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+ETag: "1383782778-1"
+Last-Modified: Thu, 07 Nov 2013 00:06:18 GMT
+Link: <http://www.msnbc.com/now-with-alex-wagner>; rel="canonical",<http://www.msnbc.com/node/13335>; rel="shortlink",<http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-large.png>; rel="image_src",<http://tv.msnbc.com/bios/Alex-Wagner/>; rel="author"
+Server: nginx
+X-Age: 21
+X-AH-Environment: prod
+X-Cache-Hits: 1
+X-Drupal-Cache: HIT
+X-UA-Compatible: IE=Edge,chrome=1
+X-Varnish: 1869229141 1869228671
+Content-Length: 17555
+Cache-Control: max-age=0
+Expires: Thu, 07 Nov 2013 00:09:49 GMT
+Date: Thu, 07 Nov 2013 00:09:49 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html data-ng-app="msnbc" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:site_name" content="MSNBC" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.msnbc.com/now-with-alex-wagner" />
+<meta property="fb:admins" content="msnbc" />
+<meta name="original-source" content="http://www.msnbc.com/now-with-alex-wagner" />
+<link rel="canonical" href="http://www.msnbc.com/now-with-alex-wagner" />
+<link rel="shortlink" href="http://www.msnbc.com/node/13335" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@msnbc" />
+<link rel="shortcut icon" href="http://www.msnbc.com/sites/msnbc/themes/leanforward/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="msnbc.com Latest Headlines" href="http://www.msnbc.com/feeds/latest" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta property="twitter:account_id" content="2836421" />
+<meta property="twitter:url" content="http://www.msnbc.com/now-with-alex-wagner" />
+<meta property="twitter:site:id" content="2836421" />
+<meta property="twitter:creator" content="@msnbc" />
+<link rel="image_src" href="http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-large.png" />
+<meta property="nv:address" content="http://www.msnbc.com/now-with-alex-wagner" />
+<meta property="twitter:creator:id" content="2836421" />
+<meta property="twitter:image:width" content="171" />
+<meta property="twitter:image:height" content="31" />
+<meta property="fb:app_id" content="3.5159435154559E+14" />
+<link rel="author" href="http://tv.msnbc.com/bios/Alex-Wagner/" />
+	
+	
+	<meta name="tp:PreferredRuntimes" content="HTML5,Flash" />
+	<meta name="tp:PreferredFormats" content="Unknown,3GPP,3GPP2,AAC,ASX,AVI,BMP,CSS,DFXP,DV,EMF,EPS,Excel,EXE,F4M,Flash,FLV,FLX,GIF,HTML,Icon,ISM,JPEG,LXF,M3U,Matroska,Move,MP3,MPEG,MPEG-DASH,MPEG4,MSI,MXF,Ogg,PDF,PLS,PNG,PPT,QT,RAM,Real,RGB,SAMI,SBV,SCC,Script,SMIL,SMPTE-TT,SRT,SUB,Text,TIFF,VAST,WAV,WebM,WebVTT,Widevine,WM,Word,XML,Zip" />
+	<meta name="tp:initialize" content="false" />
+	<meta name="tp:EnableExternalController" content="true" />
+	<script type="text/javascript" src="http://pdk.theplatform.com/pdk/tpPdk.js"></script>
+	<script type="text/javascript" src="http://www.nbcnews.com/id/53238504"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.nbcnews.com/id/52966361" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.nbcnews.com/id/52966366" />
+<meta name="jenga-session-config" content="{&quot;when_to_init&quot;:&quot;after_dom_ready&quot;}" />
+<meta name="description" content="Get the latest news and video from Alex Wagner, and join NOW&#039;s community." />
+<meta property="og:title" content="NOW With Alex Wagner on msnbc" />
+<meta property="twitter:image" content="http://www.msnbc.com/sites/msnbc/files/_l2a4814.jpg" />
+<meta name="news_keywords" content="Equality, Women, Society, Culture, Media" />
+<meta property="nv:title" content="NOW With Alex Wagner" />
+<meta property="twitter:description" content="Get the latest news and video from Alex Wagner, and join NOW&#039;s community." />
+<meta property="twitter:title" content="NOW With Alex Wagner on msnbc" />
+<meta property="og:description" content="Get the latest news and video from Alex Wagner, and join NOW&#039;s community." />
+<meta property="og:image" content="http://www.msnbc.com/sites/msnbc/files/_l2a4814.jpg" />
+<meta property="nv:tags" content="culture,equality,media,society,women" />
+    <title>NOW With Alex Wagner on msnbc</title>
+    <link rel="stylesheet" href="http://www.msnbc.com/sites/msnbc/files/css/css_tY8K6a-wTJB3ExGR1Q4UKvT7-p3z0toH29NjmAzccno.css" media="all" />
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.8.11/themes/smoothness/jquery-ui.css" media="all" />
+<link rel="stylesheet" href="http://cdn.lib.newsvine.com/jenga/jengacss.css?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc" media="all" />
+<link rel="stylesheet" href="http://www.msnbc.com/sites/msnbc/files/css/css_vILaydlk3xAcxHcUSHuT_tJo2_swiKGF6tnksOs-Fa8.css" media="all" />
+<style media="all">
+<!--/*--><![CDATA[/*><!--*/
+@font-face{font-family:'fontello';src:url('/sites/msnbc/themes/leanforward/fonts/fontello/fontello.eot');src:url('/sites/msnbc/themes/leanforward/fonts/fontello/fontello.eot?#iefix') format('embedded-opentype'),url('/sites/msnbc/themes/leanforward/fonts/fontello/fontello.woff') format('woff'),url('/sites/msnbc/themes/leanforward/fonts/fontello/fontello.ttf') format('truetype'),url('/sites/msnbc/themes/leanforward/fonts/fontello/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal;}@font-face{font-family:'NeueHaasGroteskTextPro-56Italic';src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-56Italic/15d52708-a813-4604-8dc3-92a5abbed999-2.eot');src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-56Italic/15d52708-a813-4604-8dc3-92a5abbed999-2.eot?') format('embedded-opentype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-56Italic/15d52708-a813-4604-8dc3-92a5abbed999-3.woff') format('woff'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-56Italic/15d52708-a813-4604-8dc3-92a5abbed999-1.ttf') format('truetype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-56Italic/15d52708-a813-4604-8dc3-92a5abbed999-4.svg#15d52708-a813-4604-8dc3-92a5abbed999-4') format('svg');}@font-face{font-family:'NeueHaasGroteskTextPro-75Bold';src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-75Bold/ac8d1d1e-6331-44d0-9811-09788fb4916b-2.eot');src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-75Bold/ac8d1d1e-6331-44d0-9811-09788fb4916b-2.eot?') format('embedded-opentype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-75Bold/ac8d1d1e-6331-44d0-9811-09788fb4916b-3.woff') format('woff'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-75Bold/ac8d1d1e-6331-44d0-9811-09788fb4916b-1.ttf') format('truetype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-75Bold/ac8d1d1e-6331-44d0-9811-09788fb4916b-4.svg#ac8d1d1e-6331-44d0-9811-09788fb4916b-4') format('svg');}@font-face{font-family:'NeueHaasGroteskTextPro-55Roman';src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-55Roman/7aebf5fd-c3c9-42e2-aba1-d48afa53803a-2.eot');src:url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-55Roman/7aebf5fd-c3c9-42e2-aba1-d48afa53803a-2.eot?') format('embedded-opentype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-55Roman/7aebf5fd-c3c9-42e2-aba1-d48afa53803a-3.woff') format('woff'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-55Roman/7aebf5fd-c3c9-42e2-aba1-d48afa53803a-1.ttf') format('truetype'),url('/sites/msnbc/themes/leanforward/fonts/NeueHaasGroteskTextPro-55Roman/7aebf5fd-c3c9-42e2-aba1-d48afa53803a-4.svg#7aebf5fd-c3c9-42e2-aba1-d48afa53803a-4') format('svg');}
+
+/*]]>*/-->
+</style>
+<link rel="stylesheet" href="http://www.msnbc.com/sites/msnbc/files/css/css_ZOil1K8N3744ua0uztrNjPyttVvbEKa3cnN3qtuvYIM.css" media="all" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>
+window.jQuery || document.write("<script src='/sites/msnbc/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+</script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script src="//www.nbcudigitaladops.com/hosted/global_header.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_4kwN25B7D71YuhEu0IGT5pKioJOXaCJKkmEOZ66A2Vk.js"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+</script>
+<script src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_p5CFI4iATTbz-b2bOU847N3OyJz55q9i-HNecTMbAK0.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js"></script>
+<script>
+window.jQuery.ui || document.write("<script src='/sites/msnbc/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+</script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_-jenMcWHoY-_YofME9QdfIdN78Hvtfo2npip2cxdObU.js"></script>
+<script>
+if (msnbcCreateAdSlot('showcase3_watch')) {
+googletag.slots["showcase3_watch"] = googletag.defineSlot("/2620/msnbc/watch/now-with-alex-wagner", [[300, 252], [300, 600]], "dfp-ad-showcase3_watch")
+  .addService(googletag.pubads());
+}
+</script>
+<script>
+if (msnbcCreateAdSlot('showcase2_watch')) {
+googletag.slots["showcase2_watch"] = googletag.defineSlot("/2620/msnbc/watch/now-with-alex-wagner", [[300, 250], [300, 600]], "dfp-ad-showcase2_watch")
+  .addService(googletag.pubads());
+}
+</script>
+<script>
+if (msnbcCreateAdSlot('970x66_watch')) {
+googletag.slots["970x66_watch"] = googletag.defineSlot("/2620/msnbc/watch/now-with-alex-wagner", [970, 66], "dfp-ad-970x66_watch")
+  .addService(googletag.pubads());
+}
+</script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_Pt3lV9ugc88fFhWzjHSTBoOeiMwdB-wrMjE0YYy-WFQ.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_20-fC21TchM1bmUQ16ax6wJXbdq88GOMmq1gr7Barrg.js"></script>
+<script src="//tags.msnbc.com/nbc/Bootstrap.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_V1KtKhg8zLKGwvcZ_ghM0ZtvYOht9EY-pBIH5SuYUBI.js"></script>
+<script>
+//••• Pixelman Integration w/ Targeting Injection
+try {
+        if (top.__nbcudigitaladops_inject && top.__nbcudigitaladops_inject.getGPT) {
+            var _GPT_params = top.__nbcudigitaladops_inject.getGPT();
+            for (var _key in _GPT_params) {
+                if (_GPT_params.hasOwnProperty(_key)) {
+                    googletag.pubads().setTargeting(_key, _GPT_params[_key]);
+                }
+            }
+        } 
+    } catch (ex) {}
+</script>
+<script>
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+});
+googletag.enableServices();
+</script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_qGG-qq-Gc6q59FY5Cqvbac6_bU7FelSpbKr3TyvMmlk.js"></script>
+<script src=" http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_IdzXEg3ECJlPxxSjMTyzoCP8m5dR-qhN0aNsJFfgN_E.js"></script>
+<script src="http://nvcdn.msnbc.com/_elliott/jenga?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc"></script>
+<script src="//platform.twitter.com/widgets.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_5KwxGnyLTGcNu9UFrtAGThuf_nWZ1CRsQ9kvsNoZ_d4.js"></script>
+<script src="http://www.msnbc.com/sites/msnbc/files/js/js_-HYogBa5-1XC8szT-vXBECVOhY6ENdeqx-RALC57XUw.js"></script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"leanforward","theme_token":"kteg0J4iirOcCMvCK8w8BcGb2xHV5VJLDCUxfie5eQI","js":{"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/msnbc\/modules\/contrib\/picture\/picture.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global.js":1,"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"\/\/www.nbcudigitaladops.com\/hosted\/global_header.js":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads_library.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/msnbc\/libraries\/history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-sanitize.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/angular-resource.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modules\/promise-tracker.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.8.24\/jquery-ui.min.js":1,"3":1,"sites\/msnbc\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/msnbc\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"4":1,"5":1,"6":1,"sites\/msnbc\/modules\/custom\/msnbc_display\/js\/jquery.resize.min.js":1,"misc\/ajax.js":1,"sites\/msnbc\/themes\/leanforward\/js\/main-nav-controller.js":1,"\/\/tags.msnbc.com\/nbc\/Bootstrap.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search-controller.js":1,"profiles\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/msnbc\/modules\/custom\/msnbc\/js\/script.js":1,"sites\/msnbc\/modules\/custom\/msnbc_api\/js\/msnbc_api_services.js":1,"sites\/msnbc\/modules\/custom\/msnbc_speak_out\/js\/update_polls.js":1,"sites\/msnbc\/modules\/custom\/msnbc_topics\/js\/msnbc_topics_services.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/msnbc_shows_services.js":1,"sites\/msnbc\/modules\/custom\/pub_sub_issue_select\/pub_sub_issue_select.js":1,"sites\/msnbc\/modules\/custom\/pub_topic_select\/pub_topic_select.js":1,"sites\/msnbc\/modules\/custom\/pub_hierarchy_select\/pub_hierarchy_select.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/js\/msnbc_newsvine_services.js":1,"7":1,"8":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/js\/msnbc_ads.js":1,"sites\/msnbc\/modules\/custom\/msnbc_search\/js\/search.js":1,"profiles\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/msnbc\/modules\/custom\/pub_infographic\/js\/pub_infographic.js":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/js\/script.js":1,"sites\/msnbc\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/msnbc\/modules\/custom\/msnbc\/js\/filters.js":1,"sites\/msnbc\/modules\/contrib\/ctools\/js\/auto-submit.js":1,"profiles\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"profiles\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/msnbc\/modules\/custom\/msnbc_livefyre\/js\/msnbc_livefyre.js":1," http:\/\/zor.livefyre.com\/wjs\/v3.0\/javascripts\/livefyre.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/plugins\/content_types\/msnbc_newsvine_groups.js":1,"sites\/msnbc\/modules\/custom\/msnbc_newsvine\/plugins\/content_types\/msnbc_newsvine_show_followers.js":1,"http:\/\/nvcdn.msnbc.com\/_elliott\/jenga?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/msnbc\/themes\/leanforward\/js\/app.js":1,"sites\/msnbc\/themes\/leanforward\/js\/modernizr.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/enquire.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/jquery.hammer.min.js":1,"sites\/msnbc\/themes\/leanforward\/js\/script.js":1,"sites\/msnbc\/themes\/leanforward\/js\/schedule.js":1,"sites\/msnbc\/themes\/leanforward\/js\/masonry.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/all\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/msnbc\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/all\/modules\/contrib\/iib\/css\/iib.css":1,"modules\/node\/node.css":1,"sites\/msnbc\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/all\/modules\/contrib\/views\/css\/views.css":1,"http:\/\/code.jquery.com\/ui\/1.8.11\/themes\/smoothness\/jquery-ui.css":1,"http:\/\/cdn.lib.newsvine.com\/jenga\/jengacss.css?widgets=core,zinger2,content,fb,troff,speakout,group,follow,msnbc":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/msnbc\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/msnbc\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/msnbc\/libraries\/chosen\/chosen\/chosen.css":1,"sites\/msnbc\/modules\/contrib\/typogrify\/typogrify.css":1,"sites\/msnbc\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/msnbc\/modules\/custom\/pub_news_show\/plugins\/layouts\/panel_show\/css\/layout.css":1,"sites\/msnbc\/modules\/custom\/msnbc_ads\/msnbc_ads.css":1,"sites\/msnbc\/files\/cef\/secure.new.msnbc.com\/_vine\/css\/msnbccom\/mediaqueries.css":1,"0":1,"sites\/msnbc\/themes\/leanforward\/css\/style.css":1}},"msnbc":{"isMSNBC":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:a019c12fd4e8b0121d41f71132bd7e8d":{"view_name":"show_stories","view_display_id":"panel_pane_1","view_args":"13335","view_path":"node\/13335","view_base_path":null,"view_dom_id":"a019c12fd4e8b0121d41f71132bd7e8d","pager_element":"0"}}},"analytics":{"type":"show","nodeId":"13335","issues":"Equality, Society","subissues":"Women, Culture, Media","show":"NOW With Alex Wagner"}});
+</script>
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-13335 node-type-show page__panel"  itemscope itemtype="http://schema.org/WebPage">
+    <div id="skip">
+      <a href="#main-menu">Jump to Navigation</a>
+    </div>
+        <div class="page">
+
+  <!-- Header -->
+  <header id="site-header" ng-controller="headerController" data-msnbc-nav>
+  <div class="site-header-inner">
+  <div id="site-name">
+    <a id="logo" ng-href="{{path.prefix}}"><span>msnbc</span></a>
+  </div>
+
+
+  <div id="mobile-controls">
+    <ul>
+      <li><a id="toggle-nav" class="toggle-nav" href="/"></a></li>
+      <li><a id="toggle-login" class="toggle-login" data-edition="networknav" href="/"></a></li>
+      <li><a id="toggle-search" class="toggle-search" href="/"></a></li>
+    </ul>
+  </div>
+
+  <div id="newsvine-login" class="nv-login">
+    <div class="nv-login__links">
+      <div class="msnbc_user_account"></div>
+    </div>
+  </div>
+
+  <div class="social-icons-a">
+    <a class="social-icons-a__link social-icons-a__link--msn" href="http://www.msn.com/">msn</a>
+    <a class="social-icons-a__link social-icons-a__link--facebook" href="https://www.facebook.com/msnbc/">facebook</a>
+    <a class="social-icons-a__link social-icons-a__link--twitter" href="https://twitter.com/msnbc/">twitter</a>
+    <a class="social-icons-a__link social-icons-a__link--googleplus" href="https://plus.google.com/+msnbc/" rel="publisher">google plus</a>
+    <a class="social-icons-a__link social-icons-a__link--rss" ng-href="{{path.prefix}}/feeds/latest">rss</a>
+    <a class="social-icons-a__link social-icons-a__link--tumblr" href="http://msnbc.tumblr.com/">tumblr</a>
+    <a class="social-icons-a__link social-icons-a__link--instagram" href="http://instagram.com/msnbc/">instagram</a>
+  </div>
+
+  <nav id="main-navigation" class="main-nav">
+    <ul>
+      <li class="main-nav__link main-nav__link--explore first">
+        <a ng-href="{{path.prefix}}/explore" class="main-nav--toggle">Explore</a>
+        <div class="sub-navigation sub-navigation--explore">
+          <div class="sub-navigation-inner">
+            <section class="explore-navigation">
+              <h3><a ng-href="{{path.prefix}}/explore" title="Explore all Issues">All</a></h3>
+              <ul>
+                <li ng-repeat="issue in issues">
+                  <a ng-href="{{path.prefix}}/{{issue.issue.path}}" title="{{issue.issue.title}}">
+                  {{issue.issue.title}}
+                  </a>
+                </li>
+              </ul>
+            </section>
+            <section class="trending-topics">
+              <h3>Latest</h3>
+              <ul>
+                <li ng-repeat="topic in topics">
+                  <a ng-href="{{path.prefix}}/{{topic.topic.path}}" title="{{topic.topic.title}}">
+                  {{topic.topic.title}}
+                  </a>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </li>
+      <li class="main-nav__link main-nav__link--watch">
+        <a ng-href="{{path.prefix}}/watch" class="main-nav--toggle">Watch</a>
+        <div class="sub-navigation sub-navigation--watch">
+          <div class="sub-navigation-inner">
+            <section class="watch-navigation">
+              <h3><a ng-href="{{path.prefix}}/watch" title="All Shows">All</a></h3>
+              <ul>
+                <li ng-repeat="show in shows.primary">
+                  <a ng-href="{{path.prefix}}/{{show.path}}" title="{{show.short_title}}" ng-bind-html-unsafe="show.short_title"></a>
+                </li>
+              </ul>
+            </section>
+            <section class="shows-weekday">
+              <h4>Weekday</h4>
+              <ul>
+                <li ng-repeat="show in shows.weekday|orderBy:'show_times[0].show_time'">
+                  <a ng-href="{{path.prefix}}/{{show.path}}" title="{{show.short_title}}" ng-bind-html-unsafe="show.short_title"></a>
+                </li>
+              </ul>
+            </section>
+            <section class="shows-weekend">
+              <h4>Weekend</h4>
+              <ul>
+                <li ng-repeat="show in shows.weekend|orderBy:'show_times[0].show_time'">
+                  <a ng-href="{{path.prefix}}/{{show.path}}" title="{{show.short_title}}" ng-bind-html-unsafe="show.short_title"></a>
+                </li>
+              </ul>
+            </section>
+          </div>
+        </div>
+      </li>
+      <li class="main-nav__link main-nav__link--join-in"><a ng-href="{{path.prefix}}/join-in">Join In</a></li>
+      <li class="main-nav__link main-nav__link--speak-out last"><a ng-href="{{path.prefix}}/speak-out">Speak Out</a></li>
+    </ul>
+  </nav>
+  <div id="site-search" class="site-search" ng-controller="SearchController">
+    <input type="text" class="site-search__text" auto-complete ui-items="names" ng-model="selected" />
+    <input type="submit" class="site-search__submit" ng-click="search(selected)" value="Search" />
+  </div>
+  </div>
+</header>
+  <!-- /.site-header -->
+
+  <!-- Content -->
+  <main class="page-content">
+
+    
+    
+          <div class="tabs">
+              </div>
+    
+    
+    
+      <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<div class="panel panel--show" >
+
+    <div class="panel__row--i">
+    <div class="inside"><div class="panel-pane pane-block pane-bean-shows-extreme-top" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="entity entity-bean bean-msnbc-ads clearfix">
+
+  <div class="content">
+      </div>
+</div>
+<script type="text/javascript">
+  if (_getWidth() < 600) {
+    document.write('<div class="mocean_container"><iframe class="mocean_ad" src="http://ads.mocean.mobi/ad?site=54059&zone=200771"></iframe></div>');
+  }
+</script>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-dfp-970x66-watch" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-970x66_watch-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-970x66_watch" class="dfp-tag-wrapper dfp-tag-content" data-ad-slot="970x66_watch">
+  <script type="text/javascript">
+    msnbcDisplayAdSlot('970x66_watch', 'dfp-ad-970x66_watch');
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+  
+    <aside class="panel__row--ii">
+    <div class="inside"><div class="panel-pane pane-views-panes pane-show-tiles-panel-pane-show-tiles-banner" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-show-tiles view-id-show_tiles view-display-id-panel_pane_show_tiles_banner show-tiles view-dom-id-9713eb5561f7626c826759bd2e852fba">
+        
+  
+  
+      <div class="view-content">
+        <div class="show-tile">
+    
+
+
+
+<div class="show-tile--hero">
+  <header class="show-links">
+    <div class="show-links--static">
+      <div class="show-link--static show-link--static__live"><a href="http://now.msnbc.com">Live TV &amp; Episodes</a></div>
+      <div class="show-link--static show-link--static__schedule"><a href="/schedule">TV Schedule</a></div>
+    </div>
+    <div class="show-links--dynamic">
+      <div class="show-link--dynamic show-link--dynamic__show">
+        <a href="/now-with-alex-wagner" class="active">Show Page</a>      </div>
+      <div class="show-link--dynamic show-link--dynamic__about">
+        <a href="/now-with-alex-wagner/about">About Show</a>      </div>
+    </div>
+  </header>
+
+  <div class="show-tile--hero__banner" style="background-image: url(http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_background_image/background-now_with_alex_wagner.jpg?itok=dQws2QGT);">
+    <div class="show-tile--hero__banner__headshot">
+      <span data-picture="">
+<span data-src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_large/now_l.png?itok=Zh20qhme"  data-width="680" data-height="520"></span>
+<span data-media="(min-width: 1024px)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/headshot--260tall/public/field_headshot_large/now_l.png?itok=bWvlW63O"  data-width="340" data-height="260"></span>
+<span data-media="(min-width: 1024px) and (min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-o-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1024px) and (min-resolution: 1.5dppx)" data-src="http://www.msnbc.com/sites/msnbc/files/styles/headshot--260tall/public/field_headshot_large/now_l.png?itok=bWvlW63O"  data-width="340" data-height="260"></span>
+<noscript><img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_headshot_large/now_l.png?itok=Zh20qhme" width="680" height="520" alt="" /></noscript>
+</span>    </div>
+    <div class="show-tile--hero__banner__logo">
+              <img src="http://www.msnbc.com/sites/msnbc/files/styles/original/public/field_show_logo_color/logo-now_with_alex_wagner.png?itok=gnjx3cdY" />
+          </div>
+
+    <div class="show-tile--hero__banner__time">
+      Weekdays at 12PM    </div>
+  </div>
+
+  <div class="show-tile--hero__banner__social-links">
+    <div class="view view-social-profiles view-id-social_profiles view-display-id-panel_pane_1 media--ack view-dom-id-e442e0aa04c151846763a02fce9d86fa">
+        
+  
+  
+      <div class="view-content">
+        <div class="social-icons-c">
+      
+          <a href="https://facebook.com/NowWithAlex" class="social-icons-c__link social-icons-c__link--facebook" target="_blank">Facebook</a>    
+          <a href="https://twitter.com/nowwithalex" class="social-icons-c__link social-icons-c__link--twitter" target="_blank">Twitter</a>    
+          <a href="https://plus.google.com/+msnbc/posts" class="social-icons-c__link social-icons-c__link--googleplus" target="_blank">Google+</a>    
+          <a href="http://msnbc.tumblr.com/" class="social-icons-c__link social-icons-c__link--tumblr" target="_blank">Tumblr</a>    
+          <div class="j_follow_inline j_follow_inline__social" data-type="o" data-tag="now-with-alex-wagner" data-follow_name="Show"></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-show-player" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="TPVideoPlaylistTaxonomyContainer" class="now-with-alex-wagner" source="nnd_45258737"></div><div id="TPVideoPlayerContainer">	<div class="tpContainer">
+		<div class="tpLayout">
+			<div class="tpPlayer" id="player"
+				tp:allowFullScreen="true"
+				tp:skinUrl="http://www.nbcnews.com/id/52493270?nbcnews.json"
+				tp:showNav="false"
+				tp:allowRss="false"
+				tp:layout="&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;layout&gt;
+	&lt;controls&gt;
+		&lt;card id=&quot;tpNormalControls&quot;&gt;
+		&lt;region id=&quot;tpBottomFloatRegion&quot;&gt;
+			&lt;row&gt;
+				&lt;control id=&quot;tpPlay&quot; skin=&quot;PlayButtonSkin&quot;/&gt;
+				&lt;group percentWidth=&quot;100&quot;&gt;
+				&lt;spacer width=&quot;20&quot;/&gt;
+				&lt;control id=&quot;tpCurrentTime&quot;/&gt;
+				&lt;control id=&quot;tpTimeDivider&quot;/&gt;
+				&lt;control id=&quot;tpTotalTime&quot;/&gt;
+				&lt;spacer width=&quot;20&quot;/&gt;
+				&lt;control id=&quot;tpScrubber&quot; showTooltip=&quot;never&quot;/&gt;
+				&lt;/group&gt;
+				&lt;control id=&quot;tpMute&quot;/&gt;
+				&lt;control id=&quot;tpVolumeSlider&quot;/&gt;
+				&lt;control id=&quot;tpCC&quot; showMenu=&quot;false&quot;/&gt;
+				&lt;control id=&quot;tpFullScreen&quot;/&gt;
+			&lt;/row&gt;
+		&lt;/region&gt;
+		&lt;/card&gt;
+	 &lt;card id=&quot;tpAdvertisementControls&quot;&gt;
+	  &lt;region id=&quot;tpBottomRegion&quot;&gt;
+	    &lt;row&gt;
+	    &lt;control id=&quot;tpPlay&quot; skin=&quot;PlayButtonSkin&quot;/&gt;
+		&lt;group percentWidth=&quot;100&quot;&gt;
+		&lt;spacer width=&quot;20&quot;/&gt;
+		&lt;control id=&quot;tpCurrentTime&quot;/&gt;
+		&lt;control id=&quot;tpTimeDivider&quot;/&gt;
+		&lt;control id=&quot;tpTotalTime&quot;/&gt;
+		&lt;spacer width=&quot;20&quot;/&gt;
+		&lt;control id=&quot;tpScrubber&quot; showTooltip=&quot;never&quot;/&gt;
+		&lt;/group&gt;
+		&lt;control id=&quot;tpMute&quot;/&gt;
+		&lt;control id=&quot;tpVolumeSlider&quot;/&gt;
+		&lt;control id=&quot;tpCC&quot; showMenu=&quot;false&quot;/&gt;
+		&lt;control id=&quot;tpFullScreen&quot;/&gt;
+	    &lt;/row&gt;
+	  &lt;/region&gt;
+ 	&lt;/card&gt;
+
+
+	&lt;/controls&gt;
+&lt;/layout&gt;"
+				tp:relatedItemsUrl="http://feed.theplatform.com/f/69ekLC/TdThUDkvsbXb?byRelatedReleasePid={releasePid}"
+				tp:allowLink="false"
+				tp:playerUrl="http://player.theplatform.com/p/2E2eJC/FeaturePlayer/select/{releasePid}"
+				tp:showFullTime="true"
+				tp:controlBackgroundColor="0x333333"
+				tp:backgroundColor="0x333333"
+				tp:controlFrameColor="0x777777"
+				tp:frameColor="0x777777"
+				tp:textBackgroundColor="0x444444"
+				tp:controlHighlightColor="0x555555"
+				tp:controlHoverColor="0xffffff"
+				tp:loadProgressColor="0xdddddd"
+				tp:controlSelectedColor="0x87b824"
+				tp:playProgressColor="0x87b824"
+				tp:scrubberFrameColor="0x87b824"
+				tp:controlColor="0xdddddd"
+				tp:textColor="0xdddddd"
+				tp:scrubberColor="0xdddddd"
+				tp:scrubTrackColor="0xdddddd"
+				tp:pageBackgroundColor="0x333333"
+				tp:endCard="none"
+				tp:plugin1="type=adcomponent|url=http://pdk.theplatform.com/pdk/swf/freewheel.swf|siteSectionId=NBC_News_Roll_Up|pemURLsSeparator=%2C|isLive=false|customVideoAssetIdField=bviAssetId|priority=1|networkId=169843|adManagerUrl=http%3A%2F%2Fadm.fwmrm.net%2Fp%2Fnbcnews_live%2FAdManager.%7Bext%7D|autoPlay=true|serverUrl=http%3A%2F%2F29773.v.fwmrm.net|playerProfile=169843%3Anbcnews_%7Bruntime%7D_live"
+				tp:plugin2="type=adcomponent|url=http://pdk.theplatform.com/pdk/js/plugins/freewheel.js|siteSectionId=NBC_News_Roll_Up|pemURLsSeparator=%2C|isLive=false|customVideoAssetIdField=bviAssetId|priority=1|networkId=169843|adManagerUrl=http%3A%2F%2Fadm.fwmrm.net%2Fp%2Fnbcnews_live%2FAdManager.%7Bext%7D|autoPlay=true|serverUrl=http%3A%2F%2F29773.v.fwmrm.net|playerProfile=169843%3Anbcnews_%7Bruntime%7D_live">
+				<noscript class="tpError">To view this site, you need to have JavaScript enabled in your browser, and either the Flash Plugin or an HTML5-Video enabled browser. Download <a href="http://get.adobe.com/flashplayer/" target="_black">the latest Flash player</a> and try again.</noscript>
+			</div>
+			<div class="tpReleaseList" id="releases"
+				tp:allowScrolling="false"
+				tp:columns="1"
+				tp:itemsPerPage="50"
+				tp:playAll="true"
+				tp:autoLoad="true"
+				tp:autoPlay="false"
+				tp:showAirdate="false"
+				tp:showAuthor="false"
+				tp:showBitrate="false"
+				tp:showDescription="true"
+				tp:showFormat="false"
+				tp:showLength="true"
+				tp:showThumbnail="false"
+				tp:showTitle="true"
+				tp:skinUrl="http://www.nbcnews.com/id/52493270?nbcnews.json"
+				tp:thumbnailWidth="160"
+				tp:thumbnailHeight="90"
+				tp:backgroundColor="0x333333"
+				tp:thumbnailBackgroundColor="0x333333"
+				tp:frameColor="0x777777"
+				tp:itemBackgroundColor="0x444444"
+				tp:itemBackgroundHoverColor="0x444444"
+				tp:itemBackgroundSelectedColor="0x444444"
+				tp:textFrameColor="0x555555"
+				tp:thumbnailFrameColor="0x555555"
+				tp:itemFrameColor="0x555555"
+				tp:thumbnailHighlightHoverColor="0xffffff"
+				tp:itemShineHoverColor="0xffffff"
+				tp:textHighlightHoverColor="0xffffff"
+				tp:textHoverColor="0xffffff"
+				tp:thumbnailPaddingColor="0x333333"
+				tp:thumbnailHighlightSelectedColor="0x87b824"
+				tp:itemShineSelectedColor="0x87b824"
+				tp:textSelectedColor="0x87b824"
+				tp:textColor="0xdddddd"
+				tp:textBackgroundColor="0x444444"
+				tp:textHighlightSelectedColor="0x87b824"
+				tp:pageBackgroundColor="0x333333">
+			</div>
+			<div class="tpReleaseModel" id="tpReleaseModel1"
+				tp:startIndex="1"
+				tp:endIndex="50"
+				tp:params="params=player%3DNBC%2520FeaturePlayer%2520-%2520LIVE"
+				tp:shuffle="false"
+				tp:feedsServiceURL="http://feed.theplatform.com/f/69ekLC/TdThUDkvsbXb">
+			</div>
+		</div>
+	</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-msnbc-display-social-links-video" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="teaser__social teaser__social--standard j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner"  data-title="NOW With Alex Wagner" >
+  <a class="teaser__social__link teaser__social__link--facebook addthis_button_facebook" alt="facebook" title="Share on facebook" data-placement="top" rel="twipsy"><span>facebook</span></a>
+  <a class="teaser__social__link teaser__social__link--twitter addthis_button_twitter"  alt="twitter" title="Share on twitter" data-placement="top" rel="twipsy"><span>twitter</span></a>
+  <a class="teaser__social__link teaser__social__link--embed j_social_embed" data-placement="top" title="Embed this video on another site" rel="twipsy" data-player=".now-with-alex-wagner" href="#">embed</a>
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#">like</a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+  <a class="teaser__social__link teaser__social__link--group j_clip_group" data-placement="top" title="Share this with your msnbc groups" rel="twipsy" href="#">group</a>
+  <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#">discuss</a>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </aside>
+  
+    <article class="panel__row__multi--i">
+
+        <div class="panel__row__multi--i-ii">
+      <div class="inside"><div class="panel-pane pane-views-panes pane-show-stories-panel-pane-1" >
+  
+        <h2 class="pane-title">Show Stories<a href="/feeds/rss/show/13335" title="NOW With Alex Wagner RSS feed" class="show-stories-rss" target="_blank">RSS</a></h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-show-stories view-id-show_stories view-display-id-panel_pane_1 view--filter-list-filters view-dom-id-a019c12fd4e8b0121d41f71132bd7e8d">
+        
+      <div class="view-filters">
+      <form class="ctools-auto-submit-full-form filters" action="/" method="get" id="views-exposed-form-show-stories-panel-pane-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-issues-target-id-wrapper" class="views-exposed-widget views-widget-filter-field_issues_target_id">
+                  <label for="edit-field-issues-target-id">
+            Issues          </label>
+                        <div class="views-widget">
+          <div class="filter field_issues_target_id"><div class="filter-item-list has-name" data-filter-name="field_issues_target_id"><h3 class="filter-item-list__title">on <span id="" class="filter-item-list__selector" data-filter-selected=""></span></h3><ul class="filter-item-list__list"><div class="filter-item-list__list__item first"><a href="#" data-value="" class="filter-item-list__list__item__link">all issues</a></div>
+<li class="filter-item-list__list__item"><a href="#" data-value="448" class="filter-item-list__list__item__link">Democrats</a></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="441" class="filter-item-list__list__item__link">Economy</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="446" class="filter-item-list__list__item__link">Corporations</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="452" class="filter-item-list__list__item__link">Energy</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="447" class="filter-item-list__list__item__link">Jobs</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="445" class="filter-item-list__list__item__link">Poverty</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="183191" class="filter-item-list__list__item__link">Small Business</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="444" class="filter-item-list__list__item__link">Taxes</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="442" class="filter-item-list__list__item__link">Unions</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="443" class="filter-item-list__list__item__link">Wall Street</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="431" class="filter-item-list__list__item__link">Education</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="432" class="filter-item-list__list__item__link">Early Education</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="433" class="filter-item-list__list__item__link">School Reform</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="435" class="filter-item-list__list__item__link">Elections</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="436" class="filter-item-list__list__item__link">Election 2012</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="437" class="filter-item-list__list__item__link">Election 2014</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="438" class="filter-item-list__list__item__link">Election 2016</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="439" class="filter-item-list__list__item__link">Money in Politics</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="440" class="filter-item-list__list__item__link">Voting Rights</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="453" class="filter-item-list__list__item__link">Equality</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="457" class="filter-item-list__list__item__link">Immigration</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="454" class="filter-item-list__list__item__link">LGBT</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="455" class="filter-item-list__list__item__link">Race</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="456" class="filter-item-list__list__item__link">Women</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="449" class="filter-item-list__list__item__link">Green</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="451" class="filter-item-list__list__item__link">Climate</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="450" class="filter-item-list__list__item__link">Pollution</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="458" class="filter-item-list__list__item__link">Health</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="461" class="filter-item-list__list__item__link">Food</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="460" class="filter-item-list__list__item__link">Global Health</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="459" class="filter-item-list__list__item__link">Health Care Reform</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="462" class="filter-item-list__list__item__link">HIV-AIDS</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="463" class="filter-item-list__list__item__link">Sexual Health</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="417" class="filter-item-list__list__item__link">National Security</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="420" class="filter-item-list__list__item__link">Afghanistan</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="418" class="filter-item-list__list__item__link">Middle East</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="419" class="filter-item-list__list__item__link">Military</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="421" class="filter-item-list__list__item__link">Terrorism</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="429" class="filter-item-list__list__item__link">Republicans</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="430" class="filter-item-list__list__item__link">Tea Party</a></li>
+</ul></div></li>
+<li class="filter-item-list__list__item"><a href="#" data-value="422" class="filter-item-list__list__item__link">Society</a><div class="filter-item-list__list__sublist"><ul class="filter-item-list__list__sublist__list"><li class="filter-item-list__list__sublist__list__item first"><a href="#" data-value="423" class="filter-item-list__list__item__link">Civil Liberties</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="424" class="filter-item-list__list__item__link">Criminal Justice</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="428" class="filter-item-list__list__item__link">Culture</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="425" class="filter-item-list__list__item__link">Guns</a></li>
+<li class="filter-item-list__list__sublist__list__item"><a href="#" data-value="426" class="filter-item-list__list__item__link">Media</a></li>
+<li class="filter-item-list__list__sublist__list__item last"><a href="#" data-value="427" class="filter-item-list__list__item__link">Religion</a></li>
+</ul></div></li>
+</ul></div><div class="element-invisible"><select id="edit-field-issues-target-id" name="field_issues_target_id" size="1" class="form-select"><option value="" selected="selected">all issues</option><option value="448">Democrats</option><option value="441">Economy</option><option value="446">- Corporations</option><option value="452">- Energy</option><option value="447">- Jobs</option><option value="445">- Poverty</option><option value="183191">- Small Business</option><option value="444">- Taxes</option><option value="442">- Unions</option><option value="443">- Wall Street</option><option value="431">Education</option><option value="432">- Early Education</option><option value="433">- School Reform</option><option value="435">Elections</option><option value="436">- Election 2012</option><option value="437">- Election 2014</option><option value="438">- Election 2016</option><option value="439">- Money in Politics</option><option value="440">- Voting Rights</option><option value="453">Equality</option><option value="457">- Immigration</option><option value="454">- LGBT</option><option value="455">- Race</option><option value="456">- Women</option><option value="449">Green</option><option value="451">- Climate</option><option value="450">- Pollution</option><option value="458">Health</option><option value="461">- Food</option><option value="460">- Global Health</option><option value="459">- Health Care Reform</option><option value="462">- HIV-AIDS</option><option value="463">- Sexual Health</option><option value="417">National Security</option><option value="420">- Afghanistan</option><option value="418">- Middle East</option><option value="419">- Military</option><option value="421">- Terrorism</option><option value="429">Republicans</option><option value="430">- Tea Party</option><option value="422">Society</option><option value="423">- Civil Liberties</option><option value="424">- Criminal Justice</option><option value="428">- Culture</option><option value="425">- Guns</option><option value="426">- Media</option><option value="427">- Religion</option></select></div></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-show-stories" name="" value="Update results" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+    <header class="teaser__content--tweet">
+    <blockquote class="twitter-tweet"><p>A decent R candidate could have beaten McAuliffe. A decent D candidate could have crushed Cucinelli. The end.</p>— Jonathan Chait (@jonathanchait) <a href="https://twitter.com/jonathanchait/statuses/398096879910547456">November 6, 2013</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </header>
+  
+  
+  
+  
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/are-wh-aca-enrollment-goals-too-optimistic-61714499884" alt="Are WH ACA enrollment goals too optimistic?" title="Are WH ACA enrollment goals too optimistic?"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_1aca_131106.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Obamacare      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/are-wh-aca-enrollment-goals-too-optimistic-61714499884" alt="Are WH ACA enrollment goals too optimistic?" title="Are WH ACA enrollment goals too optimistic?">
+        Are WH ACA enrollment goals too optimistic?      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/06/13 02:32PM    </span>
+    
+        <p class="teaser__summary">Ryan Grim, Kathleen Parker, Ronan Farrow and Jacob Weisberg join to discuss the progress that needs to be made in Obamacare’s rollout. <a href="/now-with-alex-wagner/watch/are-wh-aca-enrollment-goals-too-optimistic-61714499884">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/are-wh-aca-enrollment-goals-too-optimistic-61714499884"  data-title="Are WH ACA enrollment goals too optimistic?" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/the-power-of-social-issues-in-2013-elections-61736515552" alt="The power of social issues in 2013 elections" title="The power of social issues in 2013 elections"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_2njva_131106.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Republicans, Elections      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/the-power-of-social-issues-in-2013-elections-61736515552" alt="The power of social issues in 2013 elections" title="The power of social issues in 2013 elections">
+        The power of social issues in 2013 elections      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/06/13 02:21PM    </span>
+    
+        <p class="teaser__summary">Larry Sabato joins to discuss the two very different approaches Virginia&#039;s Ken Cuccinelli and New Jersey Gov. Chris Christie took in the 2013 election. <a href="/now-with-alex-wagner/watch/the-power-of-social-issues-in-2013-elections-61736515552">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/the-power-of-social-issues-in-2013-elections-61736515552"  data-title="The power of social issues in 2013 elections" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/boehners-blind-spot-on-equality-61736515553" alt="Boehner&#039;s blind spot on equality" title="Boehner&#039;s blind spot on equality"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_3boe_131106.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        LGBT, Women      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/boehners-blind-spot-on-equality-61736515553" alt="Boehner&#039;s blind spot on equality" title="Boehner&#039;s blind spot on equality">
+        Boehner&#039;s blind spot on equality      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/06/13 02:13PM    </span>
+    
+        <p class="teaser__summary">John Boehner says he won&#039;t bring ENDA up for a vote in the House. Human Rights Campaign&#039;s Chad Griffin discusses. <a href="/now-with-alex-wagner/watch/boehners-blind-spot-on-equality-61736515553">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/boehners-blind-spot-on-equality-61736515553"  data-title="Boehner&#039;s blind spot on equality" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/amy-tan-on-how-tragedy-informs-her-work-61733955689" alt="Amy Tan on how tragedy informs her work" title="Amy Tan on how tragedy informs her work"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_4tan_131106.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Media, Women      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/amy-tan-on-how-tragedy-informs-her-work-61733955689" alt="Amy Tan on how tragedy informs her work" title="Amy Tan on how tragedy informs her work">
+        Amy Tan on how tragedy informs her work      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/06/13 01:58PM    </span>
+    
+        <p class="teaser__summary">Amy Tan joins to discuss her new book “The Valley of Amazement,” a story about American expats. She talks about how tragedy and trauma inform her work. <a href="/now-with-alex-wagner/watch/amy-tan-on-how-tragedy-informs-her-work-61733955689">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/amy-tan-on-how-tragedy-informs-her-work-61733955689"  data-title="Amy Tan on how tragedy informs her work" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show teaser__title--show--quote">
+      <a href="/content/ryan-grim-quote" alt=""I think it’s been one of the most embarrassing experiences for the media in a long time..."" title=""I think it’s been one of the most embarrassing experiences for the media in a long time..."">
+        "I think it’s been one of the most embarrassing experiences for the media in a long time..."      </a>
+    </h2>
+      </header>
+  
+    <div class="teaser__byline teaser__byline--show teaser__byline--quote">
+    Ryan Grim on NOW re: ACA coverage, 11/06/13  </div>
+  
+    <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+      <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/content/ryan-grim-quote"  data-title="Ryan Grim quote" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+    </div>
+  </footer>
+  
+</article>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+    <header class="teaser__content--tweet">
+    <blockquote class="twitter-tweet"><p>NEW YORK CITY ...WELCOMES THE NEW MAYOR ..DIBLASIO</p>— Wu Tang Clan (@WuTangClan) <a href="https://twitter.com/WuTangClan/statuses/398104052614967296">November 6, 2013</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </header>
+  
+  
+  
+  
+</article>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/how-much-impact-will-2013-have-on-gop-61443651940" alt="How much impact will 2013 have on GOP?" title="How much impact will 2013 have on GOP?"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_1elec_131105.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Democrats, Republicans      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/how-much-impact-will-2013-have-on-gop-61443651940" alt="How much impact will 2013 have on GOP?" title="How much impact will 2013 have on GOP?">
+        How much impact will 2013 have on GOP?      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/05/13 01:59PM    </span>
+    
+        <p class="teaser__summary">Election Day 2013 could have real implications for the future of the Republican Party and the foundations of the Democratic platform. <a href="/now-with-alex-wagner/watch/how-much-impact-will-2013-have-on-gop-61443651940">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/how-much-impact-will-2013-have-on-gop-61443651940"  data-title="How much impact will 2013 have on GOP?" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/scrutinizing-christies-public-profile-61436483906" alt="Scrutinizing Christie&#039;s public profile" title="Scrutinizing Christie&#039;s public profile"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_2christie_131105.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Democrats, Republicans      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/scrutinizing-christies-public-profile-61436483906" alt="Scrutinizing Christie&#039;s public profile" title="Scrutinizing Christie&#039;s public profile">
+        Scrutinizing Christie&#039;s public profile      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/05/13 01:47PM    </span>
+    
+        <p class="teaser__summary">The NOW panel discusses the New Jersey gubernatorial race and Chris Christie&#039;s moderate public profile versus his classic conservative views. <a href="/now-with-alex-wagner/watch/scrutinizing-christies-public-profile-61436483906">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/scrutinizing-christies-public-profile-61436483906"  data-title="Scrutinizing Christie&#039;s public profile" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/progressive-ballot-measures-indicating-shift-61439043945" alt="Progressive ballot measures indicating shift?" title="Progressive ballot measures indicating shift?"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_3ballot_131105.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Democrats, Elections      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/progressive-ballot-measures-indicating-shift-61439043945" alt="Progressive ballot measures indicating shift?" title="Progressive ballot measures indicating shift?">
+        Progressive ballot measures indicating shift?      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/05/13 01:40PM    </span>
+    
+        <p class="teaser__summary">The 2013 ballot measures include a raise in the minimum wage, legalizing marijuana and funding for education. <a href="/now-with-alex-wagner/watch/progressive-ballot-measures-indicating-shift-61439043945">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/progressive-ballot-measures-indicating-shift-61439043945"  data-title="Progressive ballot measures indicating shift?" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/toronto-mayor-admits-to-smoking-crack-61439043948" alt="Toronto mayor admits to smoking crack" title="Toronto mayor admits to smoking crack"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_4crack_131105.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Society      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/toronto-mayor-admits-to-smoking-crack-61439043948" alt="Toronto mayor admits to smoking crack" title="Toronto mayor admits to smoking crack">
+        Toronto mayor admits to smoking crack      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/05/13 01:34PM    </span>
+    
+        <p class="teaser__summary">After months of controversy, Toronto Mayor Rob Ford has confirmed that he indeed smoked crack. <a href="/now-with-alex-wagner/watch/toronto-mayor-admits-to-smoking-crack-61439043948">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/toronto-mayor-admits-to-smoking-crack-61439043948"  data-title="Toronto mayor admits to smoking crack" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+    <article class="teaser teaser-show teaser-show--left theplatform_video">
+
+      <figure class="teaser__image teaser__image--show teaser__image--theplatform-video">
+      <a href="/now-with-alex-wagner/watch/life-after-bloomberg-61444163834" alt="Life after Bloomberg" title="Life after Bloomberg"><img src="http://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/n_wag_4nyc_131105.video_512x342.jpg" alt="" /></a>
+            <figcaption class="image-caption image-caption--show">
+        Democrats, Elections      </figcaption>
+          </figure>
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show">
+      <a href="/now-with-alex-wagner/watch/life-after-bloomberg-61444163834" alt="Life after Bloomberg" title="Life after Bloomberg">
+        Life after Bloomberg      </a>
+    </h2>
+    
+    
+        <span class="teaser__datetime teaser__datetime--show">
+      11/05/13 01:29PM    </span>
+    
+        <p class="teaser__summary">If Bill De Blasio is elected as New York City mayor Tuesday it could prove to be a bellwether moment for progressives. <a href="/now-with-alex-wagner/watch/life-after-bloomberg-61444163834">watch</a></p>
+      </header>
+  
+  <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+              <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/now-with-alex-wagner/watch/life-after-bloomberg-61444163834"  data-title="Life after Bloomberg" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+          </div>
+  </footer>
+
+</article>
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+    <header class="teaser__content--tweet">
+    <blockquote class="twitter-tweet"><p>whoa RT <a href="https://twitter.com/bennyjohnson">@bennyjohnson</a>: The Biden Mullet. No photo shop. <a href="http://t.co/s2fOlZtE1y">pic.twitter.com/s2fOlZtE1y</a></p>— NowWithAlex (@NowWithAlex) <a href="https://twitter.com/NowWithAlex/statuses/397785654274191360">November 5, 2013</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </header>
+  
+  
+  
+  
+</article>
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+  
+    <header class="teaser__content teaser__content--show">
+        <h2 class="teaser__title teaser__title--show teaser__title--show--quote">
+      <a href="/content/joy-gop-tweet-now" alt=""If you could take far-right conservatism and put in a petri dish…you would get the Governor’s race in Virginia. "" title=""If you could take far-right conservatism and put in a petri dish…you would get the Governor’s race in Virginia. "">
+        "If you could take far-right conservatism and put in a petri dish…you would get the Governor’s race in Virginia. "      </a>
+    </h2>
+      </header>
+  
+    <div class="teaser__byline teaser__byline--show teaser__byline--quote">
+    Joy Reid on NOW, 11/05/13  </div>
+  
+    <footer class="teaser__footer teaser__footer--show">
+    <div class="teaser__date"></div>
+    <div class="teaser__social teaser__social--show">
+      <div class="teaser__social teaser__social--small j_social_set"  data-address="http://www.msnbc.com/content/joy-gop-tweet-now"  data-title="Joy GOP tweet NOW" >
+  <a class="teaser__social__link teaser__social__link--like j_social_count" data-placement="top" title="Like this? Vote it up" rel="twipsy" data-vote-btn="1" href="#"></a>
+  <a class="teaser__social__link teaser__social__link--save j_clip_save" data-placement="top" title="Save this for later" rel="twipsy" href="#">save</a>
+  <a class="teaser__social__link teaser__social__link--share j_social_share" data-placement="top" title="Share this with your social networks" rel="twipsy" href="#">share</a>
+      <a class="teaser__social__link teaser__social__link--comment j_social_count" data-placement="top" title="Join the discussion" data-verbose="0" href="#"></a>
+  </div>
+
+
+    </div>
+  </footer>
+  
+</article>
+  </div>
+  <div class="views-row views-row-15 views-row-odd views-row-last">
+    <article class="teaser teaser-show teaser-show--full quote">
+
+    <header class="teaser__content--tweet">
+    <blockquote class="twitter-tweet"><p>"<a href="https://twitter.com/LukeRussert">@LukeRussert</a>...standing as you are in the place you're most comfortable, a high school cafeteria..." — <a href="https://twitter.com/alexwagner">@alexwagner</a> <a href="http://t.co/y5ZCndCm3Q">http://t.co/y5ZCndCm3Q</a></p>— Dorsey Shaw (@dorseyshaw) <a href="https://twitter.com/dorseyshaw/statuses/397777125706452992">November 5, 2013</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </header>
+  
+  
+  
+  
+</article>
+  </div>
+    </div>
+  
+      <h3 class="element-invisible">Pages</h3><div class="item-list"><ul class="pager"><li class="pager__item pager__item--current first"><a title="Go to page 1" href="/now-with-alex-wagner?field_issues_target_id=">1</a></li>
+<li class="pager__item"><a rel="next" title="Go to page 2" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=1">2</a></li>
+<li class="pager__item"><a title="Go to page 3" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=2">3</a></li>
+<li class="pager__item"><a title="Go to page 4" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=3">4</a></li>
+<li class="pager__item"><a title="Go to page 5" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=4">5</a></li>
+<li class="pager__item"><a title="Go to page 6" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=5">6</a></li>
+<li class="pager__item"><a title="Go to page 7" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=6">7</a></li>
+<li class="pager__item"><a title="Go to page 8" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=7">8</a></li>
+<li class="pager__item"><a title="Go to page 9" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=8">9</a></li>
+<li class="pager__item">…</li>
+<li class="pager__item"><a title="Go to page 218" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=217">218</a></li>
+<li class="pager__item pager__item--control last"><a rel="next" href="/now-with-alex-wagner?field_issues_target_id=&amp;page=1">&gt;</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+    
+      </article>
+  
+    <aside class="panel__row__multi--ii p-column">
+
+        <div class="panel__row__multi--ii-i">
+      <div class="inside"><div class="panel-pane pane-livefyre-widget" >
+  
+        <h2 class="pane-title">NOW LIVE</h2>
+    
+  
+  <div class="pane-content">
+    <div class="livefyre-header"><p class="livefyre-text">Speak out! Make your voice heard by tagging your posts <a href="https://twitter.com/search?q=%23nowwithalex" target="_blank">#nowwithalex</a></p><div class="livefyre-twitter"><a href="https://twitter.com/intent/tweet?screen_name=nowwithalex" class="twitter-mention-button" data-related="nowwithalex">Tweet to @nowwithalex</a></div>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><div class="livefyre-fb"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/nowwithAlex&amp;width=450&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe></div></div><br/><ul class="livefyre-tabs"><li class="fyre-btn fyre-btn--1 active" onclick="window.changeConv(window.lf_config1);">Show</li><li class="fyre-btn fyre-btn--2" onclick="window.changeConv(window.lf_config2);">Facebook</li><li class="fyre-btn fyre-btn--3" onclick="window.changeConv(window.lf_config3);">Twitter</li></ul><script type="text/javascript">window.lf_config1 = {"collectionMeta":"eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJ1cmwiOiAiaHR0cDovL3d3dy5tc25iYy5jb20vbm93LXdpdGgtYWxleC13YWduZXIiLCAidGFncyI6IFtdLCAiYXJ0aWNsZUlkIjogImN1c3RvbS0xMzc4NzYwMTE1NDk2IiwgInRpdGxlIjogIk5vdyBXaXRoIEFsZXggV2FnbmVyLSBTaG93IEFjY291bnRzIn0.WNjXqKF7y6iD7lU2sralBxxAnTyDZrAbrggeBC9Y8qE","checksum":"8fa030fef38d494de6b2db52144bcfb1","siteId":"341785","articleId":"custom-1378760115496","el":"livefyre"};window.lf_config2 = {"collectionMeta":"eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJ1cmwiOiAiaHR0cDovL3d3dy5tc25iYy5jb20vbm93LXdpdGgtYWxleC13YWduZXIiLCAidGFncyI6IFtdLCAiYXJ0aWNsZUlkIjogImN1c3RvbS0xMzc4NzYwMDk4MTI3IiwgInRpdGxlIjogIk5vdyBXaXRoIEFsZXggV2FnbmVyLSBGYWNlYm9vayJ9.wvn9lt1F877QvnnJTBEQsnTTg-Yc-bJ9icuimfpGt50","checksum":"b148cc313bb8d318c725f230c0cf6271","siteId":"341785","articleId":"custom-1378760098127","el":"livefyre"};window.lf_config3 = {"collectionMeta":"eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJ1cmwiOiAiaHR0cDovL3d3dy5tc25iYy5jb20vbm93LXdpdGgtYWxleC13YWduZXIiLCAidGFncyI6IFtdLCAiYXJ0aWNsZUlkIjogImN1c3RvbS0xMzc4NzU5NjQ5NzY1IiwgInRpdGxlIjogIk5vdyBXaXRoIEFsZXggV2FnbmVyLSBUd2l0dGVyIn0.NkCpkbQGVl5lQA_hQFjJvspaitgmc19yfwlaF9C4Qi4","checksum":"293c8df8abde58a4d5955038bd67e0c0","siteId":"341785","articleId":"custom-1378759649765","el":"livefyre"};</script><div id="livefyre"></div><div class="footer_branding"><div class="livefyre-mention">@nowwithalex</div><div class="livefyre_msnbc-logo"></div><div class="livefyre_livefyre-logo"><span class="livefyre-logo"></span><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-dfp-showcase2-watch" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-showcase2_watch-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-showcase2_watch" class="dfp-tag-wrapper dfp-tag-content" data-ad-slot="showcase2_watch">
+  <script type="text/javascript">
+    msnbcDisplayAdSlot('showcase2_watch', 'dfp-ad-showcase2_watch');
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-msnbc-newsvine-talking pane-micro-title" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="groups groups_talking" ng-controller="MSNBCNewsvineGroups" ng-init="init('groups_talking', 'now-with-alex-wagner')">
+      <span ng-bind-html-unsafe="(title)"></span>
+    <ul class="card-list">
+    <li class="card-list__item" ng-repeat="group in groups">
+      <div class="card-list__item__img">
+        <a class="newsvine_avatar" data-group='{{group}}'><img data-ng-src="{{group.avatar}}"></a>
+      </div>
+      <div class="card-list__item__content">
+        <h4 class="card-list__item__content__title">
+          <a data-ng-href="{{group.url}}" data-ng-bind-html-unsafe="group.displayName"></a>
+        </h4>
+                  <span class="card-list__item__content__meta">
+            <ng-pluralize count="group.memberCount" when="{'one':'1 member', 'other':'{} members'}"></ng-pluralize>
+          </span>
+          <!-- Follow button -->
+          <footer class="card-list__item__content__footer newsvine_group" data-group='{
+              "domainName": "{{group.domainName}}",
+              "url": "{{group.url}}",
+              "groupType": "{{group.groupType}}",
+              "groupTypeId": {{group.groupTypeId}}
+            }' data-status-box="false" data-membership-status="false" data-show-labels="false">
+          </footer>
+          <!-- End Follow button -->
+              </div>
+    </li>
+  </ul>
+  <div class="msnbc_helper_link join-in-button join-in-button__create-group" data-type="create-group" data-label="create new group"></div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-msnbc-newsvine-show-followers pane-micro-title" >
+  
+      
+  
+  <div class="pane-content">
+    <div ng-controller="MSNBCShowFollowers" data-items="3" data-title="now-with-alex-wagner">
+  <span ng-bind-html-unsafe="(title)"></span>
+  <ul class="show-followers">
+    <li class="show-followers__item" ng-repeat="user in users">
+      <div class="show-followers__item__image">
+        <a data-ng-href="{{user.url}}" target="_blank"><img data-ng-src="{{user.avatar}}"></a>
+      </div>
+      <div class="show-followers__item__follower">
+        <h4 class="show-followers__item__follower__name"><a data-ng-href="{{user.url}}" data-ng-bind-html-unsafe="user.displayName"></a></h4>
+        <div class="show-followers__item__follower__comments" data-ng-bind-html-unsafe="(user.numComments) comments"></div>
+        <!-- Follow button -->
+        <div class="show-followers__item__follow newsvine-user"
+          data-type="u"
+          data-section="{{user.domainName}}"
+          ></div>
+        <!-- End Follow button -->
+      </div>
+    </li>
+  </ul>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+    </div>
+    
+        <div class="panel__row__multi--ii-ii">
+      <div class="inside"><div class="panel-pane pane-block pane-dfp-showcase3-watch" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="dfp-ad-showcase3_watch-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-showcase3_watch" class="dfp-tag-wrapper dfp-tag-content" data-ad-slot="showcase3_watch">
+  <script type="text/javascript">
+    msnbcDisplayAdSlot('showcase3_watch', 'dfp-ad-showcase3_watch');
+  </script>
+</div>
+</div>  </div>
+
+  
+  </div>
+</div>
+    </div>
+    
+  </aside>
+  
+    <div class="panel__row--iii">
+    <div class="inside"><div class="panel-pane pane-block pane-bean-shows-extreme-bottom" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="entity entity-bean bean-msnbc-ads clearfix">
+
+  <div class="content">
+      </div>
+</div>
+<script type="text/javascript">
+  if (_getWidth() < 600) {
+    document.write('<div class="mocean_container"><iframe class="mocean_ad" src="http://ads.mocean.mobi/ad?site=54059&zone=200771"></iframe></div>');
+  }
+</script>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+
+  </main><!-- /.page-content -->
+
+  <!-- Site Footer -->
+  <footer id="page-footer" class="footer" ng-controller="footerController">
+  <div class="social-icons-b">
+    <a class="social-icons-b__link social-icons-b__link--facebook" href="https://www.facebook.com/msnbc/">facebook</a>
+    <a class="social-icons-b__link social-icons-b__link--twitter" href="https://twitter.com/msnbc/">twitter</a>
+    <a class="social-icons-b__link social-icons-b__link--googleplus" href="https://plus.google.com/+msnbc/">google plus</a>
+    <a class="social-icons-b__link social-icons-b__link--tumblr" href="http://msnbc.tumblr.com/">tumblr</a>
+    <a class="social-icons-b__link social-icons-b__link--instagram" href="http://instagram.com/msnbc/">instagram</a>
+    <a class="social-icons-b__link social-icons-b__link--rss" ng-href="{{path.prefix}}/feeds/latest">rss</a>
+    <a class="social-icons-b__link social-icons-b__link--msn" href="http://www.msn.com/">msn</a>
+  </div>
+
+  <div class="footer-inner">
+    <div class="m-left">
+      <nav class="fl-sitewide">
+        <ul>
+          <li><a ng-href="{{path.prefix}}/help" title="">Help</a></li>
+          <li><a ng-href="{{path.prefix}}/terms-of-service" title="">Terms of Use</a></li>
+          <li><a ng-href="{{path.prefix}}/privacy-policy" title="">Privacy Policy</a></li>
+          <li><a href="http://corporate.comcast.com/news-information/nbcuniversal-transaction/independent-programming" target="_blank" title="">Independent Programming Report</a></li>
+          <li><a ng-href="{{path.prefix}}/closed-captioning" title="">Closed Captioning</a></li>
+        </ul>
+      </nav>
+
+      <nav class="fl-msnbc">
+        <ul>
+          <li><a href="http://info.msnbc.com/" title="msnbc Info Blog">msnbc Info Blog</a></li>
+          <li><a ng-href="http://www.nbcnews.com/id/27365695/" target="_blank" title="Careers">Careers</a></li>
+          <li><a href="http://www.nbcnews.com/id/31066137/media-kit/" title="">Advertise</a></li>
+          <li>
+            <!--
+              Evidon tag
+              cid: 908
+              pid: 1196
+            -->
+
+            <a id="_bapw-link" href="#" target="_blank" style=""><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;"/><span style="vertical-align:middle !important">AdChoices</span></a><script>/*<![CDATA[*/(setTimeout(function(){var k=1196,m=908,n=1,b=false,l=document,p=l.getElementById("_bapw-link"),h=(l.location.protocol=="https:"),i=(h?"https":"http")+"://",g=i+"c.betrad.com/pub/",r=window._bap_p_overrides,e=0,a=0,f=560,q=720,o=h||(r&&r.hasOwnProperty(k)&&r[k].new_window);function c(s){var d=new Image();d.src=i+"l.betrad.com/pub/p.gif?pid="+k+"&ocid="+m+"&i"+s+"=1&r="+Math.random()}function j(){if(typeof(window.innerWidth)=="number"&&typeof(window.innerHeight)=="number"){e=window.innerWidth;a=window.innerHeight}else{if(document.documentElement&&document.documentElement.clientWidth&&document.documentElement.clientHeight){e=document.documentElement.clientWidth;a=document.documentElement.clientHeight}else{if(document.body&&document.body.clientWidth&&document.body.clientHeight){e=document.body.clientWidth;a=document.body.clientHeight}}}return(a<=f)||(e<=q)}l.getElementById("_bapw-icon").src=g+"icon1.png";p.onmouseover=function(){p.href="http://info.evidon.com/pub_info/"+k+"?v=1&nt="+n+"&nw="+((o||j())?"true":"false")};p.onclick=function(){if(o||j()){c("c");return true}function d(u,x){var v=l.getElementsByTagName("head")[0]||l.documentElement,t=b,s=l.createElement("script");function w(){s.onload=s.onreadystatechange=null;v.removeChild(s);x()}s.src=u;s.onreadystatechange=function(){if(!t&&(this.readyState=="loaded"||this.readyState=="complete")){t=true;w()}};s.onload=w;v.insertBefore(s,v.firstChild)}this.onclick="return "+b;d(i+"ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js",function(){d(g+"pub2.js",function(){BAPW.i(p,{pid:k,ocid:m})})});return b};c("i")},500));/*]]>*/</script>
+
+          </li>
+        </ul>
+      </nav>
+    </div><!-- /.m-left -->
+
+    <div class="m-right">
+      <nav class="fl-nbcnews">
+        <ul>
+          <li><a href="http://www.nbcnews.com/" target="_blank" title="">NBCNews.com</a></li>
+          <li><a href="http://www.today.com/" target="_blank" title="">Today.com</a></li>
+          <li><a href="http://www.cnbc.com/" target="_blank" title="">CNBC.com</a></li>
+          <li><a href="http://nbclatino.com/" target="_blank" title="">NBCLatino.com</a></li>
+          <li><a href="http://thegrio.com/" target="_blank" title="">TheGrio.com</a></li>
+        </ul>
+      </nav>
+
+      <nav class="fl-microsoft-links">
+        <ul>
+          <li><a href="http://www.bing.com/?FORM=MSNBNV" target="_blank" title="">Bing</a></li>
+          <li><a href="http://www.msn.com/" target="_blank" title="">MSN</a></li>
+          <li><a href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=11&ct=1362589167&rver=6.1.6206.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1" target="_blank" title="">Hotmail</a></li>
+        </ul>
+      </nav>
+    </div><!-- /.m-right -->
+    <div class="f-copyright">&copy;2013 NBC UNIVERSAL</div>
+  </div><!-- /.footer-inner -->
+
+</footer>
+  <!-- /.site-footer -->
+
+</div>
+    <script src="http://www.msnbc.com/sites/msnbc/files/js/js_2mdTQtvwCainuVKOqQsH1BuSMQvOxSgWO1is-qhBFoU.js"></script>
+<script src="//www.nbcudigitaladops.com/hosted/global.js"></script>
+<script>
+var conv = fyre.conv.load(
+    {"network": "msnbc.fyre.co", "readOnly":true},
+    [window.lf_config1],
+    onLoadFunc);
+</script>
+  </body>
+</html>

@@ -1,0 +1,317 @@
+array(42) {
+  ["$xmlns"]=>
+  array(1) {
+    ["nnd"]=>
+    string(36) "http://partners.nbcnews.com/nnd_mrss"
+  }
+  ["guid"]=>
+  string(20) "n_sharp_2nice_131101"
+  ["title"]=>
+  string(31) "Rand Paul’s borrowed language"
+  ["author"]=>
+  string(0) ""
+  ["description"]=>
+  string(111) "Rev. Sharpton calls Sen. Rand Paul out for the many instances of plagiarism that have been uncovered this week."
+  ["media$availableDate"]=>
+  float(1383348540000)
+  ["media$expirationDate"]=>
+  float(4459188540000)
+  ["media$categories"]=>
+  array(4) {
+    [0]=>
+    array(3) {
+      ["media$name"]=>
+      string(26) "Cable/Politics/Republicans"
+      ["media$scheme"]=>
+      string(0) ""
+      ["media$label"]=>
+      string(0) ""
+    }
+    [1]=>
+    array(3) {
+      ["media$name"]=>
+      string(24) "MSNBC/Issues/Republicans"
+      ["media$scheme"]=>
+      string(0) ""
+      ["media$label"]=>
+      string(0) ""
+    }
+    [2]=>
+    array(3) {
+      ["media$name"]=>
+      string(21) "PoliticsNation/Gotcha"
+      ["media$scheme"]=>
+      string(0) ""
+      ["media$label"]=>
+      string(0) ""
+    }
+    [3]=>
+    array(3) {
+      ["media$name"]=>
+      string(29) "MSNBC/Topics/Franchise/Gotcha"
+      ["media$scheme"]=>
+      string(0) ""
+      ["media$label"]=>
+      string(0) ""
+    }
+  }
+  ["media$copyright"]=>
+  string(0) ""
+  ["media$copyrightUrl"]=>
+  string(0) ""
+  ["media$credits"]=>
+  array(0) {
+  }
+  ["media$keywords"]=>
+  string(0) ""
+  ["media$ratings"]=>
+  array(0) {
+  }
+  ["media$countries"]=>
+  array(0) {
+  }
+  ["media$excludeCountries"]=>
+  bool(true)
+  ["media$text"]=>
+  string(1914) "&gt;&gt;&gt; SENATOR RAND PAUL HAS A BIG  PROBLEM. ON MONDAY RACHEL MADDOW  UNCOVERED THE FACT THAT HE  APPARENTLY LIFTED PART OF HIS  SPEECH THAT HE DELIVERED LAST  WEEKEND DIRECTLY FROM WIKIPEDIA. ON TUESDAY BUZZ FEED FOUND HE&#39;D  DONE IT BEFORE. AND THEN RACHEL DISCOVERED A  THIRD INSTANCE. RAND PAUL TRIED HIS BEST TO  DEFEND THESE SPEECHES, BUT IT  DOESN&#39;T END THERE. POLITICO UNCOVERED MORE  INSTANCES OF BORROWED LANGUAGE  BY SENATOR PAUL. IT TURNS OUT WIKIPEDIA ISN&#39;T HIS ONLY ONES. HIS RESPONSE TO THE STATE OF THE UNION, HIS REMARKS HAD THE EXACT SAME WORDS FROM THE ASSOCIATED  PRESS. AND HE MAKES ONLY MINIMAL  CHANGES IN HIS DELIVERY. &#13;&#10;&gt;&gt; UNDER PRESIDENT OBAMA THE  RANKS OF AMERICA&#39;S POOR HAVE  SWELLED TO ALMOST ONE IN SIX  PEOPLE. WE ARE NOW AT AN ALL TIME HIGH  IN LONG-TERM UNEMPLOYMENT. MILLIONS OF AMERICANS ARE  STRUGGLING AND OUT OF WORK. &#13;&#10;&gt;&gt; THAT LOOKS PRETTY SIMILAR TO  ME. AND IN A SPEECH THAT PAUL GAVE  AT HOWARD UNIVERSITY EARLIER  THIS YEAR, POLITICO SAYS HE  BORROWS LANGUAGE FROM THE  CONSERVATIVE MAGAZINE CITIZEN  LINK TO TELL A STORY ABOUT D.C.  STUDENT NAMED RONALD HOLISI. &#13;&#10;&gt;&gt; HE WAS FAILING MOST OF HIS  CLASS. THROUGH SCHOOL CHOICE HE WAS  ABLE TO ATTEND A CATHOLIC SCHOOL HERE IN D.C. THERE HE LEARNED THAT HE HAD A  NATURAL GIFT FOR COMPOSING  MUSIC. BEFORE THAT HE WASN&#39;T EVEN  READING. &#13;&#10;&gt;&gt; RAND PAUL HAS A LOT OF  EXPLAINING TO DO. -- SOMETHING THIS TRIVIAL. GOING FORWARD HE WILL BE MORE  CAUTIOUS IN PRESENTING AND  ATTRIBUTING SOURCES. HE&#39;LL BE MORE CAUTIOUS. WHAT? WHAT HE NEEDS TO DO IS BE MORE  HONEST. THIS IS SERIOUS BUSINESS. IN THE PAST ACCUSATIONS HAD  DESTROYED POLITICAL CAREERS AND  ENDED PRESIDENTIAL CAMPAIGNS. SENATOR PAUL, DID YOU THINK WE  WOULDN&#39;T NOTICE HOW YOU TRIED TO CUT AND PASTE THE TRUTH? NICE TRY, BUT YOU CAN&#39;T HIT THE  BACKSPACE BECAUSE WE GOT YOU."
+  ["media$content"]=>
+  array(3) {
+    [0]=>
+    array(17) {
+      ["plfile$audioChannels"]=>
+      int(0)
+      ["plfile$audioSampleRate"]=>
+      int(0)
+      ["plfile$bitrate"]=>
+      int(0)
+      ["plfile$checksums"]=>
+      array(0) {
+      }
+      ["plfile$contentType"]=>
+      string(5) "video"
+      ["plfile$duration"]=>
+      float(163)
+      ["plfile$expression"]=>
+      string(4) "full"
+      ["plfile$fileSize"]=>
+      int(0)
+      ["plfile$frameRate"]=>
+      float(0)
+      ["plfile$format"]=>
+      string(5) "MPEG4"
+      ["plfile$height"]=>
+      int(0)
+      ["plfile$isDefault"]=>
+      bool(false)
+      ["plfile$language"]=>
+      string(0) ""
+      ["plfile$sourceTime"]=>
+      float(0)
+      ["plfile$url"]=>
+      string(69) "http://link.theplatform.com/s/2E2eJC/boYAvIiiNUWL?feed=PoliticsNation"
+      ["plfile$width"]=>
+      int(0)
+      ["plfile$displayAspectRatio"]=>
+      string(0) ""
+    }
+    [1]=>
+    array(17) {
+      ["plfile$audioChannels"]=>
+      int(0)
+      ["plfile$audioSampleRate"]=>
+      int(0)
+      ["plfile$bitrate"]=>
+      int(500000)
+      ["plfile$checksums"]=>
+      array(0) {
+      }
+      ["plfile$contentType"]=>
+      string(5) "video"
+      ["plfile$duration"]=>
+      float(163.163)
+      ["plfile$expression"]=>
+      string(4) "full"
+      ["plfile$fileSize"]=>
+      int(0)
+      ["plfile$frameRate"]=>
+      float(0)
+      ["plfile$format"]=>
+      string(5) "MPEG4"
+      ["plfile$height"]=>
+      int(240)
+      ["plfile$isDefault"]=>
+      bool(false)
+      ["plfile$language"]=>
+      string(0) ""
+      ["plfile$sourceTime"]=>
+      float(0)
+      ["plfile$url"]=>
+      string(69) "http://link.theplatform.com/s/2E2eJC/W1rnSO_W_yJY?feed=PoliticsNation"
+      ["plfile$width"]=>
+      int(420)
+      ["plfile$displayAspectRatio"]=>
+      string(0) ""
+    }
+    [2]=>
+    array(17) {
+      ["plfile$audioChannels"]=>
+      int(0)
+      ["plfile$audioSampleRate"]=>
+      int(0)
+      ["plfile$bitrate"]=>
+      int(800000)
+      ["plfile$checksums"]=>
+      array(0) {
+      }
+      ["plfile$contentType"]=>
+      string(5) "video"
+      ["plfile$duration"]=>
+      float(163.163)
+      ["plfile$expression"]=>
+      string(4) "full"
+      ["plfile$fileSize"]=>
+      int(0)
+      ["plfile$frameRate"]=>
+      float(0)
+      ["plfile$format"]=>
+      string(5) "MPEG4"
+      ["plfile$height"]=>
+      int(360)
+      ["plfile$isDefault"]=>
+      bool(true)
+      ["plfile$language"]=>
+      string(0) ""
+      ["plfile$sourceTime"]=>
+      float(0)
+      ["plfile$url"]=>
+      string(69) "http://link.theplatform.com/s/2E2eJC/9LrAQVLOVMdg?feed=PoliticsNation"
+      ["plfile$width"]=>
+      int(640)
+      ["plfile$displayAspectRatio"]=>
+      string(0) ""
+    }
+  }
+  ["media$thumbnails"]=>
+  array(1) {
+    [0]=>
+    array(17) {
+      ["plfile$audioChannels"]=>
+      int(0)
+      ["plfile$audioSampleRate"]=>
+      int(0)
+      ["plfile$bitrate"]=>
+      int(0)
+      ["plfile$checksums"]=>
+      array(0) {
+      }
+      ["plfile$contentType"]=>
+      string(5) "image"
+      ["plfile$duration"]=>
+      float(0)
+      ["plfile$expression"]=>
+      string(4) "full"
+      ["plfile$fileSize"]=>
+      int(0)
+      ["plfile$frameRate"]=>
+      float(0)
+      ["plfile$format"]=>
+      string(4) "JPEG"
+      ["plfile$height"]=>
+      int(1080)
+      ["plfile$isDefault"]=>
+      bool(true)
+      ["plfile$language"]=>
+      string(0) ""
+      ["plfile$sourceTime"]=>
+      float(0)
+      ["plfile$url"]=>
+      string(83) "http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/n_sharp_2nice_131101.jpg"
+      ["plfile$width"]=>
+      int(1920)
+      ["plfile$displayAspectRatio"]=>
+      string(0) ""
+    }
+  }
+  ["link"]=>
+  string(0) ""
+  ["pubDate"]=>
+  float(1383348540000)
+  ["plmedia$defaultThumbnailUrl"]=>
+  string(83) "http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/n_sharp_2nice_131101.jpg"
+  ["nnd$associatedPlaylist"]=>
+  array(1) {
+    ["href"]=>
+    string(49) "http://feed.theplatform.com/f/2E2eJC/nnd_44263878"
+  }
+  ["nnd$brand"]=>
+  string(5) "MSNBC"
+  ["nnd$bureau"]=>
+  string(8) "30RockNY"
+  ["nnd$bviAssetId"]=>
+  string(20) "n_sharp_2nice_131101"
+  ["nnd$canonicalUrl"]=>
+  array(1) {
+    ["href"]=>
+    string(82) "http://www.msnbc.com/politicsnation/watch/rand-pauls-borrowed-language-59562051864"
+  }
+  ["nnd$distributionProfile"]=>
+  array(2) {
+    [0]=>
+    string(6) "MSN-CA"
+    [1]=>
+    string(3) "AWE"
+  }
+  ["nnd$firstAiredAtUtc"]=>
+  float(1383344193000)
+  ["nnd$lastAiredAtUtc"]=>
+  float(1383344193000)
+  ["nnd$lastEditorialChangeAtUtc"]=>
+  float(1383348586000)
+  ["nnd$longTitle"]=>
+  string(31) "Rand Paul’s borrowed language"
+  ["nnd$playCount30"]=>
+  int(6122)
+  ["nnd$playCountDay"]=>
+  int(753)
+  ["nnd$playCountYear"]=>
+  int(6387)
+  ["nnd$requiresCaptioning"]=>
+  bool(true)
+  ["nnd$shortDescription"]=>
+  string(111) "Rev. Sharpton calls Sen. Rand Paul out for the many instances of plagiarism that have been uncovered this week."
+  ["nnd$source"]=>
+  string(14) "PoliticsNation"
+  ["nnd$sourceId"]=>
+  string(12) "nnd_44263878"
+  ["nnd$sourceUrlSlug"]=>
+  string(14) "politicsnation"
+  ["nnd$titleUrlSlug"]=>
+  string(28) "rand-pauls-borrowed-language"
+  ["nnd$videoType"]=>
+  string(9) "Broadcast"
+  ["nnd$workbenchId"]=>
+  string(8) "53437825"
+}
+---------
+array(10) {
+  ["title"]=>
+  string(31) "Rand Paul’s borrowed language"
+  ["description"]=>
+  string(111) "Rev. Sharpton calls Sen. Rand Paul out for the many instances of plagiarism that have been uncovered this week."
+  ["guid"]=>
+  string(20) "n_sharp_2nice_131101"
+  ["pubDate"]=>
+  string(31) "Sat, 02 Nov 2013 07:29:00 +0800"
+  ["author"]=>
+  string(14) "PoliticsNation"
+  ["tags"]=>
+  string(18) "borrowed, language"
+  ["link"]=>
+  string(82) "http://www.msnbc.com/politicsnation/watch/rand-pauls-borrowed-language-59562051864"
+  ["thumbnail"]=>
+  string(83) "http://media2.s-nbcnews.com/i/MSNBC/Components/Video/__NEW/n_sharp_2nice_131101.jpg"
+  ["image"]=>
+  string(0) ""
+  ["embed_code"]=>
+  string(157) "<iframe src='http://player.theplatform.com/p/2E2eJC/EmbeddedOffSite?guid=n_sharp_2nice_131101' height='500' width='635' scrolling='no' border='no' ></iframe>"
+}
