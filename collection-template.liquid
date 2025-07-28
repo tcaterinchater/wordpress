@@ -28,7 +28,8 @@
 }
 
 /* Out of stock styling */
-.product-block--out-of-stock {
+.product-block--out-of-stock,
+.out-of-stock-custom {
   opacity: 0.6;
   order: 999;
 }
@@ -339,7 +340,7 @@
               {%- for product in collection.products -%}
                 {%- unless product.available -%}
                   {%- assign out_of_stock_index = out_of_stock_index | plus: 1 -%}
-                  {%- render 'product-grid-item', product: product, index: out_of_stock_index, enable_filters: enable_filters, out_of_stock: true -%}
+                  {%- render 'product-grid-item', product: product, index: out_of_stock_index, enable_filters: enable_filters, out_of_stock: true, out_of_stock_class: 'out-of-stock-custom' -%}
                 {%- endunless -%}
               {%- endfor -%}
             {%- else -%}
