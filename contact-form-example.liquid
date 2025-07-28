@@ -1,0 +1,128 @@
+<!-- Contact Form Example for Shopify (Liquid Template) -->
+<div class="contact-form">
+  <div class="contact-form__header">
+    <h2 class="contact-form__title">{{ section.settings.title | default: 'Contact Us' }}</h2>
+    <p class="contact-form__subtitle">{{ section.settings.subtitle | default: 'We\'d love to hear from you. Send us a message and we\'ll respond as soon as possible.' }}</p>
+  </div>
+
+  {% if form.posted_successfully? %}
+    <div class="contact-form__success">
+      <p>Thanks for contacting us! We'll get back to you as soon as possible.</p>
+    </div>
+  {% endif %}
+
+  {% form 'contact', class: 'contact-form__form', id: 'contact-form' %}
+    {% if form.errors %}
+      <div class="contact-form__errors">
+        {% for field in form.errors %}
+          <span class="contact-form__error">{{ form.errors.messages[field] }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <div class="contact-form__field-row">
+      <div class="contact-form__field-group">
+        <label for="contact-name" class="contact-form__label contact-form__label--required">Name</label>
+        <input 
+          type="text" 
+          id="contact-name" 
+          name="contact[name]" 
+          class="contact-form__input"
+          value="{{ form.name }}"
+          required
+          autocomplete="name"
+        >
+        {% if form.errors contains 'name' %}
+          <span class="contact-form__error">{{ form.errors.messages.name }}</span>
+        {% endif %}
+      </div>
+
+      <div class="contact-form__field-group">
+        <label for="contact-email" class="contact-form__label contact-form__label--required">Email</label>
+        <input 
+          type="email" 
+          id="contact-email" 
+          name="contact[email]" 
+          class="contact-form__input"
+          value="{{ form.email }}"
+          required
+          autocomplete="email"
+        >
+        {% if form.errors contains 'email' %}
+          <span class="contact-form__error">{{ form.errors.messages.email }}</span>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="contact-form__field-group">
+      <label for="contact-phone" class="contact-form__label">Phone Number</label>
+      <input 
+        type="tel" 
+        id="contact-phone" 
+        name="contact[phone]" 
+        class="contact-form__input"
+        value="{{ form.phone }}"
+        autocomplete="tel"
+      >
+      {% if form.errors contains 'phone' %}
+        <span class="contact-form__error">{{ form.errors.messages.phone }}</span>
+      {% endif %}
+    </div>
+
+    <div class="contact-form__field-group">
+      <label for="contact-message" class="contact-form__label contact-form__label--required">Message</label>
+      <textarea 
+        id="contact-message" 
+        name="contact[body]" 
+        class="contact-form__textarea"
+        required
+        placeholder="Tell us how we can help you..."
+      >{{ form.body }}</textarea>
+      {% if form.errors contains 'body' %}
+        <span class="contact-form__error">{{ form.errors.messages.body }}</span>
+      {% endif %}
+    </div>
+
+    <button type="submit" class="contact-form__submit">
+      Send Message
+    </button>
+  {% endform %}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('contact-form');
+  const submitButton = form.querySelector('.contact-form__submit');
+  
+  form.addEventListener('submit', function() {
+    // Add loading state
+    form.classList.add('contact-form--loading');
+    submitButton.disabled = true;
+  });
+});
+</script>
+
+{% schema %}
+{
+  "name": "Contact Form",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Form Title",
+      "default": "Contact Us"
+    },
+    {
+      "type": "textarea",
+      "id": "subtitle",
+      "label": "Form Subtitle",
+      "default": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Contact Form"
+    }
+  ]
+}
+{% endschema %}
