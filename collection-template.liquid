@@ -1,0 +1,553 @@
+{%- comment -%} Settings {%- endcomment -%}
+{%- liquid
+  assign show_sort_filter = section.settings.show_sort_filter
+  assign sort_by = collection.sort_by | default: collection.default_sort_by
+  assign show_featured_image = section.settings.show_featured_image
+  assign enable_filters = section.settings.enable_filters
+  assign sort_url = '?'
+
+  if enable_filters 
+    assign active_values = '?'
+    for filter in collection.filters
+      for filter_active in filter.active_values
+        assign active_values = active_values | append: filter_active.param_name | append: '=' | append: filter_active.value | append: '&'
+      endfor
+    endfor
+    assign sort_url = active_values
+  endif
+-%}
+<style>
+  html.quick-view-open {
+  overflow: hidden; /* Hide the scrollbar */
+  padding-right: var(--scrollbar-width, 15px); /* Compensate for scrollbar width */
+}
+
+/* Prevent layout shift on fixed elements like headers if they have a width: 100% */
+.header, .sticky-header, .fixed-element {
+    padding-right: var(--scrollbar-width, 15px);
+}
+
+/* Out of stock styling */
+.product-block--out-of-stock {
+  opacity: 0.6;
+  order: 999;
+}
+</style>
+{%- capture style -%}
+  --PT: {{ section.settings.padding_top }}px;
+  --PB: {{ section.settings.padding_bottom }}px;
+{%- endcapture -%}
+
+{% comment %}
+  Set collectionBlock size classes
+  These are applied in the collection-grid__block.liquid file
+{% endcomment %}
+{%- liquid
+  assign products_rows = settings.products_rows | plus: 0
+  assign products_columns = settings.products_columns | plus: 0
+  assign products_columns_mobile = settings.products_columns_mobile | plus: 0
+  assign products_limit = products_columns | times: products_rows
+-%}
+
+{%- capture style -%}
+  {{ style }}
+  --COLUMNS: {{ products_columns }};
+  --COLUMNS-MEDIUM: {{ products_columns | at_most: 3 }};
+  --COLUMNS-SMALL: {{ products_columns_mobile }};
+  --COLUMNS-MOBILE: {{ products_columns_mobile }};
+{%- endcapture -%}
+
+<section id="Collection--{{ section.id }}"
+  class="collection section-padding"
+  data-section-id="{{ section.id }}"
+  data-section-type="collection"
+  data-filters-enable="{{ enable_filters }}"
+  style="{{ style }}"
+>
+  <div class="collection-grid container-wrap" data-collection-wrapper>
+    {%- if enable_filters -%}
+      {%- liquid
+  assign filters_available = false
+  assign filter_count = 0
+  assign enable_sorting = section.settings.show_sort_filter
+  assign position_filters = section.settings.position_filters
+
+  capture sort_param
+    if collection.sort_by != collection.default_sort_by
+      echo '?sort_by=' | append: sort_by
+    endif
+  endcapture
+
+  assign is_left = false
+  if position_filters == 'left'
+    assign is_left = true
+  endif
+-%}
+
+{%- capture style -%}
+  --COLUMNS: 4;
+  --COLUMNS-MEDIUM: 4;
+  --COLUMNS-SMALL: 3;
+  --COLUMNS-MOBILE: 2;
+{%- endcapture -%}
+
+{%- capture filters -%}
+  <accordion-elements{% unless is_left %} single{% endunless %}>
+    {%- liquid
+      if collection.filters != empty
+        assign filters_available = true
+      endif
+
+      for filter in collection.filters
+        unless filter.label == 'Availability'
+        render 'filter', filter: filter, position_filters: position_filters
+        endunless
+      endfor
+    -%}
+
+    {%- if enable_sorting -%}
+      <input type="hidden" name="sort_by" value="{{ collection.sort_by | default: collection.default_sort_by }}" data-input-sort="{{ collection.sort_by }}">
+    {%- endif -%}
+
+    <noscript>
+      <button type="submit" class="btn btn--submit">{{ 'collection.filters.filter_button' | t }}</button>
+    </noscript>
+  </accordion-elements>
+{%- endcapture -%}
+
+{%- capture filter_reset_buttons -%}
+  {%- for filter in collection.filters -%}
+    
+    {%- if filter.type == 'price_range' -%}
+      {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
+        {%- assign filter_count = filter_count | plus: 1 -%}
+        <a class="active__filters__remove btn btn--outline btn--primary" href="{{ filter.url_to_remove }}" data-filter-reset-button>
+          {%- assign min_value = filter.min_value.value | default: 0 -%}
+          {%- assign max_value = filter.max_value.value | default: filter.range_max -%}
+          {{ min_value | money_without_trailing_zeros }} - {{ max_value | money_without_trailing_zeros }}
+          <span class="filter__x">✕</span>
+        </a>
+      {%- endif -%}
+    {%- else -%}
+      {%- for filter_value in filter.active_values -%}
+        {%- assign filter_count = filter_count | plus: 1 -%}
+        <a class="active__filters__remove btn btn--outline btn--primary" href="{{ filter_value.url_to_remove }}" data-filter-reset-button>
+          {{ filter_value.label }}
+          <span class="filter__x">✕</span>
+        </a>
+      {%- endfor -%}
+    {%- endif -%}
+    
+  {%- endfor -%}
+{%- endcapture -%}
+
+<div class="collection__filters collection__filters--{{ position_filters }}"
+  data-filters
+  {% if filters_available %}
+  data-filters-available
+  {% endif %}
+  data-aos="fade"
+  style="{{ style }}"
+>
+  <div class="container">
+    <div class="collection__filters-list">
+      {%- if filters != blank and filters_available -%}
+        <div class="collection__active__filters" data-filters-reset>
+          {%- if filter_count > 0 -%}
+            <div class="clear__holder">
+              <a href="{{ collection.url }}/{{ sort_param }}" class="active__filters__clear btn btn--primary btn--solid" data-filter-reset-button>{{ 'collection.filters.clear_all' | t }}</a>
+            </div>
+          {%- endif -%}
+
+          {%- if filter_reset_buttons != empty -%}
+            <div class="reset__holder">
+              {{- filter_reset_buttons -}}
+            </div>
+          {%- endif -%}
+        </div>
+
+        <form class="collection__filters-form" data-filters-form method="GET" action="{{ collection.url }}">
+          {{- filters -}}
+        </form>
+      {%- elsif enable_filters -%}
+        <div class="collection__filters__empty">
+          <p><strong>{{ 'collection.filters.empty' | t }}</strong></p>
+        </div>
+      {%- endif -%}
+    </div>
+    <div class="collection-grid__nav">
+          
+
+          <div class="grid-sort">
+            {%- if show_sort_filter -%}
+              <div class="collection-grid__sort">
+                <div class="selector-wrapper">
+                  
+
+       <div class="popout sort" data-popout data-popout-prevent="true">
+  {%- render "icon-arrow" -%}
+
+  <button type="button" class="popout__toggle" aria-expanded="false" aria-controls="sort-list" aria-describedby="lang-heading" data-popout-toggle>
+  {% assign sort_set = false %}
+  {% for option in collection.sort_options %}
+    {% if option.value == sort_by %}
+      {% assign sort_set = true %}
+      Sort
+    {% endif %}
+  {% endfor %}
+  {% unless sort_set %}
+    Sort
+  {% endunless %}
+</button>
+
+
+  <!-- DROPDOWN -->
+  <ul id="sort-list" class="popout-list" data-popout-list>
+
+    <!-- Render actual sort options -->
+    {% for option in collection.sort_options %}
+      <li class="popout-list__item {% if option.value == sort_by %}popout-list__item--current{% endif %}">
+        <a class="popout-list__option" href="{{ collection.url | append: '?sort_by=' | append: option.value }}" {% if option.value == sort_by %}aria-current="true"{% endif %} data-value="{{ option.value }}" data-name="{{ option.name }}" data-popout-option>
+          <span>{{ option.name }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <input type="hidden" name="sort_by" id="collectionSort" value="{{ sort_by }}" data-collection-sort data-popout-input>
+</div>
+
+
+
+
+                </div>
+              </div>
+            {%- endif -%}
+          </div>
+        </div>
+  </div>
+</div>
+
+    {%- endif -%}
+    <div class="collection-grid__wrapper" data-collection-grid-wrapper>
+      <div class="container">
+        
+
+        {%- if collection.all_products_count == 0 -%}
+          <div class="collection-no-products">
+            <div class="container">
+              <h4>{{ 'collections.errors.no_products' | t }}</h4>
+              <div class="button-wrapper">
+                <a class="btn btn--solid btn--primary" href="{{ routes.all_products_collection_url }}">{{ 'collections.errors.continue_shopping' | t }}</a>
+              </div>
+            </div>
+          </div>
+        {%- endif -%}
+      </div>
+
+      {%- paginate collection.products by products_limit -%}
+        <div class="collection-grid__row collection-grid__row--grid grid"
+          data-show-quantity="{{ settings.show_quantity }}"
+          {% if show_sort_filter %}data-sort="{{ sort_by }}"{% endif %}
+          data-collection="{{ collection.url | default: routes.all_products_collection_url }}?"
+          {% if settings.enable_infinity_scroll %}data-infinity{% endif %}
+          data-collection-products>
+          {%- if collection.all_products_count > 0 -%}
+            {%- if show_featured_image and paginate.current_page == 1 and collection.products_count > 0 -%}
+              {% comment %} Featured Content Settings {% endcomment %}
+              {%- liquid
+                assign featured_image = section.settings.featured_image
+                assign featured_heading = section.settings.featured_heading
+                assign featured_text = section.settings.featured_text | replace: '<p>', '' | replace: '</p>', '<br>'
+                assign btn_text = section.settings.btn_text
+                assign btn_link = section.settings.btn_link
+                assign btn_size = section.settings.btn_size
+                assign btn_style = section.settings.btn_style
+                assign btn_type = section.settings.btn_type
+                assign featured_color_text = section.settings.featured_color_text
+                assign featured_color_overlay = section.settings.featured_color_overlay
+                assign featured_overlay_opacity = section.settings.featured_overlay_opacity | times: 0.01 | round: 2
+              -%}
+
+              {%- style -%}
+                {%- unless featured_color_text == 'rgba(0,0,0,0)'or featured_color_text == '' -%}
+                  .featured-block__content { color: {{ featured_color_text }}; }
+                {%- endunless -%}
+
+                {%- unless featured_color_overlay == 'rgba(0,0,0,0)' or featured_overlay_opacity == 0 -%}
+                  .featured-block__image::before {
+                    background-color: {{ featured_color_overlay }};
+                    opacity: {{ featured_overlay_opacity }};
+                  }
+                {%- endunless -%}
+              {%- endstyle -%}
+
+              <div class="product-block featured-block featured-block--mobile-{{ products_columns_mobile }}" data-collection-featured-block>
+                <div class="featured-block__container"{% if settings.transition_grid_items %} data-aos="zoom-in-up"{% endif %}>
+                  <div class="featured-block__wrapper">
+              test
+                    {%- unless featured_image == blank -%}
+                      {%- liquid
+                        assign widths = '244, 268, 300, 336, 348, 355, 405, 488, 536, 600, 672, 696, 710, 810, 976, 1072, 1200'
+
+                        if position_filters == 'left'
+                          assign sizes = '(min-width: 1024px) calc((100vw - 320px) / ' | append: products_columns | append: ' - 10px), (min-width: 768px) calc((100vw - 10px) / 3 - 10px), calc((100vw - 10px) / ' | append: products_columns_mobile | append: ' - 10px)'
+                        else
+                          assign sizes = '(min-width: 1024px) calc((100vw - 10px) / ' | append: products_columns | append: ' - 10px), (min-width: 768px) calc((100vw - 10px) / 3 - 10px), calc((100vw - 10px) / ' | append: products_columns_mobile | append: ' - 10px)'
+                        endif
+
+                        render 'image' image: featured_image, sizes: sizes, widths: widths, modifier: 'featured-block__image'
+                      -%}
+                    {%- else -%}
+                      <div class="featured-block__image svg-placeholder">
+                        {{- 'image' | placeholder_svg_tag -}}
+                      </div>
+                    {%- endunless -%}
+
+                    {%- if featured_heading != blank or featured_text != blank or btn_text != blank -%}
+                      <div class="featured-block__content">
+                        {%- if featured_heading -%}
+                          <h2 class="featured-block__content__heading">{{ featured_heading }}</h2>
+                        {%- endif -%}
+
+                        {%- if featured_text -%}
+                        <p class="featured-block__content__text">{{- featured_text -}}</p>
+                        {%- endif -%}
+                        
+                        {%- if btn_text != blank -%}
+                          <a href="{{ btn_link | default: '#!' }}" title="{{ btn_text }}" class="btn {{ btn_size }} {{ btn_style }} {{ btn_type }}">{{ btn_text }}</a>
+                        {%- endif -%}
+                      </div>
+                    {%- endif -%}
+                  </div>
+                </div>
+              </div>
+            {%- endif -%}
+
+            {%- if collection.products_count > 0 -%}
+              {%- comment -%} First loop: Render in-stock products {%- endcomment -%}
+              {%- assign in_stock_index = 0 -%}
+              {%- for product in collection.products -%}
+                {%- if product.available -%}
+                  {%- assign in_stock_index = in_stock_index | plus: 1 -%}
+                  {%- render 'product-grid-item', product: product, index: in_stock_index, enable_filters: enable_filters -%}
+                {%- endif -%}
+              {%- endfor -%}
+              
+              {%- comment -%} Second loop: Render out-of-stock products {%- endcomment -%}
+              {%- assign out_of_stock_index = in_stock_index -%}
+              {%- for product in collection.products -%}
+                {%- unless product.available -%}
+                  {%- assign out_of_stock_index = out_of_stock_index | plus: 1 -%}
+                  {%- render 'product-grid-item', product: product, index: out_of_stock_index, enable_filters: enable_filters, out_of_stock: true -%}
+                {%- endunless -%}
+              {%- endfor -%}
+            {%- else -%}
+              <div class="collection-no-products">
+                <div class="container">
+                  <p>{{ 'collections.errors.no_products_by_filter' | t : products_count: collection.products_count }}</p>
+
+                  {%- if enable_filters -%}
+                    <a href="{{ collection.url }}/{{ sort_param }}" class="collection__filters-reset-btn btn btn--primary btn--outline" data-filter-reset-button>
+                      {%- render 'icon-close' -%}
+                      <span class="collection__filters-reset-btn-text">{{ 'collections.tag_filtering.reset' | t }}</span>
+                      <span class="products-found" data-products-found-label>- {{ 'collections.products_with_count' | t: count: collection.products_count }}</span>
+                    </a>
+                  {%- endif -%}
+                </div>
+              </div>
+            {%- endif -%}
+          {%- endif -%}
+        </div>
+
+        {%- render 'pagination', paginate: paginate -%}
+      {%- endpaginate -%}
+    </div>
+  </div>
+</section>
+
+<script>
+  window.theme.collectionSort = {
+    sortBy: '{{ collection.sort_by }}'
+  }
+</script>
+
+{% schema %}
+  {
+  "name": "Collection products",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Filters"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_sort_filter",
+      "label": "Enable sorting",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_filters",
+      "label": "Enable filters",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "position_filters",
+      "label": "Position",
+      "default": "left",
+      "options": [
+        { "label": "Top", "value": "top" },
+        { "label": "Left", "value": "left" }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Featured image"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_featured_image",
+      "label": "Show featured image",
+      "default": false
+    },
+    {
+      "type": "image_picker",
+      "id": "featured_image",
+      "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "featured_heading",
+      "label": "Heading",
+      "default":"Use this image showcase promotional content."
+    },
+    {
+      "type": "richtext",
+      "id": "featured_text",
+      "label": "Text",
+      "default":"<p>Elaborate on it with rich text</p>"
+    },
+    {
+      "type": "text",
+      "id": "btn_text",
+      "label": "Button label",
+      "default":"Learn More"
+    },
+    {
+      "type": "url",
+      "id": "btn_link",
+      "label": "Button link"
+    },
+    {
+      "type": "select",
+      "id": "btn_type",
+      "label": "Color",
+      "default": "btn--primary",
+      "options": [
+        { "label": "Primary", "value": "btn--primary" },
+        { "label": "Secondary", "value": "btn--secondary" },
+        { "label": "White", "value": "btn--white" },
+        { "label": "Black", "value": "btn--black" }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "btn_size",
+        "label": "Size",
+        "default": "",
+        "options": [
+          { "label": "Small", "value": "btn--small" },
+          { "label": "Medium", "value": "" },
+          { "label": "Large", "value": "btn--large" }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "btn_style",
+        "label": "Style",
+        "default": "btn--solid",
+        "options": [
+          { "label": "Solid", "value": "btn--solid" },
+          { "label": "Outline", "value": "btn--outline" },
+          { "label": "Text", "value": "btn--text" }
+        ]
+      },
+    {
+      "type": "color",
+      "id": "featured_color_text",
+      "label": "Text",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "featured_color_overlay",
+      "label": "Overlay",
+      "default": "#333333"
+    },
+    {
+      "type": "range",
+      "id": "featured_overlay_opacity",
+      "label": "Overlay opacity",
+      "step": 5,
+      "max": 95,
+      "min": 0,
+      "unit": "%",
+      "default": 30
+    },
+    {
+      "type": "header",
+      "content": "Section padding"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Padding top",
+      "default": 35
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "unit": "px",
+      "label": "Padding bottom",
+      "default": 35
+    }
+  ]
+}
+{% endschema %}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const filters = document.querySelector(".collection__filters");
+
+    if (!filters) return;
+
+    // Create a sentinel just before the filters
+    const sentinel = document.createElement("div");
+    sentinel.style.position = "absolute";
+    sentinel.style.top = "0";
+    filters.parentNode.insertBefore(sentinel, filters);
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.boundingClientRect.top < 0 && !entry.isIntersecting) {
+          filters.classList.add("sticky");
+        } else {
+          filters.classList.remove("sticky");
+        }
+      },
+      {
+        threshold: [0],
+      }
+    );
+
+    observer.observe(sentinel);
+  });
+</script>
