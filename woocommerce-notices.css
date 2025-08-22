@@ -1,0 +1,218 @@
+/* WooCommerce Notices Styling */
+.woocommerce-notices-wrapper {
+    margin: 20px 0;
+    padding: 0;
+    position: relative;
+    z-index: 100;
+}
+
+.woocommerce-message {
+    background-color: #f7f7f7;
+    border: 1px solid #4d7192;
+    border-left: 4px solid #4d7192;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 0 0 20px 0;
+    color: #345a82;
+    font-size: 14px;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+    animation: slideInDown 0.4s ease-out;
+}
+
+/* Success/confirmation styling */
+.woocommerce-message::before {
+    content: "✓";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #4d7192;
+    color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+/* Continue shopping button styling */
+.woocommerce-message .button.wc-forward {
+    display: inline-block;
+    background-color: #4d7192;
+    color: #ffffff;
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 12px;
+    transition: all 0.3s ease;
+    border: 2px solid #4d7192;
+    position: relative;
+    overflow: hidden;
+}
+
+.woocommerce-message .button.wc-forward:hover {
+    background-color: #6689a2;
+    border-color: #6689a2;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(77, 113, 146, 0.3);
+    color: #ffffff;
+}
+
+.woocommerce-message .button.wc-forward:active {
+    background-color: #345a82;
+    border-color: #345a82;
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(52, 90, 130, 0.2);
+}
+
+.woocommerce-message .button.wc-forward:focus {
+    outline: 3px solid #87bdd8;
+    outline-offset: 2px;
+    border-radius: 6px;
+}
+
+/* Error message styling */
+.woocommerce-error {
+    background-color: #fef7f7;
+    border: 1px solid #e74c3c;
+    border-left: 4px solid #e74c3c;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 0 0 20px 0;
+    color: #c0392b;
+    font-size: 14px;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    animation: slideInDown 0.4s ease-out;
+}
+
+.woocommerce-error::before {
+    content: "✕";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+/* Info message styling */
+.woocommerce-info {
+    background-color: #f7f9fc;
+    border: 1px solid #7ea0b1;
+    border-left: 4px solid #7ea0b1;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 0 0 20px 0;
+    color: #345a82;
+    font-size: 14px;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    animation: slideInDown 0.4s ease-out;
+}
+
+.woocommerce-info::before {
+    content: "ⓘ";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #7ea0b1;
+    color: #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+/* Animation for notices */
+@keyframes slideInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .woocommerce-notices-wrapper {
+        margin: 15px 0;
+        padding: 0 10px;
+    }
+    
+    .woocommerce-message,
+    .woocommerce-error,
+    .woocommerce-info {
+        padding: 14px 16px;
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    
+    .woocommerce-message .button.wc-forward {
+        display: block;
+        margin: 10px 0 0 0;
+        text-align: center;
+        width: 100%;
+        max-width: 200px;
+    }
+    
+    .woocommerce-message::before,
+    .woocommerce-error::before,
+    .woocommerce-info::before {
+        width: 18px;
+        height: 18px;
+        line-height: 18px;
+        font-size: 11px;
+        margin-right: 10px;
+    }
+}
+
+/* Additional styling for multiple notices */
+.woocommerce-notices-wrapper .woocommerce-message + .woocommerce-message,
+.woocommerce-notices-wrapper .woocommerce-error + .woocommerce-error,
+.woocommerce-notices-wrapper .woocommerce-info + .woocommerce-info {
+    margin-top: -10px;
+}
+
+/* Close button for notices (if needed) */
+.woocommerce-notice-dismiss {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    color: #345a82;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 4px;
+    line-height: 1;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.woocommerce-notice-dismiss:hover {
+    opacity: 1;
+}
+
+.woocommerce-notice-dismiss:focus {
+    outline: 2px solid #345a82;
+    outline-offset: 1px;
+    border-radius: 2px;
+}
