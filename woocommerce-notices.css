@@ -1,0 +1,365 @@
+/* WooCommerce Notices Styling - Matching Theme */
+.woocommerce-notices-wrapper {
+    margin: 1.5rem 0;
+    padding: 0;
+    position: relative;
+    z-index: 100;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.woocommerce-message {
+    background-color: #f0f4f8; /* Light background matching trusted platform section */
+    border: 1px solid #4d7192; /* Accent color border */
+    border-left: 5px solid #345a82; /* Primary color left border, matching trusted platform */
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin: 0 0 1.5rem 0;
+    color: #345a82; /* Primary color text */
+    font-size: 0.875rem; /* Matching footer font size */
+    line-height: 1.6; /* Matching hero text line height */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Matching trusted platform shadow */
+    position: relative;
+    animation: fadeInUp 0.8s ease-out forwards; /* Matching hero animation */
+    display: flex;
+    align-items: center; /* Align icon, text, and button vertically */
+    flex-wrap: wrap;
+    gap: 0.5rem; /* Add consistent spacing between elements */
+}
+
+/* Success/confirmation styling with icon */
+.woocommerce-message::before {
+    content: "✓";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background-color: #345a82; /* Primary color */
+    color: #ffffff;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700; /* Matching hero title weight */
+    margin-right: 0; /* Remove margin as gap handles spacing */
+    flex-shrink: 0; /* Prevent icon from shrinking */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Continue shopping button styling - matching contact button */
+.woocommerce-message .button.wc-forward {
+    display: inline-block;
+    background-color: #4d7192; /* Matching contact button color */
+    color: #ffffff;
+    padding: 0.75rem 1.5rem; /* Matching hero button padding */
+    border-radius: 8px; /* Matching hero button radius */
+    text-decoration: none;
+    font-size: 0.875rem; /* Consistent with footer */
+    font-weight: 600; /* Matching contact button weight */
+    margin-left: auto; /* Push button to the right */
+    transition: all 0.3s ease; /* Matching hero button transition */
+    border: 2px solid #4d7192;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Matching logo slider shadow */
+    flex-shrink: 0; /* Prevent button from shrinking */
+    white-space: nowrap; /* Prevent button text from wrapping */
+}
+
+.woocommerce-message .button.wc-forward:hover {
+    background-color: #6689a2; /* Matching contact button hover */
+    border-color: #6689a2;
+    transform: translateY(-2px); /* Matching hero button hover effect */
+    box-shadow: 0 8px 20px rgba(77, 113, 146, 0.3); /* Matching hero button shadow */
+    color: #ffffff;
+}
+
+.woocommerce-message .button.wc-forward:active {
+    background-color: #345a82; /* Matching contact button active */
+    border-color: #345a82;
+    transform: translateY(0);
+    box-shadow: 0 4px 10px rgba(52, 90, 130, 0.2);
+}
+
+.woocommerce-message .button.wc-forward:focus {
+    outline: 3px solid #87bdd8; /* Matching hero button focus */
+    outline-offset: 2px;
+    border-radius: 8px;
+}
+
+.woocommerce-message .button.wc-forward:visited {
+    color: #ffffff; /* Ensuring visited state maintains white text */
+}
+
+/* Error message styling */
+.woocommerce-error {
+    background-color: #fef7f7;
+    border: 1px solid #e74c3c;
+    border-left: 5px solid #c0392b; /* Matching border style */
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin: 0 0 1.5rem 0;
+    color: #c0392b;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    animation: fadeInUp 0.8s ease-out forwards;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none; /* Remove default list styling */
+}
+
+/* Error message as list styling */
+.woocommerce-error.woocommerce-error {
+    padding-left: 1.5rem; /* Reset padding for list version */
+}
+
+.woocommerce-error::before {
+    content: "✕";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 0;
+    flex-shrink: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    align-self: flex-start; /* Align icon to top for multi-line content */
+    margin-top: 0.1rem; /* Fine-tune vertical alignment */
+}
+
+/* Error list item styling */
+.woocommerce-error li {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    flex: 1; /* Take remaining space */
+}
+
+/* View cart button in error messages */
+.woocommerce-error .button.wc-forward {
+    display: inline-block;
+    background-color: #e74c3c; /* Error red color */
+    color: #ffffff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-left: auto;
+    transition: all 0.3s ease;
+    border: 2px solid #e74c3c;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.woocommerce-error .button.wc-forward:hover {
+    background-color: #c0392b; /* Darker red on hover */
+    border-color: #c0392b;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(231, 76, 60, 0.3);
+    color: #ffffff;
+}
+
+.woocommerce-error .button.wc-forward:active {
+    background-color: #a93226; /* Even darker red on active */
+    border-color: #a93226;
+    transform: translateY(0);
+    box-shadow: 0 4px 10px rgba(169, 50, 38, 0.2);
+}
+
+.woocommerce-error .button.wc-forward:focus {
+    outline: 3px solid #f1948a; /* Light red focus outline */
+    outline-offset: 2px;
+    border-radius: 8px;
+}
+
+.woocommerce-error .button.wc-forward:visited {
+    color: #ffffff;
+}
+
+/* Info message styling */
+.woocommerce-info {
+    background-color: #f0f4f8; /* Matching trusted platform background */
+    border: 1px solid #7ea0b1; /* Accent color */
+    border-left: 5px solid #4d7192; /* Secondary accent */
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin: 0 0 1.5rem 0;
+    color: #345a82; /* Primary color text */
+    font-size: 0.875rem;
+    line-height: 1.6;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    animation: fadeInUp 0.8s ease-out forwards;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.woocommerce-info::before {
+    content: "ⓘ";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    background-color: #4d7192; /* Secondary accent */
+    color: #ffffff;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 0;
+    flex-shrink: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Animation matching hero section */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive design matching theme breakpoints */
+@media (max-width: 768px) {
+    .woocommerce-notices-wrapper {
+        margin: 1rem 0;
+        padding: 0 1rem; /* Matching mobile padding */
+    }
+    
+    .woocommerce-message,
+    .woocommerce-error,
+    .woocommerce-info {
+        padding: 1rem;
+        font-size: 0.875rem;
+        margin-bottom: 1rem;
+    }
+    
+    .woocommerce-message,
+    .woocommerce-error,
+    .woocommerce-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .woocommerce-message .button.wc-forward,
+    .woocommerce-error .button.wc-forward {
+        display: block;
+        margin: 0;
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+        max-width: 280px; /* Matching hero button max-width */
+    }
+    
+    .woocommerce-error li {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        width: 100%;
+    }
+    
+    .woocommerce-message::before,
+    .woocommerce-error::before,
+    .woocommerce-info::before {
+        width: 20px;
+        height: 20px;
+        font-size: 12px;
+        margin-right: 0;
+    }
+}
+
+/* Additional styling for multiple notices */
+.woocommerce-notices-wrapper .woocommerce-message + .woocommerce-message,
+.woocommerce-notices-wrapper .woocommerce-error + .woocommerce-error,
+.woocommerce-notices-wrapper .woocommerce-info + .woocommerce-info {
+    margin-top: -0.75rem; /* Slight overlap for multiple notices */
+}
+
+/* Close button for notices (optional) */
+.woocommerce-notice-dismiss {
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: #345a82; /* Primary color */
+    font-size: 1.125rem;
+    cursor: pointer;
+    padding: 0.25rem;
+    line-height: 1;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.woocommerce-notice-dismiss:hover {
+    opacity: 1;
+    background-color: rgba(52, 90, 130, 0.1);
+}
+
+.woocommerce-notice-dismiss:focus {
+    outline: 2px solid #345a82;
+    outline-offset: 1px;
+    border-radius: 50%;
+}
+
+/* Integration with site header spacing */
+body.admin-bar .woocommerce-notices-wrapper {
+    margin-top: 2rem; /* Extra spacing when admin bar is present */
+}
+
+/* Ensure notices don't interfere with fixed header */
+.site-header + .woocommerce-notices-wrapper,
+main .woocommerce-notices-wrapper:first-child {
+    margin-top: 1rem;
+}
+
+/* Links within notices matching theme link styling */
+.woocommerce-message a:not(.button),
+.woocommerce-error a:not(.button),
+.woocommerce-info a:not(.button) {
+    color: #345a82; /* Primary color */
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.woocommerce-message a:not(.button):hover,
+.woocommerce-error a:not(.button):hover,
+.woocommerce-info a:not(.button):hover {
+    color: #4d7192; /* Hover color matching theme */
+}
+
+.woocommerce-message a:not(.button):focus,
+.woocommerce-error a:not(.button):focus,
+.woocommerce-info a:not(.button):focus {
+    outline: 2px solid #345a82;
+    outline-offset: 1px;
+    border-radius: 2px;
+}
