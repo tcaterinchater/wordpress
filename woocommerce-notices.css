@@ -108,6 +108,12 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 0.5rem;
+    list-style: none; /* Remove default list styling */
+}
+
+/* Error message as list styling */
+.woocommerce-error.woocommerce-error {
+    padding-left: 1.5rem; /* Reset padding for list version */
 }
 
 .woocommerce-error::before {
@@ -125,6 +131,65 @@
     margin-right: 0;
     flex-shrink: 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    align-self: flex-start; /* Align icon to top for multi-line content */
+    margin-top: 0.1rem; /* Fine-tune vertical alignment */
+}
+
+/* Error list item styling */
+.woocommerce-error li {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    flex: 1; /* Take remaining space */
+}
+
+/* View cart button in error messages */
+.woocommerce-error .button.wc-forward {
+    display: inline-block;
+    background-color: #e74c3c; /* Error red color */
+    color: #ffffff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-left: auto;
+    transition: all 0.3s ease;
+    border: 2px solid #e74c3c;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+.woocommerce-error .button.wc-forward:hover {
+    background-color: #c0392b; /* Darker red on hover */
+    border-color: #c0392b;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(231, 76, 60, 0.3);
+    color: #ffffff;
+}
+
+.woocommerce-error .button.wc-forward:active {
+    background-color: #a93226; /* Even darker red on active */
+    border-color: #a93226;
+    transform: translateY(0);
+    box-shadow: 0 4px 10px rgba(169, 50, 38, 0.2);
+}
+
+.woocommerce-error .button.wc-forward:focus {
+    outline: 3px solid #f1948a; /* Light red focus outline */
+    outline-offset: 2px;
+    border-radius: 8px;
+}
+
+.woocommerce-error .button.wc-forward:visited {
+    color: #ffffff;
 }
 
 /* Info message styling */
@@ -190,19 +255,29 @@
         margin-bottom: 1rem;
     }
     
-    .woocommerce-message {
+    .woocommerce-message,
+    .woocommerce-error,
+    .woocommerce-info {
         flex-direction: column;
         align-items: flex-start;
         gap: 1rem;
     }
     
-    .woocommerce-message .button.wc-forward {
+    .woocommerce-message .button.wc-forward,
+    .woocommerce-error .button.wc-forward {
         display: block;
         margin: 0;
         margin-left: 0;
         text-align: center;
         width: 100%;
         max-width: 280px; /* Matching hero button max-width */
+    }
+    
+    .woocommerce-error li {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        width: 100%;
     }
     
     .woocommerce-message::before,
