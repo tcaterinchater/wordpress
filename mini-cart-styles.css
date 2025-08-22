@@ -1,0 +1,390 @@
+/* Mini Cart Popup Styling - Matching Theme */
+.header-cart-popup {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #ffffff;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    min-width: 350px;
+    max-width: 400px;
+    display: none;
+    animation: fadeInUp 0.3s ease-out;
+}
+
+.header-cart-popup.open {
+    display: block;
+}
+
+.header-cart-inner {
+    padding: 1.5rem;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+/* Mini Cart Widget Styling */
+.widget_shopping_cart_content {
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+/* Mini Cart Items */
+.woocommerce-mini-cart {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.woocommerce-mini-cart .mini_cart_item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid #f0f4f8;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.woocommerce-mini-cart .mini_cart_item:last-child {
+    border-bottom: none;
+}
+
+.woocommerce-mini-cart .mini_cart_item:hover {
+    background-color: #f9f9f9;
+    margin: 0 -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 4px;
+}
+
+/* Product Image */
+.woocommerce-mini-cart .mini_cart_item img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+}
+
+/* Product Details */
+.woocommerce-mini-cart .mini_cart_item .product-details {
+    flex: 1;
+    min-width: 0;
+}
+
+.woocommerce-mini-cart .mini_cart_item a:not(.remove) {
+    color: #345a82;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.woocommerce-mini-cart .mini_cart_item a:not(.remove):hover {
+    color: #4d7192;
+}
+
+/* Quantity and Price */
+.woocommerce-mini-cart .quantity {
+    color: #666;
+    font-size: 0.8125rem;
+    margin: 0.25rem 0;
+}
+
+.woocommerce-mini-cart .amount {
+    color: #345a82;
+    font-weight: 600;
+    font-size: 0.875rem;
+}
+
+/* Remove Button */
+.woocommerce-mini-cart .remove {
+    position: absolute;
+    top: 0.5rem;
+    right: 0;
+    width: 24px;
+    height: 24px;
+    background-color: #e74c3c;
+    color: #ffffff !important;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.woocommerce-mini-cart .remove:hover {
+    background-color: #c0392b;
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(231, 76, 60, 0.3);
+}
+
+.woocommerce-mini-cart .remove:active {
+    transform: scale(0.95);
+}
+
+.woocommerce-mini-cart .remove:focus {
+    outline: 2px solid #f1948a;
+    outline-offset: 2px;
+}
+
+/* Loading State */
+.mini_cart_item.removing {
+    opacity: 0.5;
+    pointer-events: none;
+    position: relative;
+}
+
+.mini_cart_item.removing::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid #4d7192;
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Empty Cart Message */
+.woocommerce-mini-cart__empty-message {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+    padding: 2rem 1rem;
+}
+
+/* Cart Total */
+.woocommerce-mini-cart__total {
+    border-top: 2px solid #f0f4f8;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: #345a82;
+}
+
+.woocommerce-mini-cart__total .amount {
+    font-size: 1.125rem;
+    color: #345a82;
+}
+
+/* Cart Buttons */
+.woocommerce-mini-cart__buttons {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.75rem;
+    flex-direction: column;
+}
+
+.woocommerce-mini-cart__buttons a {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.woocommerce-mini-cart__buttons .button.checkout {
+    background-color: #4d7192;
+    color: #ffffff;
+    border-color: #4d7192;
+}
+
+.woocommerce-mini-cart__buttons .button.checkout:hover {
+    background-color: #6689a2;
+    border-color: #6689a2;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(77, 113, 146, 0.3);
+}
+
+.woocommerce-mini-cart__buttons .button.wc-forward {
+    background-color: transparent;
+    color: #4d7192;
+    border-color: #4d7192;
+}
+
+.woocommerce-mini-cart__buttons .button.wc-forward:hover {
+    background-color: #4d7192;
+    color: #ffffff;
+    transform: translateY(-2px);
+}
+
+/* Cart Toggle Button */
+.header-cart-toggle {
+    position: relative;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+    color: #345a82;
+    transition: color 0.3s ease;
+}
+
+.header-cart-toggle:hover {
+    color: #4d7192;
+}
+
+/* Cart Count Badge */
+.cart-count,
+.cart-counter,
+.header-cart-count {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    min-width: 20px;
+}
+
+.cart-count:empty,
+.cart-counter:empty,
+.header-cart-count:empty {
+    display: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header-cart-popup {
+        position: fixed;
+        top: 80px; /* Account for fixed header */
+        left: 1rem;
+        right: 1rem;
+        width: auto;
+        min-width: auto;
+        max-width: none;
+    }
+    
+    .header-cart-inner {
+        max-height: calc(100vh - 200px);
+    }
+    
+    .woocommerce-mini-cart .mini_cart_item {
+        gap: 0.75rem;
+    }
+    
+    .woocommerce-mini-cart .mini_cart_item img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .woocommerce-mini-cart__buttons {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
+
+/* Animation for cart popup */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Accessibility improvements */
+.header-cart-popup:focus-within {
+    outline: 2px solid #345a82;
+    outline-offset: 2px;
+}
+
+/* Custom scrollbar for cart items */
+.header-cart-inner::-webkit-scrollbar {
+    width: 6px;
+}
+
+.header-cart-inner::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.header-cart-inner::-webkit-scrollbar-thumb {
+    background: #4d7192;
+    border-radius: 3px;
+}
+
+.header-cart-inner::-webkit-scrollbar-thumb:hover {
+    background: #345a82;
+}
+
+/* Ensure proper z-index layering */
+.header-cart-popup {
+    z-index: 999999;
+}
+
+/* Fix for WooCommerce default styling conflicts */
+.woocommerce .header-cart-popup .button {
+    margin: 0;
+}
+
+.woocommerce .header-cart-popup .amount {
+    color: #345a82;
+}
+
+/* Loading state for entire cart */
+.header-cart-popup.loading {
+    pointer-events: none;
+}
+
+.header-cart-popup.loading::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.8);
+    z-index: 1;
+}
+
+.header-cart-popup.loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    margin: -15px 0 0 -15px;
+    border: 3px solid #4d7192;
+    border-top: 3px solid transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    z-index: 2;
+}
