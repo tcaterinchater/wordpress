@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Wait for Action Scheduler to be ready
-add_action( 'plugins_loaded', 'aee_init_plugin' );
+add_action( 'plugins_loaded', 'aee_init_plugin', 20 );
 
 function aee_init_plugin() {
 	// Only proceed if Action Scheduler is available
@@ -22,14 +22,21 @@ function aee_init_plugin() {
 		return;
 	}
 	
-	// Schedule the job after Action Scheduler is ready
-	aee_setup_scheduled_events();
+	// Schedule the job after Action Scheduler is ready, but wait for init to ensure data store is ready
+	add_action( 'init', 'aee_setup_scheduled_events', 20 );
 }
 
 /**
  * Setup scheduled events using Action Scheduler
  */
 function aee_setup_scheduled_events() {
+	// Ensure Action Scheduler is available and data store is initialized
+	if ( ! function_exists( 'as_next_scheduled_action' ) || ! did_action( 'action_scheduler_init' ) ) {
+		// Try again later if Action Scheduler isn't ready
+		add_action( 'action_scheduler_init', 'aee_setup_scheduled_events' );
+		return;
+	}
+	
 	// Check if our daily event is already scheduled
 	if ( ! as_next_scheduled_action( 'aee_daily_time_check' ) ) {
 		// Schedule daily at 11:55 PM EST
@@ -66,11 +73,10 @@ register_activation_hook( __FILE__, function() {
 add_action( 'init', function() {
 	if ( get_option( 'aee_needs_setup' ) ) {
 		delete_option( 'aee_needs_setup' );
-		if ( function_exists( 'as_next_scheduled_action' ) ) {
-			aee_setup_scheduled_events();
-		}
+		// The setup will be handled by the improved aee_setup_scheduled_events function
+		aee_setup_scheduled_events();
 	}
-});
+}, 30 );
 
 register_deactivation_hook( __FILE__, function() {
 	// Clear Action Scheduler events
@@ -212,10 +218,10 @@ function generate_and_send_vault_job_csv( $manual = false ) {
 		$full_year_end_date = $current_year . '-06-30';
 		$half_year_end_date = $half_membership_current_year . '-12-31';
 
-		// Prepare the query with proper escaping
+		// Prepare the query with proper escaping and table prefixes
 		$query = $wpdb->prepare("
 		SELECT 
-			wp_posts.ID, 
+			{$wpdb->posts}.ID, 
 			order_key.meta_value AS order_key_value, 
 			order_total.meta_value AS order_total_value, 
 			user_data.meta_value AS customer_user_id,
@@ -225,25 +231,25 @@ function generate_and_send_vault_job_csv( $manual = false ) {
 			Parent_auto_renewed_order.meta_value AS auto_renewed_order_value, 
 			Parent_postmeta_payment_method.meta_value AS parent_payment_method,
 			Parent_postmeta_card.meta_value AS parent_payment_method_title
-		FROM `wp_posts` 
-		LEFT JOIN `wp_postmeta` AS `order_key` ON `wp_posts`.`ID`=`order_key`.`post_id` AND `order_key`.`meta_key` = '_order_key'  
-		LEFT JOIN `wp_postmeta` AS `order_total` ON `wp_posts`.`ID`=`order_total`.`post_id` AND `order_total`.`meta_key` = '_order_total'  
-		LEFT JOIN `wp_postmeta` AS `user_data` ON `wp_posts`.`ID`=`user_data`.`post_id` AND `user_data`.`meta_key` = '_customer_user'  
-		LEFT JOIN `wp_posts` AS Parent_post ON Parent_post.ID = wp_posts.post_parent
-		LEFT JOIN `wp_postmeta` AS `Parent_auto_renewed_order` ON `Parent_post`.`ID`=`Parent_auto_renewed_order`.`post_id` AND `Parent_auto_renewed_order`.`meta_key` = 'auto_renewed_order'  
-		LEFT JOIN `wp_postmeta` AS Parent_postmeta_payment_method ON `Parent_post`.`ID`=`Parent_postmeta_payment_method`.`post_id` AND `Parent_postmeta_payment_method`.`meta_key` = '_payment_method'
-		LEFT JOIN `wp_postmeta` AS Parent_postmeta_card ON `Parent_post`.`ID`=`Parent_postmeta_card`.`post_id` AND `Parent_postmeta_card`.`meta_key` = '_payment_method_title'
-		INNER JOIN wp_woocommerce_order_items AS i ON i.order_id = Parent_post.ID
-		INNER JOIN wp_woocommerce_order_itemmeta AS oi ON i.order_item_id = oi.order_item_id 
-		LEFT JOIN wp_postmeta Product_expiry ON Product_expiry.post_id = oi.meta_value AND Product_expiry.meta_key = 'product_end_date'
-		WHERE wp_posts.ID NOT IN (
-			SELECT m1.post_id FROM wp_moneris_scheduled_payments m1 
-			LEFT JOIN wp_moneris_scheduled_payments m2 ON (m1.post_id = m2.post_id AND m1.id < m2.id) 
+		FROM {$wpdb->posts} 
+		LEFT JOIN {$wpdb->postmeta} AS order_key ON {$wpdb->posts}.ID = order_key.post_id AND order_key.meta_key = '_order_key'  
+		LEFT JOIN {$wpdb->postmeta} AS order_total ON {$wpdb->posts}.ID = order_total.post_id AND order_total.meta_key = '_order_total'  
+		LEFT JOIN {$wpdb->postmeta} AS user_data ON {$wpdb->posts}.ID = user_data.post_id AND user_data.meta_key = '_customer_user'  
+		LEFT JOIN {$wpdb->posts} AS Parent_post ON Parent_post.ID = {$wpdb->posts}.post_parent
+		LEFT JOIN {$wpdb->postmeta} AS Parent_auto_renewed_order ON Parent_post.ID = Parent_auto_renewed_order.post_id AND Parent_auto_renewed_order.meta_key = 'auto_renewed_order'  
+		LEFT JOIN {$wpdb->postmeta} AS Parent_postmeta_payment_method ON Parent_post.ID = Parent_postmeta_payment_method.post_id AND Parent_postmeta_payment_method.meta_key = '_payment_method'
+		LEFT JOIN {$wpdb->postmeta} AS Parent_postmeta_card ON Parent_post.ID = Parent_postmeta_card.post_id AND Parent_postmeta_card.meta_key = '_payment_method_title'
+		INNER JOIN {$wpdb->prefix}woocommerce_order_items AS i ON i.order_id = Parent_post.ID
+		INNER JOIN {$wpdb->prefix}woocommerce_order_itemmeta AS oi ON i.order_item_id = oi.order_item_id 
+		LEFT JOIN {$wpdb->postmeta} AS Product_expiry ON Product_expiry.post_id = oi.meta_value AND Product_expiry.meta_key = 'product_end_date'
+		WHERE {$wpdb->posts}.ID NOT IN (
+			SELECT m1.post_id FROM {$wpdb->prefix}moneris_scheduled_payments m1 
+			LEFT JOIN {$wpdb->prefix}moneris_scheduled_payments m2 ON (m1.post_id = m2.post_id AND m1.id < m2.id) 
 			WHERE m2.id IS NULL AND CAST(m1.created AS DATE) > %s
 		)
-		AND wp_posts.post_status IN ('wc-scheduled-payment', 'wc-pending-deposit','wc-nsf','wc-failed')
-		AND wp_posts.post_type = 'shop_order'
-		AND CAST(wp_posts.post_date AS DATE) <= %s
+		AND {$wpdb->posts}.post_status IN ('wc-scheduled-payment', 'wc-pending-deposit','wc-nsf','wc-failed')
+		AND {$wpdb->posts}.post_type = 'shop_order'
+		AND CAST({$wpdb->posts}.post_date AS DATE) <= %s
 		AND (Parent_auto_renewed_order.meta_key IS NULL OR Parent_auto_renewed_order.meta_value = '' OR Parent_auto_renewed_order.meta_value = 0)
 		AND Parent_postmeta_payment_method.meta_value = 'moneris'
 		AND user_data.meta_value IS NOT NULL
@@ -255,6 +261,12 @@ function generate_and_send_vault_job_csv( $manual = false ) {
 		", $days_15_ago_date, date( 'Y-m-d' ), $full_year_end_date, $half_year_end_date, '%sig%');
 
 		$results = $wpdb->get_results( $query, ARRAY_A );
+
+		// Log any database errors
+		if ( $wpdb->last_error ) {
+			error_log( 'AEE: Database error in vault job query: ' . $wpdb->last_error );
+			return false;
+		}
 
 		if ( empty( $results ) ) {
 			$log_msg = $manual ? 'Manual trigger: No results for vault job CSV.' : 'Scheduled: No results for vault job CSV.';
