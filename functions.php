@@ -962,7 +962,17 @@ function create_plesk_account_on_subscription($subscription, $new_status, $old_s
                 $webspace_exists = check_plesk_webspace_exists($domain_name);
                 
                 if ($webspace_exists) {
-                    error_log("Webspace for domain {$domain_name} already exists. Skipping creation.");
+                    error_log("Webspace for domain {$domain_name} already exists. Updating credentials and meta data.");
+                    
+                    // Update FTP credentials for existing webspace
+                    $update_result = update_plesk_webspace_ftp_credentials($domain_name, $ftp_username, $ftp_password);
+                    
+                    if ($update_result['success']) {
+                        error_log("Successfully updated FTP credentials for existing webspace: {$domain_name}");
+                    } else {
+                        error_log("Failed to update FTP credentials for webspace: {$domain_name} - " . $update_result['message']);
+                    }
+                    
                     // Update subscription meta with existing data
                     update_subscription_meta_with_existing_data($subscription, $domain_name, $ftp_username, $ftp_password, $plesk_login_url);
                     continue;
@@ -1287,6 +1297,78 @@ function update_subscription_meta_with_existing_data($subscription, $domain_name
 
         $subscription->save();
         error_log("Updated subscription meta with existing webspace data for: {$domain_name}");
+    }
+}
+
+/**
+ * Update FTP credentials for existing webspace
+ */
+function update_plesk_webspace_ftp_credentials($domain_name, $ftp_username, $ftp_password) {
+    $plesk_username = 'admin';
+    $plesk_password = 'GKpJhzmqe09o%@9j';
+    $plesk_endpoint = 'https://3.82.33.92:8443/enterprise/control/agent.php';
+    
+    $xml = '<?xml version="1.0"?>
+    <packet version="1.6.3.0">
+        <webspace>
+            <set>
+                <filter>
+                    <name>' . htmlspecialchars($domain_name) . '</name>
+                </filter>
+                <values>
+                    <hosting>
+                        <vrt_hst>
+                            <property>
+                                <name>ftp_login</name>
+                                <value>' . htmlspecialchars($ftp_username) . '</value>
+                            </property>
+                            <property>
+                                <name>ftp_password</name>
+                                <value>' . htmlspecialchars($ftp_password) . '</value>
+                            </property>
+                        </vrt_hst>
+                    </hosting>
+                </values>
+            </set>
+        </webspace>
+    </packet>';
+
+    $response = wp_remote_post($plesk_endpoint, array(
+        'headers' => array(
+            'Content-Type' => 'text/xml',
+            'HTTP_AUTH_LOGIN' => $plesk_username,
+            'HTTP_AUTH_PASSWD' => $plesk_password,
+        ),
+        'body' => $xml,
+        'timeout' => 60,
+        'sslverify' => false,
+    ));
+
+    if (is_wp_error($response)) {
+        return [
+            'success' => false,
+            'message' => 'Plesk API request failed: ' . $response->get_error_message()
+        ];
+    }
+
+    $response_body = wp_remote_retrieve_body($response);
+    $xml_response = simplexml_load_string($response_body);
+    
+    if (isset($xml_response->webspace->set->result->status) && 
+        (string)$xml_response->webspace->set->result->status === 'ok') {
+        
+        return [
+            'success' => true,
+            'message' => 'FTP credentials updated successfully'
+        ];
+    } else {
+        $error_message = isset($xml_response->webspace->set->result->errtext) ? 
+            (string)$xml_response->webspace->set->result->errtext : 'Unknown error';
+        
+        return [
+            'success' => false,
+            'message' => 'FTP credentials update failed: ' . $error_message
+        ];
     }
 }
 
