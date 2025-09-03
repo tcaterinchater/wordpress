@@ -1,0 +1,145 @@
+/* Block Editor Styles for CryptoTax Slider */
+
+.wp-block-cryptotax-slider {
+  margin: 1rem 0;
+}
+
+/* Editor Preview Styles */
+.cryptotax-slider-editor {
+  border: 2px dashed #ddd;
+  padding: 2rem;
+  text-align: center;
+  background: #f9f9f9;
+  border-radius: 8px;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cryptotax-slider-editor h3 {
+  color: var(--cryptotax-deep-blue);
+  margin-bottom: 1rem;
+}
+
+.cryptotax-slider-editor p {
+  color: var(--cryptotax-medium-gray);
+  margin-bottom: 1rem;
+}
+
+/* Inspector Controls Styles */
+.cryptotax-slider-inspector {
+  padding: 1rem;
+}
+
+.cryptotax-slider-inspector .components-panel__body {
+  border-top: 1px solid #e2e4e7;
+}
+
+.cryptotax-slider-inspector .components-base-control {
+  margin-bottom: 1rem;
+}
+
+/* Slide Item Editor */
+.cryptotax-slide-editor {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background: white;
+}
+
+.cryptotax-slide-editor .components-base-control {
+  margin-bottom: 0.75rem;
+}
+
+.cryptotax-slide-editor .components-button {
+  margin-top: 0.5rem;
+}
+
+/* Add Slide Button */
+.cryptotax-add-slide {
+  width: 100%;
+  padding: 1rem;
+  border: 2px dashed var(--cryptotax-deep-blue);
+  background: transparent;
+  color: var(--cryptotax-deep-blue);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cryptotax-add-slide:hover {
+  background: var(--cryptotax-deep-blue);
+  color: white;
+}
+
+/* Media Upload Button */
+.cryptotax-media-upload {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px;
+  border: 2px dashed #ddd;
+  border-radius: 4px;
+  background: #f9f9f9;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cryptotax-media-upload:hover {
+  border-color: var(--cryptotax-deep-blue);
+  background: rgba(0, 67, 255, 0.05);
+}
+
+.cryptotax-media-upload img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Toggle Controls */
+.cryptotax-toggle-control {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+}
+
+/* Range Controls */
+.cryptotax-range-control {
+  margin: 1rem 0;
+}
+
+.cryptotax-range-control .components-range-control__wrapper {
+  margin-left: 0;
+}
+
+/* Color Palette */
+.cryptotax-color-palette {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.cryptotax-color-item {
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.cryptotax-color-item:hover,
+.cryptotax-color-item.active {
+  border-color: #333;
+  transform: scale(1.1);
+}
+
+.cryptotax-color-item.deep-blue { background: #0043FF; }
+.cryptotax-color-item.purple { background: #A370F1; }
+.cryptotax-color-item.cyan { background: #4BF2E6; }
+.cryptotax-color-item.bright-blue { background: #0065FF; }
