@@ -1,0 +1,147 @@
+/*
+Theme Name: CryptoTax Theme
+Description: A custom WordPress theme for CryptoTax with branded colors and custom slider block
+Version: 1.0
+Author: CryptoTax Team
+*/
+
+/* CryptoTax Custom Colors - Based on Logo */
+
+/* Import the color palette */
+@import url('./assets/css/cryptotax-color-palette.css');
+
+/* Override theme colors with CryptoTax brand colors */
+:root {
+  /* Primary Colors */
+  --paletteColor1: #0043FF; /* Deep Blue */
+  --paletteColor2: #A370F1; /* Purple */
+  --paletteColor3: #4BF2E6; /* Cyan */
+  --paletteColor4: #0065FF; /* Bright Blue */
+  --paletteColor5: #EEEEEE; /* Light Gray */
+  --paletteColor6: #777777; /* Medium Gray */
+  --paletteColor7: #333333; /* Dark Gray */
+  --paletteColor8: #FFFFFF; /* White */
+}
+
+/* Header and Navigation */
+.site-header {
+  background: linear-gradient(135deg, #0043FF 0%, #A370F1 100%);
+}
+
+.main-navigation a {
+  color: #EEEEEE;
+}
+
+.main-navigation a:hover {
+  color: #4BF2E6;
+}
+
+/* Buttons */
+.wp-block-button__link,
+.button,
+.btn {
+  background: linear-gradient(135deg, #0043FF 0%, #A370F1 100%);
+  color: #FFFFFF;
+  border: none;
+}
+
+.wp-block-button__link:hover,
+.button:hover,
+.btn:hover {
+  background: linear-gradient(135deg, #4BF2E6 0%, #0065FF 100%);
+  color: #FFFFFF;
+}
+
+/* Secondary Buttons */
+.wp-block-button.is-style-outline .wp-block-button__link {
+  border: 2px solid #0043FF;
+  color: #0043FF;
+  background: transparent;
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+  background: #0043FF;
+  color: #FFFFFF;
+}
+
+/* Links */
+a {
+  color: #0065FF;
+}
+
+a:hover {
+  color: #0043FF;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #333333;
+}
+
+/* Text */
+body {
+  color: #333333;
+}
+
+/* Accent Elements */
+.accent-color {
+  color: #4BF2E6;
+}
+
+.accent-bg {
+  background-color: #4BF2E6;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #333333;
+  color: #EEEEEE;
+}
+
+.site-footer a {
+  color: #4BF2E6;
+}
+
+.site-footer a:hover {
+  color: #FFFFFF;
+}
+
+/* Cards and Content Blocks */
+.wp-block-group,
+.wp-block-columns {
+  border-color: #E9ECEF;
+}
+
+/* Form Elements */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+  border-color: #CED4DA;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+select:focus {
+  border-color: #0043FF;
+  box-shadow: 0 0 0 2px rgba(0, 67, 255, 0.2);
+}
+
+/* Custom Brand Elements */
+.cryptotax-gradient {
+  background: linear-gradient(135deg, #0043FF 0%, #A370F1 100%);
+}
+
+.cryptotax-gradient-cyan {
+  background: linear-gradient(135deg, #4BF2E6 0%, #0065FF 100%);
+}
+
+.cryptotax-text-gradient {
+  background: linear-gradient(135deg, #0043FF 0%, #A370F1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

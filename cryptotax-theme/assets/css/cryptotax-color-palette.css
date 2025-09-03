@@ -1,0 +1,22 @@
+/* CryptoTax Color Palette */
+:root {
+  /* Primary Brand Colors */
+  --cryptotax-deep-blue: #0043FF;
+  --cryptotax-purple: #A370F1;
+  --cryptotax-cyan: #4BF2E6;
+  --cryptotax-bright-blue: #0065FF;
+  
+  /* Neutral Colors */
+  --cryptotax-light-gray: #EEEEEE;
+  --cryptotax-medium-gray: #777777;
+  --cryptotax-dark-gray: #333333;
+  --cryptotax-white: #FFFFFF;
+  
+  /* Gradient Combinations */
+  --cryptotax-primary-gradient: linear-gradient(135deg, #0043FF 0%, #A370F1 100%);
+  --cryptotax-secondary-gradient: linear-gradient(135deg, #4BF2E6 0%, #0065FF 100%);
+  
+  /* Shadow and Effects */
+  --cryptotax-shadow: 0 4px 15px rgba(0, 67, 255, 0.1);
+  --cryptotax-shadow-hover: 0 8px 25px rgba(0, 67, 255, 0.2);
+}
