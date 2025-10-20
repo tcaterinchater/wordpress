@@ -89,19 +89,19 @@ function processTransactionsForForm8949WithExchanges($pdo, $tax_year, $form_type
     $end_date = $tax_year . '-12-31 23:59:59';
     
     // Build query conditions
-    $where_conditions = ['userid = 1', 'datetime >= ?', 'datetime <= ?'];
+    $where_conditions = ['t.userid = 1', 't.datetime >= ?', 't.datetime <= ?'];
     $params = [$start_date, $end_date];
     
     // Filter by selected exchanges
     if (!empty($selected_exchanges)) {
         $placeholders = str_repeat('?,', count($selected_exchanges) - 1) . '?';
-        $where_conditions[] = "exchange_id IN ($placeholders)";
+        $where_conditions[] = "t.exchange_id IN ($placeholders)";
         $params = array_merge($params, $selected_exchanges);
     }
     
     // Include manual transactions if requested
     if (!$include_manual_transactions) {
-        $where_conditions[] = "exchange_id IS NOT NULL";
+        $where_conditions[] = "t.exchange_id IS NOT NULL";
     }
     
     $where_sql = implode(' AND ', $where_conditions);
