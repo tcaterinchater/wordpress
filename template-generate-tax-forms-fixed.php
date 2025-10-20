@@ -88,29 +88,15 @@ function processTransactionsForForm8949WithExchanges($pdo, $tax_year, $form_type
     $end_date = $tax_year . '-12-31 23:59:59';
     
     // Build query conditions
-    $where_conditions = ['t.userid = 1', 't.datetime >= ?', 't.datetime <= ?'];
+    $where_conditions = ['userid = 1', 'datetime >= ?', 'datetime <= ?'];
     $params = [$start_date, $end_date];
-    
-    // Filter by selected exchanges
-    if (!empty($selected_exchanges)) {
-        $placeholders = str_repeat('?,', count($selected_exchanges) - 1) . '?';
-        $where_conditions[] = "t.exchange_id IN ($placeholders)";
-        $params = array_merge($params, $selected_exchanges);
-    }
-    
-    // Include manual transactions if requested
-    if (!$include_manual_transactions) {
-        $where_conditions[] = "t.exchange_id IS NOT NULL";
-    }
     
     $where_sql = implode(' AND ', $where_conditions);
     
     // Get all transactions for the tax year
-    $sql = "SELECT t.*, e.exchangename, e.cost_basis_method as exchange_cost_method 
-            FROM vd_user_transactions t 
-            LEFT JOIN vd_user_exchanges e ON t.exchange_id = e.id 
+    $sql = "SELECT * FROM vd_user_transactions 
             WHERE $where_sql 
-            ORDER BY t.datetime ASC";
+            ORDER BY datetime ASC";
     
     $stmt = $pdo->prepare($sql);
     $stmt->execute($params);
@@ -121,8 +107,9 @@ function processTransactionsForForm8949WithExchanges($pdo, $tax_year, $form_type
     $sales = [];
     
     foreach ($all_transactions as $transaction) {
-        $exchange_name = $transaction['exchangename'] ?: 'Manual Entry';
-        $exchange_cost_method = $transaction['exchange_cost_method'] ?: $global_cost_basis_method;
+        // For now, treat all transactions as manual entries since we don't have exchange_id
+        $exchange_name = 'Manual Entry';
+        $exchange_cost_method = $global_cost_basis_method;
         
         // Check for purchases (bought side)
         if ($transaction['w_status'] === 'Buy' && $transaction['w_total'] > 0) {
@@ -162,8 +149,8 @@ function processTransactionsForForm8949WithExchanges($pdo, $tax_year, $form_type
         $amount_sold = $sale['amount'];
         $proceeds = $amount_sold * $sale['price_per_unit'];
         
-        // Calculate cost basis using exchange-specific method
-        $cost_basis = calculateExchangeSpecificCostBasis($asset, $amount_sold, $purchases, $sale['exchange_cost_method'], $sale['exchange_name']);
+        // Calculate cost basis using global method
+        $cost_basis = calculateCostBasisAdvanced($asset, $amount_sold, $purchases, $sale['exchange_cost_method']);
         
         $gain_loss = $proceeds - $cost_basis;
         
@@ -190,18 +177,11 @@ function processTransactionsForForm8949WithExchanges($pdo, $tax_year, $form_type
     return $form_8949_data;
 }
 
-// Calculate exchange-specific cost basis
-function calculateExchangeSpecificCostBasis($asset, $amount_sold, $purchases, $method, $exchange_name) {
-    $asset_purchases = array_filter($purchases, function($purchase) use ($asset, $exchange_name) {
-        return $purchase['asset'] === $asset && $purchase['exchange_name'] === $exchange_name;
+// Calculate cost basis using specified method
+function calculateCostBasisAdvanced($asset, $amount_sold, $purchases, $method) {
+    $asset_purchases = array_filter($purchases, function($purchase) use ($asset) {
+        return $purchase['asset'] === $asset;
     });
-    
-    if (empty($asset_purchases)) {
-        // Fallback to global method if no exchange-specific purchases
-        $asset_purchases = array_filter($purchases, function($purchase) use ($asset) {
-            return $purchase['asset'] === $asset;
-        });
-    }
     
     if (empty($asset_purchases)) {
         return $amount_sold * 0.8; // Fallback estimate
@@ -958,33 +938,10 @@ $form_types = [
                 </div>
             </div>
 
-            <!-- Exchange Selection -->
-            <?php if (!empty($user_exchanges)): ?>
-                <div class="exchange-selection">
-                    <h4>🏦 Select Exchanges to Include</h4>
-                    <div class="exchange-checkboxes">
-                        <?php foreach ($user_exchanges as $exchange): ?>
-                            <div class="exchange-checkbox-item">
-                                <input type="checkbox" 
-                                       name="selected_exchanges[]" 
-                                       value="<?php echo $exchange['id']; ?>" 
-                                       id="exchange_<?php echo $exchange['id']; ?>"
-                                       <?php echo in_array($exchange['id'], $selected_exchanges) ? 'checked' : ''; ?>>
-                                <label for="exchange_<?php echo $exchange['id']; ?>">
-                                    <?php echo htmlspecialchars($exchange['exchangename']); ?>
-                                    <div class="exchange-method">
-                                        Method: <?php echo htmlspecialchars($exchange['cost_basis_method'] ?: 'Default'); ?>
-                                    </div>
-                                </label>
-                            </div>
-                        <?php endforeach; ?>
-                    </div>
-                </div>
-            <?php else: ?>
-                <div class="alert alert-info">
-                    ℹ️ No exchanges found. <a href="add-exchanges.php">Add exchanges</a> to sync transactions automatically.
-                </div>
-            <?php endif; ?>
+            <!-- Note about exchange integration -->
+            <div class="alert alert-info">
+                ℹ️ <strong>Note:</strong> Exchange integration requires the <code>exchange_id</code> column in the transactions table. Currently processing all transactions as manual entries.
+            </div>
 
             <div class="form-group">
                 <label>
@@ -1027,17 +984,17 @@ $form_types = [
             </div>
         </div>
 
-        <!-- Exchange Breakdown -->
-        <?php if (!empty($summary['by_exchange'])): ?>
+        <!-- Asset Breakdown -->
+        <?php if (!empty($summary['by_asset'])): ?>
             <div class="breakdown-section">
                 <div class="breakdown-header">
-                    <h3>🏦 Breakdown by Exchange</h3>
+                    <h3>💰 Breakdown by Asset</h3>
                 </div>
                 <div class="breakdown-content">
-                    <?php foreach ($summary['by_exchange'] as $exchange => $data): ?>
+                    <?php foreach ($summary['by_asset'] as $asset => $data): ?>
                         <div class="breakdown-item">
                             <div class="breakdown-item-header">
-                                <div class="breakdown-item-name"><?php echo htmlspecialchars($exchange); ?></div>
+                                <div class="breakdown-item-name"><?php echo htmlspecialchars($asset); ?></div>
                                 <div class="breakdown-item-count"><?php echo $data['count']; ?> transactions</div>
                             </div>
                             <div class="breakdown-item-totals">
@@ -1084,7 +1041,7 @@ $form_types = [
                             <th style="width: 12%;">Proceeds</th>
                             <th style="width: 12%;">Cost Basis</th>
                             <th style="width: 12%;">Gain/Loss</th>
-                            <th style="width: 15%;">Exchange</th>
+                            <th style="width: 15%;">Cost Method</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -1100,7 +1057,6 @@ $form_types = [
                                 $<?php echo number_format($transaction['gain_loss'], 2); ?>
                             </td>
                             <td>
-                                <span class="exchange-badge"><?php echo htmlspecialchars($transaction['exchange_name']); ?></span>
                                 <span class="method-badge"><?php echo htmlspecialchars($transaction['cost_method']); ?></span>
                             </td>
                         </tr>
@@ -1133,10 +1089,10 @@ $form_types = [
             return;
         }
         
-        let csv = 'Date Acquired,Date Sold,Description,Amount Sold,Proceeds,Cost Basis,Gain/Loss,Exchange,Cost Method\n';
+        let csv = 'Date Acquired,Date Sold,Description,Amount Sold,Proceeds,Cost Basis,Gain/Loss,Cost Method\n';
         
         formData.forEach(transaction => {
-            csv += `"${transaction.date_acquired}","${transaction.date_sold}","${transaction.description}","${transaction.amount_sold}","${transaction.proceeds}","${transaction.cost_basis}","${transaction.gain_loss}","${transaction.exchange_name}","${transaction.cost_method}"\n`;
+            csv += `"${transaction.date_acquired}","${transaction.date_sold}","${transaction.description}","${transaction.amount_sold}","${transaction.proceeds}","${transaction.cost_basis}","${transaction.gain_loss}","${transaction.cost_method}"\n`;
         });
         
         // Add summary data
@@ -1146,11 +1102,11 @@ $form_types = [
         csv += `Total Cost Basis,${summary.total_cost_basis}\n`;
         csv += `Total Gain/Loss,${summary.total_gain_loss}\n`;
         
-        // Add exchange breakdown
-        csv += '\n\nExchange Breakdown\n';
-        csv += 'Exchange,Count,Proceeds,Cost Basis,Gain/Loss\n';
-        Object.entries(summary.by_exchange || {}).forEach(([exchange, data]) => {
-            csv += `"${exchange}","${data.count}","${data.proceeds}","${data.cost_basis}","${data.gain_loss}"\n`;
+        // Add asset breakdown
+        csv += '\n\nAsset Breakdown\n';
+        csv += 'Asset,Count,Proceeds,Cost Basis,Gain/Loss\n';
+        Object.entries(summary.by_asset || {}).forEach(([asset, data]) => {
+            csv += `"${asset}","${data.count}","${data.proceeds}","${data.cost_basis}","${data.gain_loss}"\n`;
         });
         
         // Download CSV
@@ -1175,31 +1131,15 @@ $form_types = [
         });
     }, 5000);
 
-    // Select all functionality
-    document.addEventListener('DOMContentLoaded', function() {
-        // Select all exchanges
-        const selectAllBtn = document.createElement('button');
-        selectAllBtn.type = 'button';
-        selectAllBtn.className = 'btn btn-secondary';
-        selectAllBtn.textContent = 'Select All Exchanges';
-        selectAllBtn.style.marginBottom = '10px';
-        
-        const exchangeSelection = document.querySelector('.exchange-selection');
-        if (exchangeSelection) {
-            exchangeSelection.insertBefore(selectAllBtn, exchangeSelection.querySelector('.exchange-checkboxes'));
-            
-            selectAllBtn.addEventListener('click', function() {
-                const checkboxes = document.querySelectorAll('input[name="selected_exchanges[]"]');
-                const allChecked = Array.from(checkboxes).every(cb => cb.checked);
-                
-                checkboxes.forEach(cb => {
-                    cb.checked = !allChecked;
-                });
-                
-                selectAllBtn.textContent = allChecked ? 'Select All Exchanges' : 'Deselect All Exchanges';
-            });
-        }
-    });
+    // Auto-hide alerts after 5 seconds
+    setTimeout(function() {
+        const alerts = document.querySelectorAll('.alert');
+        alerts.forEach(alert => {
+            alert.style.transition = 'opacity 0.3s ease';
+            alert.style.opacity = '0';
+            setTimeout(() => alert.remove(), 300);
+        });
+    }, 5000);
 </script>
 
 <?php include get_stylesheet_directory() . '/dashboard/footer-dashboard.php'; ?>
