@@ -1,0 +1,337 @@
+/* Contact Form CSS - Custom for Your HTML Structure */
+
+/* Main container */
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+}
+
+/* Form wrapper */
+.contact-form__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Form heading */
+.form-item--heading {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.form__heading {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0;
+  letter-spacing: -0.025em;
+  text-transform: capitalize;
+}
+
+/* Form fields */
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-field label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Input styling */
+.contactFormText,
+.contactFormEmail,
+.contactFormPhone,
+.contactFormMessage {
+  width: 100%;
+  padding: 0.875rem 1rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  background-color: #ffffff;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.contactFormText:focus,
+.contactFormEmail:focus,
+.contactFormPhone:focus,
+.contactFormMessage:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+  background-color: #fefefe;
+}
+
+.contactFormText:hover,
+.contactFormEmail:hover,
+.contactFormPhone:hover,
+.contactFormMessage:hover {
+  border-color: #d1d5db;
+}
+
+/* Textarea specific styling */
+.contactFormMessage {
+  min-height: 120px;
+  resize: vertical;
+  font-family: inherit;
+  line-height: 1.5;
+}
+
+/* Submit button */
+.btn {
+  padding: 0.875rem 2rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn--solid {
+  color: white;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.btn--primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+}
+
+.btn:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.3);
+}
+
+/* Loading state */
+.btn--loading {
+  color: transparent;
+  pointer-events: none;
+}
+
+.btn--loading::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+  border: 2px solid transparent;
+  border-top: 2px solid #ffffff;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Form validation states */
+.form-field--error input,
+.form-field--error textarea {
+  border-color: #ef4444;
+  background-color: #fef2f2;
+}
+
+.form-field--error input:focus,
+.form-field--error textarea:focus {
+  box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.1);
+}
+
+.form-field--success input,
+.form-field--success textarea {
+  border-color: #10b981;
+  background-color: #f0fdf4;
+}
+
+/* Error messages */
+.form-field__error {
+  color: #ef4444;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.form-field__error::before {
+  content: "⚠";
+  font-size: 0.75rem;
+}
+
+/* Success message */
+.form__success {
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .contact-form {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 8px;
+  }
+  
+  .form__heading {
+    font-size: 1.875rem;
+  }
+  
+  .contactFormText,
+  .contactFormEmail,
+  .contactFormPhone,
+  .contactFormMessage,
+  .btn {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+  
+  .contact-form__wrapper {
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-form {
+    margin: 0.5rem;
+    padding: 1rem;
+  }
+  
+  .form__heading {
+    font-size: 1.5rem;
+  }
+  
+  .btn {
+    padding: 1rem;
+  }
+}
+
+/* Dark theme support */
+@media (prefers-color-scheme: dark) {
+  .contact-form {
+    background: #1f2937;
+    color: #f9fafb;
+  }
+  
+  .form__heading {
+    color: #f9fafb;
+  }
+  
+  .form-field label {
+    color: #d1d5db;
+  }
+  
+  .contactFormText,
+  .contactFormEmail,
+  .contactFormPhone,
+  .contactFormMessage {
+    background-color: #374151;
+    border-color: #4b5563;
+    color: #f9fafb;
+  }
+  
+  .contactFormText:focus,
+  .contactFormEmail:focus,
+  .contactFormPhone:focus,
+  .contactFormMessage:focus {
+    background-color: #4b5563;
+    border-color: #60a5fa;
+  }
+  
+  .contactFormText::placeholder,
+  .contactFormEmail::placeholder,
+  .contactFormPhone::placeholder,
+  .contactFormMessage::placeholder {
+    color: #9ca3af;
+  }
+}
+
+/* Accessibility improvements */
+.contactFormText:focus-visible,
+.contactFormEmail:focus-visible,
+.contactFormPhone:focus-visible,
+.contactFormMessage:focus-visible,
+.btn:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .contactFormText,
+  .contactFormEmail,
+  .contactFormPhone,
+  .contactFormMessage {
+    border-width: 3px;
+  }
+  
+  .btn--solid {
+    border: 2px solid #000;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .contactFormText,
+  .contactFormEmail,
+  .contactFormPhone,
+  .contactFormMessage,
+  .btn {
+    transition: none;
+  }
+  
+  .btn--loading::after {
+    animation: none;
+  }
+  
+  .btn:hover {
+    transform: none;
+  }
+}
+
+/* Print styles */
+@media print {
+  .contact-form {
+    box-shadow: none;
+    border: 1px solid #000;
+  }
+  
+  .btn {
+    display: none;
+  }
+}
